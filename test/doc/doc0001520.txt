@@ -1,0 +1,4 @@
+Translation of Turner combinators in O(n log n) space
+The Univ. of Electro-Communications, Tokyo, Japan
+1985
+Information Processing Letters

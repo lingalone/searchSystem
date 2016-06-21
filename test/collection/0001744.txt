@@ -1,0 +1,1 @@
+A query language allowing conditions of relational type in queries

@@ -1,0 +1,4 @@
+Optimal prepaging and font caching
+Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

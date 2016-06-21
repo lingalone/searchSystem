@@ -1,0 +1,4 @@
+Database hosting in strongly-typed programming languages
+Univ. Karlsruhe, Karlsruhe, W. Germany;Univ. Karlsruhe, Karlsruhe, W. Germany
+1985
+ACM Transactions on Database Systems (TODS)

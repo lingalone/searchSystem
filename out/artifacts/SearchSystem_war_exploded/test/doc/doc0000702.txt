@@ -1,0 +1,4 @@
+Gauss codes, planar Hamiltonian graphs, and stack-sortable permutations
+Centre de Mathematique Sociale, Paris, France;AT&T Bell Laboratories, Murray Hill, NJ
+1984
+Journal of Algorithms

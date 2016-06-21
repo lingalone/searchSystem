@@ -1,0 +1,4 @@
+A general user interface for creating and displaying tree-structures, hierarchies, decision trees, and nested menus
+Bell Laboratories, Holmdel, NJ;Bell Laboratories, Holmdel, NJ;Bell Laboratories, Holmdel, NJ
+1984
+Proc. of the NYU symposium on user interfaces on Human factors and interactive computer systems

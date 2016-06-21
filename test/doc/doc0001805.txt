@@ -1,0 +1,4 @@
+The complexity of finding minimum-length generator sequences
+Univ. of Edinburgh, Edinburgh, UK
+1985
+Theoretical Computer Science

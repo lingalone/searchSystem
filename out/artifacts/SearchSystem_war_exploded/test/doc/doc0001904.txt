@@ -1,0 +1,4 @@
+Towards a Theory of Forward Error Recovery
+Univ. of Tunis, Campus Universitaire, Tunisia
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

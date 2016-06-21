@@ -1,0 +1,4 @@
+ORBIT: a tool for building AI systems in an object-oriented style
+Schlumberger-Doll Research, Ridgefield, CT
+1984
+Proc. of the international NATO symposium on Artificial and human intelligence

@@ -1,0 +1,4 @@
+On the design of data abstraction mechanisms for compiler description languages1)
+Technische Univ. Munchen, Munich, West Germany
+1983
+Proc. IFIP working conference on Programming Languages and System Design

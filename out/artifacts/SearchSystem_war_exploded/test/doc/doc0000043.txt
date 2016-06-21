@@ -1,0 +1,4 @@
+Comparing PASCAL and MODULA-2 as systems programming languages
+Univ. van Amsterdam, Plantage Muidergracht, Amsterdam
+1983
+Proc. IFIP working conference on Programming Languages and System Design

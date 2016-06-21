@@ -1,0 +1,4 @@
+Efficient Storage Management for Temporary Values in Concurrent Programming Languages
+Univ. of Pittsburgh, Pittsburgh, PA;Univ. of Pittsburgh, Pittsburgh, PA;Univ. of Pittsburgh, Pittsburgh, PA
+1985
+IEEE Transactions on Computers

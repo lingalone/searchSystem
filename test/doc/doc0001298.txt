@@ -1,0 +1,4 @@
+An algorithm for local compaction of horizontal microprograms
+Metal Box India Ltd., Kharagpur, India;Indian Institute of Technology, Kharagpur, India
+1985
+Information Processing Letters - The British Computer Society workshop series

@@ -1,0 +1,1 @@
+Languages with self-reference I: foundations (or: we can have everything in first-order logic])

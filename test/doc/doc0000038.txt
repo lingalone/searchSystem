@@ -1,0 +1,4 @@
+Experience with abstract data type specifications in a compiler project
+-;-
+1983
+Proc. IFIP working conference on Programming Languages and System Design

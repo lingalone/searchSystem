@@ -1,0 +1,4 @@
+Tree pushdown automata
+Univ. of California, Santa Cruz;Univ. of Pennsylvania, Philadelphia
+1985
+Journal of Computer and System Sciences

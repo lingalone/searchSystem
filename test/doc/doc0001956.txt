@@ -1,0 +1,4 @@
+Fault-Tolerant Routing in DeBruijn Comrnunication Networks
+Michigan State Univ., East Lansing;Northwestern Univ., Evanston, IL
+1985
+IEEE Transactions on Computers

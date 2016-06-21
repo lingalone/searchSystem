@@ -1,0 +1,4 @@
+Formal Specification of User Interfaces: A Comparison and Evaluation of Four Axiomatic Approaches
+Univ. of Washington, Seattle
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

@@ -1,0 +1,4 @@
+An investigation of the utility of flowcharts during computer program debugging
+The Univ. of Sheffield, UK;Univ. of Nottingham, Nottingham, UK
+1984
+International Journal of Man-Machine Studies

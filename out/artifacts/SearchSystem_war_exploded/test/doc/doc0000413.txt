@@ -1,0 +1,4 @@
+A semantics of multiple inheritance.
+AT & T Bell Labs., Murray Hill, NJ
+1984
+Proc. of the international symposium on Semantics of data types

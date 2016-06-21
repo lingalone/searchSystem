@@ -1,0 +1,4 @@
+VAX/VMS internals and data structures
+Digital Equipment Corp.;Tandem Computers Inc.
+1984
+VAX/VMS internals and data structures

@@ -1,0 +1,4 @@
+Translation of entity-relationship diagrams into relational structures
+University of Missouri, Columbia;University of Missouri, Columbia
+1984
+Journal of Systems and Software - Special double issue on the entity-relationship approach to databases and related software

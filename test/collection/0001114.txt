@@ -1,0 +1,1 @@
+Asserting the optimality of serial SJRPs in processing simple queries in chain networks

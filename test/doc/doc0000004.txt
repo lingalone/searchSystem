@@ -1,0 +1,4 @@
+Another view of functional and multivalued dependencies in the relational database model
+Univ. of Antwerp, Wilrijk, Belgium;-
+1984
+International Journal of Parallel Programming

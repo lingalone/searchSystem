@@ -1,0 +1,4 @@
+A block QR algorithm for partitioning stiff differential systems.
+Linko¨ping Univ., Linko:0Aiping, Sweden
+1983
+BIT

@@ -1,0 +1,1 @@
+A reorganization model based on the database entropy concept.

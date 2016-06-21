@@ -1,0 +1,4 @@
+Cylindrical algebraic decomposition I: the basic algorithm
+Xerox PARC, Palo Alto, CA;Univ. of Wisconsin-Madison, Madison;Univ. of Toronto, Toronto, Ont., Canada
+1984
+SIAM Journal on Computing

@@ -1,0 +1,1 @@
+Computational implementation of the multivariate Halley method for solving nonlinear systems of equations

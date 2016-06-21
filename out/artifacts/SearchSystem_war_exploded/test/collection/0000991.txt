@@ -1,0 +1,1 @@
+Parallel language recognition in constant time by cellular automata.

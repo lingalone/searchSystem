@@ -1,0 +1,4 @@
+Application debugging: an MVS ABEND handbook for COBOL, ASSEMBLY, PL/I, and FORTRAN programmers
+-
+1985
+Application debugging: an MVS ABEND handbook for COBOL, ASSEMBLY, PL/I, and FORTRAN programmers

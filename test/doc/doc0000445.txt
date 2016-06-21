@@ -1,0 +1,4 @@
+Functional dependencies in relations with null values
+Consiglio Nazionale delle Richerche, Roma, Italy;Universita di Roma, Roma, Italy
+1984
+Information Processing Letters

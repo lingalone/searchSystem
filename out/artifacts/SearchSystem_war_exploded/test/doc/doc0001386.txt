@@ -1,0 +1,4 @@
+Detecting global variables in denotational specifications
+Iowa State Univ., Ames
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

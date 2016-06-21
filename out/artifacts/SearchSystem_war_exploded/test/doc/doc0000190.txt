@@ -1,0 +1,4 @@
+Reduction graphs in the lambda calculus
+IAC, Roma, Italy
+1984
+Theoretical Computer Science

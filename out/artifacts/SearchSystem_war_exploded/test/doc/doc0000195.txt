@@ -1,0 +1,4 @@
+On solving almost block diagonal (staircase) linear systems
+AERE Harwell Laboratory, Oxon, UK;Queen's Univ., Belfast, Northern Ireland
+1984
+ACM Transactions on Mathematical Software (TOMS)

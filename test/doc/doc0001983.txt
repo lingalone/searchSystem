@@ -1,0 +1,4 @@
+Performance enhancements to a relational database system
+-;-;-;-;-;-
+1986
+The INGRES papers: anatomy of a relational database system

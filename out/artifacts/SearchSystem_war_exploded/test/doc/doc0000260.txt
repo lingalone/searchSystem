@@ -1,0 +1,4 @@
+Connections between two theories of concurrency: metric spaces and synchronization trees
+University of Michigan, Ann Arbor, MI;University of Michigan, Ann Arbor, MI
+1984
+Information and Control

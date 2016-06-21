@@ -1,0 +1,4 @@
+Fast algorithms constructing minimal subalgebras, congruences, and ideals in a finite algebra
+Technical Univ. of Prague, Prague, Czechoslovakia;Technical Univ. of Prague, Prague, Czechoslovakia;Technical Univ. of Prague, Prague, Czechoslovakia
+1985
+Theoretical Computer Science

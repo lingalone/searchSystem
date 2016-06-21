@@ -1,0 +1,4 @@
+Algorithms for on-the-fly garbage collection
+Tel Aviv University
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

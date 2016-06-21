@@ -1,0 +1,4 @@
+Pattern matching machine implementation of a fast test for unique decipherability
+Rensselaer Polytechnic Institute, Troy, NY;University of Salerno, Salerno, Italy
+1984
+Information Processing Letters

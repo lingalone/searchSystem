@@ -1,0 +1,4 @@
+A weakest precondition semantics for communicating processes
+Illinois Institute of Technology, Chicago;T. J. Watson Research Center, Yorktown Heights, NY
+1984
+Theoretical Computer Science

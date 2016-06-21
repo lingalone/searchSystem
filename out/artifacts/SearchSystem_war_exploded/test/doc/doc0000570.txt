@@ -1,0 +1,4 @@
+A natural proof system based on rewriting techniques
+General Electric Research and Development Center, Schenectady, NY;General Electric Research and Development Center, Schenectady, NY
+1984
+Proc. of the conference on 7th international conference on automated deduction

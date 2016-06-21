@@ -1,0 +1,4 @@
+CIRCAL and the representation of communication, concurrency, and time
+Univ. of Edinburgh, Edinburgh, Scotland
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

@@ -1,0 +1,4 @@
+Mental poker with three or more players
+C.O.R.E. Universite Catholique de Louvain, Belgium;Hungarian Academy of Sciences, Budapest, Hungary
+1984
+Information and Control

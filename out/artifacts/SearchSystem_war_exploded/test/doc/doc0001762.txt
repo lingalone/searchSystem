@@ -1,0 +1,4 @@
+Application of SQL/N to the attribute-relation associations implicit in functional dependencies
+Univ. of Calgary, Calgary, Alberta, Canada
+1983
+International Journal of Parallel Programming - Lecture notes in computer science, vol. 146

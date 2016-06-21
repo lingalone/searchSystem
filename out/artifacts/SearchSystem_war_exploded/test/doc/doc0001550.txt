@@ -1,0 +1,4 @@
+Implementation of a distributed CMBS on a minimum system
+Polytechnic Univ. of Catalonia, Barcelona, Spain;Polytechnic Univ. of Catalonia, Barcelona, Spain;Polytechnic Univ. of Catalonia, Barcelona, Spain;Polytechnic Univ. of Catalonia, Barcelona, Spain
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

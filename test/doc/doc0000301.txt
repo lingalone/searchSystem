@@ -1,0 +1,4 @@
+Estimating the length of minimal spanning trees in compression of files
+Univ. of Jyvaskyla, Jyvaskyla, Finland;Univ. of Turku, Turku, Finland
+1984
+BIT

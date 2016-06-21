@@ -1,0 +1,4 @@
+APAD: an application-adaptable database system - its architecture and design -
+Univ. of Tokyo, Japan;Univ. of Tokyo, Japan
+1982
+Physical structures and application on Database design techniques II

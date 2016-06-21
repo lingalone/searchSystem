@@ -1,0 +1,4 @@
+Anatomy of a text analysis package
+Univ. of Birmingham, Birmingham, UK
+1984
+Computer Languages

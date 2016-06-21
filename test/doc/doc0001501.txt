@@ -1,0 +1,4 @@
+Integrating the testing, analysis and debugging of programs
+Univ. of Colorado, Boulder
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

@@ -1,0 +1,4 @@
+Knowledge based systems versus thesaurus : an architecture problem about expert systems design
+Laboratoire Genie Informatique (IMAG), St Martin D'Heres Cedex, France
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

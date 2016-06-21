@@ -1,0 +1,4 @@
+A simple livelock-free algorithm for packet switching
+Tata Institute of Fundamental Research, Bombay, India
+1984
+Science of Computer Programming

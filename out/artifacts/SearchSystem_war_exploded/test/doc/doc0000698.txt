@@ -1,0 +1,4 @@
+An optimal contour algorithm for iso-oriented rectangles
+Universita¨t Dortmund, Dortmund, West Germany and McMaster Univ., Ontario,   Canada
+1984
+Journal of Algorithms

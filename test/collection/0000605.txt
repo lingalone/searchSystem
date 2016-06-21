@@ -1,0 +1,1 @@
+Choice of grammatical word-class without global syntactic analysis: tagging words in the LOB Corpus.

@@ -1,0 +1,4 @@
+Computer algebra applications
+IMAG, Grenoble, France;Twente Univ. of Technology, Enschede, The Netherlands
+2000
+on Computer algebra: symbolic and algebraic computation (2nd ed.)

@@ -1,0 +1,1 @@
+Efficient Implementations of the Chinese Remainder Theorem for Sign Detection and Residue Decoding

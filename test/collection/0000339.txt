@@ -1,0 +1,1 @@
+A database architecture for supporting business transactions

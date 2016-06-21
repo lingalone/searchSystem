@@ -1,0 +1,4 @@
+Digital filtering using the NEC &mgr;PD7720 signal processor
+Preston Polytechnic, Preston, UK;Preston Polytechnic, Preston, UK
+1984
+Microprocessing and Microprogramming

@@ -1,0 +1,4 @@
+Natural language query processing in a temporal database
+Purdue Univ., West Lafayette, IN;Purdue Univ., West Lafayette, IN;Purdue Univ., West Lafayette, IN
+1985
+Data & Knowledge Engineering

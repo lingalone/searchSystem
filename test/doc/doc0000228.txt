@@ -1,0 +1,4 @@
+Algorithms for adaptive Huffman codes
+-;McGill Univ., Montreal, Quebec, Canada
+1984
+Information Processing Letters

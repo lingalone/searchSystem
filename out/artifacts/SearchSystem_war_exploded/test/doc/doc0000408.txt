@@ -1,0 +1,4 @@
+A polymorphic type system for PROLOG.
+Edinburgh Univ., Edinburgh, UK;Edinburgh Univ., Edinburgh, UK
+1984
+Artificial Intelligence

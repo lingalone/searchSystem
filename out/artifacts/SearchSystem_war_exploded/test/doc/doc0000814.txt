@@ -1,0 +1,4 @@
+Synthesis of a unification algorithm in a logic programming calculus
+Uppsala Univ., Uppsala, Sweden
+1984
+Journal of Logic Programming

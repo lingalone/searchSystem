@@ -1,0 +1,4 @@
+ACTEN: A conceptual model for security systems design
+Politecnico di Milano, Milano, Italy;Politecnico di Milano, Milano, Italy
+1984
+Computers and Security

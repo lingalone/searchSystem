@@ -1,0 +1,4 @@
+A language for linking modules into systems
+Royal Institute of Technology, Stockholm, Sweden
+1985
+BIT

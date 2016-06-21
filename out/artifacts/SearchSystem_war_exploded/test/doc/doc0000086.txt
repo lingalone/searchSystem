@@ -1,0 +1,4 @@
+Best approximate circles on integer grids
+AT&T Bell Laboratories
+1983
+ACM Transactions on Graphics (TOG)

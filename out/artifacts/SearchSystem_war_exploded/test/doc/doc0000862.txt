@@ -1,0 +1,4 @@
+Models of the task assignment problem in distributed systems
+Univ. di Roma and C.N.R., Rome, Italy
+1984
+Algorithm design for computer system design

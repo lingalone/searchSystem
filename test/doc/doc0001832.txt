@@ -1,0 +1,4 @@
+Incremental linear interpolation
+Univ. of Waterloo, Waterloo, Ont., Canada
+1985
+ACM Transactions on Graphics (TOG)

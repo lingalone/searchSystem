@@ -1,0 +1,4 @@
+Probabilistic Turing machines and recursively enumerable Dedekind cuts
+Polish Academy of Sciences, Warsaw, Poland;Warsaw Univ., Warsaw, Poland
+1984
+Information Processing Letters

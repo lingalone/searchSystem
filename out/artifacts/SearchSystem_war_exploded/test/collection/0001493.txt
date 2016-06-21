@@ -1,0 +1,1 @@
+A polynomial time generator for minimal perfect hash functions

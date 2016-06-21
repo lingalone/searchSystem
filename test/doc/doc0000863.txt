@@ -1,0 +1,4 @@
+Network design with non simultaneous flows
+CNR, and Univ. di Roma, Rome, Italy;Consorzio per la Ricerca e le Applicazioni di Informatica, Rende, Italy
+1984
+Algorithm design for computer system design

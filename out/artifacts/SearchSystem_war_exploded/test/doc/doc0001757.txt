@@ -1,0 +1,4 @@
+File servers for network-based distributed systems
+IBM Zurich Research Laboratory, Ruschlikon, Switzerland
+1984
+ACM Computing Surveys (CSUR)

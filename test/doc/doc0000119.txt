@@ -1,0 +1,4 @@
+Algorithms for trie compaction
+Univ. of Southern California, CA;Univ. of Southern California, CA
+1984
+ACM Transactions on Database Systems (TODS)

@@ -1,0 +1,4 @@
+The technology of expert systems: transplanting expert knowledge to machines
+Univ. of Nebraska, Lincoln;Bolt Beranek and Newman Inc., Cambridge, MA
+1985
+BYTE - Lecture notes in computer science Vol. 174

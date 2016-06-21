@@ -1,0 +1,4 @@
+Parallel computation for well-endowed rings and space-bounded probabilistic machines
+University of Toronto, Toronto, Ont., Canada;University of Toronto, Toronto, Ont., Canada;IBM Corporation, San Jose, CA
+1984
+Information and Control

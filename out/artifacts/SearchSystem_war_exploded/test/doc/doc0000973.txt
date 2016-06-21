@@ -1,0 +1,4 @@
+Throughput concavity and response time convexity
+Vanderbilt Univ., Nashville, TN;Univ. of Toronto, Ontario, Canada;The MITRE Corporation, McLean, VA;Univ. of Regina, Saskatchewan, Canada
+1984
+Information Processing Letters

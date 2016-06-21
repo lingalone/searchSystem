@@ -1,0 +1,4 @@
+Extending State Transition Diagrams for the Specification of Human-Computer Interaction
+Univ. of California, San Francisco
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

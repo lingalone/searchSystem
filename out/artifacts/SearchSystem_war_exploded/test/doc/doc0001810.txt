@@ -1,0 +1,4 @@
+The category concept: an extension to the entity-relationship model
+Univ. of Houston, Houston, TX;Motorola Microsystems, Tempe, AZ;Univ. of Maryland, College Park
+1985
+Data & Knowledge Engineering

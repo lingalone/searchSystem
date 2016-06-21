@@ -1,0 +1,4 @@
+A data distortion by probability distribution
+Univ. of Oklahoma, Norman;Univ. of Oklahoma, Norman;Univ of Oklahoma, Norman
+1985
+ACM Transactions on Database Systems (TODS)

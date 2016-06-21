@@ -1,0 +1,4 @@
+Optimal parallel generation of a computation tree form
+Courant Institute of Mathematical Sciences;Tel Aviv Univ., Tel Aviv, Israel
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

@@ -1,0 +1,4 @@
+ALGLIB, a simple symbol-manipulation package
+Univ. of St. Andrews, St. Andrews, Fife, Scotland;Univ. of St. Andrews, St. Andrews, Fife, Scotland
+1985
+Communications of the ACM

@@ -1,0 +1,4 @@
+Optimizing chain queries in a distributed database system.
+Digital Equipment Corp., Hudson, MA;Harvard Univ., Cambridge, MA;Harvard Univ., Cambridge, MA
+1984
+SIAM Journal on Computing

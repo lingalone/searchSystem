@@ -1,0 +1,4 @@
+Attribute grammars : definitions, analysis of dependencies, proof methods
+Univ. Bordeaux I, Talence, France
+1984
+Methods and tools for compiler construction

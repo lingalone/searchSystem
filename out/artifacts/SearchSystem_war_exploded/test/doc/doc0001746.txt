@@ -1,0 +1,4 @@
+GALILEO: a strongly-typed, interactive conceptual language
+Univ. di Pisa, Pisa, Italy;AT&T Bell Laboratories, Murray Hill, NJ;Univ. di Pisa, Pisa, Italy
+1985
+ACM Transactions on Database Systems (TODS)

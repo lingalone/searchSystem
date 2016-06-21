@@ -1,0 +1,4 @@
+Computational implementation of the multivariate Halley method for solving nonlinear systems of equations
+Univ. of Antwerp, Belgium;Univ. of Wisconsin, Madison
+1985
+ACM Transactions on Mathematical Software (TOMS)

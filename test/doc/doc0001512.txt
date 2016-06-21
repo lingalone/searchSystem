@@ -1,0 +1,4 @@
+Comments on practical constraints of software validation techniques
+GMD, Schloss Birlinghoven, W. Germany
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

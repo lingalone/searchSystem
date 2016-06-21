@@ -1,0 +1,4 @@
+Concurrent Fault Detection in Microprogrammed Control Units
+IBM T. J. Watson Research Center, Yorktown Heights, NY;Univ. of Minnesota, Minneapolis
+1985
+IEEE Transactions on Computers

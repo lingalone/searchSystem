@@ -1,0 +1,4 @@
+Height-balanced trees of order (β, γ, δ)
+Univ. of Houston, Houston, TX
+1985
+ACM Transactions on Database Systems (TODS)

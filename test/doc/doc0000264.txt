@@ -1,0 +1,4 @@
+A Directly Executable Encoding for APL
+Simon Fraser University
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

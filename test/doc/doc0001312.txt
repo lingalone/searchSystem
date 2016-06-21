@@ -1,0 +1,4 @@
+An analysis of static metrics and faults in C software
+AT&T Bell Laboratories;AT&T Bell Laboratories;AT&T Bell Laboratories
+1985
+Journal of Systems and Software

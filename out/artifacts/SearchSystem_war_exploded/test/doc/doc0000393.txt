@@ -1,0 +1,4 @@
+Area-time optimal VLSI integer multiplier with minimum computation time
+Univ. der Saarlandes, Saarbru¨cken, West Germany;Univ. of Illinois, Urbana
+1984
+Information and Control

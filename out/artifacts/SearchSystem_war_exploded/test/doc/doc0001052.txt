@@ -1,0 +1,4 @@
+Analysis of interleaved storage via a constant-service queuing system with Markov-chain-driven input
+Technion-Israel Institute of Technology, Haifa, Israel
+1984
+Journal of the ACM (JACM)

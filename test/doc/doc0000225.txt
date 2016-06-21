@@ -1,0 +1,4 @@
+A fast VLSI conversion between binary and residue systems
+-;-;Consiglio Nazionale delle Ricerche, Pisa, Italy
+1984
+Information Processing Letters

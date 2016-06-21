@@ -1,0 +1,1 @@
+Handwriter identification from one-bit quantized pressure patterns

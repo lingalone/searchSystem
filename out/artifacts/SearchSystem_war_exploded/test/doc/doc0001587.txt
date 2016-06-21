@@ -1,0 +1,4 @@
+A syntactic method for image segmentation and object recognition
+Purdue Univ., W. Lafayette, IN;Purdue Univ., W. Lafayette, IN
+1985
+Pattern Recognition - Parallel and other image analysis methods

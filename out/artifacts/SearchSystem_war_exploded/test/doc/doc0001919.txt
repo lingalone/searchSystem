@@ -1,0 +1,4 @@
+The development of a specification language for a computer security system
+Rand Afrikaans Univ., Johannesburg, South Africa
+1985
+Computers and Security - Annals of discrete mathematics, 24

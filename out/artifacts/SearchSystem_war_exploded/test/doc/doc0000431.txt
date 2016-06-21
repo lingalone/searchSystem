@@ -1,0 +1,4 @@
+Scheduling independent 2-processor tasks to minimize schedule length
+Politechnika Poznanska, Poznan, Poland;Politechnika Poznanska, Poznan, Poland;Osrodek Badawczy Zjednoczenia MERA, Krakow, Poland
+1984
+Information Processing Letters - Lecture Notes in Computer Science, no. 173

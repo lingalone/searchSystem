@@ -1,0 +1,4 @@
+A query language allowing conditions of relational type in queries
+Polish Academy of Sciences, Warsaw, Poland
+1985
+Information Systems

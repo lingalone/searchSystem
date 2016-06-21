@@ -1,0 +1,4 @@
+Algorithmic theories of data structures
+Univ. of Warsaw, Warsaw, Poland
+1982
+on Automata, languages and programming

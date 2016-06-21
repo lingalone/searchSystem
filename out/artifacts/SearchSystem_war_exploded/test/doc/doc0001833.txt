@@ -1,0 +1,4 @@
+Markov chains and computer-aided geometric design: part I - problems and constraints
+Control Data Corporation, Arden Hills, MN
+1984
+ACM Transactions on Graphics (TOG)

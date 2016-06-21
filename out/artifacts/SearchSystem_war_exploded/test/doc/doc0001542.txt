@@ -1,0 +1,4 @@
+A reference model for command and response languages
+Hewlett-Packard Co., Palo Alto, CA
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

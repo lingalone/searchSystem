@@ -1,0 +1,4 @@
+Implementation of logical query languages for databases
+Stanford Univ., Stanford, CA
+1985
+ACM Transactions on Database Systems (TODS)

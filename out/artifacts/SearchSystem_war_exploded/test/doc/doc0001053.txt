@@ -1,0 +1,4 @@
+Parallel graph algorithms
+Washington State Univ., Pullman, WA;Washington State Univ., Pullman, WA
+1984
+ACM Computing Surveys (CSUR)

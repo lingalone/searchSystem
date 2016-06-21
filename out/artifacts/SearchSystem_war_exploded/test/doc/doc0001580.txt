@@ -1,0 +1,4 @@
+A mechanical solution of Schubert's steamroller by many-sorted resolution
+Univ. Karlsruhe, Karlsruhe, W. Germany
+1985
+Artificial Intelligence

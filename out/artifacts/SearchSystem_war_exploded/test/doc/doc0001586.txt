@@ -1,0 +1,4 @@
+Handwriter identification from one-bit quantized pressure patterns
+Univ. of Missouri at Columbia, Columbia;Univ. of Missouri at Columbia, Columbia
+1985
+Pattern Recognition - Parallel and other image analysis methods

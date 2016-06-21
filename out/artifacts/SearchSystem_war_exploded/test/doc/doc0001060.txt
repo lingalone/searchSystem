@@ -1,0 +1,4 @@
+An analysis of an approximation algorithm for queueing networks
+Univ. of Saskatchewan, Saskatchewan, Canada;Univ. of Toronto, Toronto, Canada
+1984
+Performance Evaluation

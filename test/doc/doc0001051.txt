@@ -1,0 +1,4 @@
+Probabilistic Models of Database Locking: Solutions, Computational Algorithms, and Asymptotics
+AT&T Bell Laboratories, Murray Hdl, New Jersey;AT&T Bell Laboratories, Murray Hdl, New Jersey
+1984
+Journal of the ACM (JACM)

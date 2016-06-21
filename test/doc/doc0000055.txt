@@ -1,0 +1,4 @@
+A supervised learning algorithm for hierarchical classification of fuzzy patterns
+Southern Methodis Univ., Dallas, TX;Indian Institute of Technology, Kharagpur, India
+1983
+Information Sciences: an International Journal

@@ -1,0 +1,4 @@
+A teletex based message handling server
+British Telecommunications, Newcastle Upon Tyne, UK;British Telecommunications, Newcastle Upon Tyne, UK
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

@@ -1,0 +1,4 @@
+Relevance feedback and a fuzzy set of search terms in an information retrieval system
+University College Dublin, Dublin, Ireland
+1984
+Information Technology Research Development Applications

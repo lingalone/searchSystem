@@ -1,0 +1,4 @@
+A theoretical analysis of backtracking in the graph coloring problem
+Univ. of California at San Diego, La Jolla;Univ. of Pennsylvania, Philadelphia
+1985
+Journal of Algorithms

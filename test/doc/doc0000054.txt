@@ -1,0 +1,4 @@
+Static grouping of small objects to enhance performance of a paged virtual memory
+Xerox Palo Alto Research Center, Palo Alto, CA
+1984
+ACM Transactions on Computer Systems (TOCS)

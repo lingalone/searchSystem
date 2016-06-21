@@ -1,0 +1,4 @@
+Optimal static load balancing in distributed computer systems
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY;Univ. of Massachusetts, Amherst
+1985
+Journal of the ACM (JACM)

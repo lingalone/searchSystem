@@ -1,0 +1,4 @@
+Detection of surface orientation and motion from texture by a stereoogical technique.
+Gunma, Japan
+1984
+Artificial Intelligence

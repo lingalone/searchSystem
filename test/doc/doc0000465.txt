@@ -1,0 +1,4 @@
+Attributed linear intermediate representations for retargetable code generators
+Stanford Univ., Stanford, CA;University of Wisconsin-Madison, Madison
+1984
+Software—Practice & Experience

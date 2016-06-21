@@ -1,0 +1,4 @@
+Patterns and pattern-matching in trees: an analysis
+Ecole Polytechnique, Palaiseau Cedex, France;INRIA Domaine de Voluceau Rocquencourt, Le Chesnay, France
+1984
+Information and Control

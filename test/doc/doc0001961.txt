@@ -1,0 +1,4 @@
+A Digital Orrery
+Columbia Univ., New York, NY;California Institute of Technology, Pasadena;Massachusetts Institute of Technology, Cambridge;California Institute of Technology, Pasadena;California Institute of Technology, Pasadena;Massachusetts Institute of Technology, Cambridge
+1985
+IEEE Transactions on Computers

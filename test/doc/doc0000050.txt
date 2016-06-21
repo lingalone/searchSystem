@@ -1,0 +1,4 @@
+Polymorphic programming languages: design and implementation
+Univ. of Glasgow, Glasgow, UK
+1984
+Polymorphic programming languages: design and implementation

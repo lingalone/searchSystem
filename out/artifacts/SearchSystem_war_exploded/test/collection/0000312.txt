@@ -1,0 +1,1 @@
+Stochastic modeling of individual resource consumption during the programming phase of software development

@@ -1,0 +1,4 @@
+PARAGON: a language using type hierarchies for the specification, implementation and selection of abstract data types
+Dartmouth College, Hanover, NH
+1985
+PARAGON: a language using type hierarchies for the specification, implementation and selection of abstract data types

@@ -1,0 +1,4 @@
+On the expected performance of path compression algorithms
+Stanford Univ., Stanford, CA
+1985
+SIAM Journal on Computing

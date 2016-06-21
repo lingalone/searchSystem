@@ -1,0 +1,4 @@
+Disk performance in a transaction-oriented system
+Bell Communications Research, Holmdel, NJ;IBM Scientific Center, Haifa, Israel
+1984
+SIAM Journal on Computing

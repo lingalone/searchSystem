@@ -1,0 +1,4 @@
+Efficient Schemes for Parallel Communication
+Instttute of Mathematics and Computer Science, The Hebrew Umversity, Jerusalem, Israel
+1984
+Journal of the ACM (JACM)

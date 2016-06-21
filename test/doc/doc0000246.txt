@@ -1,0 +1,4 @@
+Multiaccess in a nonqueueing mailbox environment
+-
+1984
+IEEE Transactions on Software Engineering

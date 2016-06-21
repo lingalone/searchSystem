@@ -1,0 +1,4 @@
+Generalized binary split trees
+Univ. of Houston, Houston, TX;IBM T.J. Watson Research Center, Yorktown Heights, NY
+1984
+Acta Informatica

@@ -1,0 +1,4 @@
+A kernel language for abstract data types and modules.
+Univ. of Edinburgh, Edinburgh, UK;Xerox Palo Alto Research center, Palo Alto, CA
+1984
+Proc. of the international symposium on Semantics of data types

@@ -1,0 +1,1 @@
+General multiple-objective decision functions and linguistically quantified statements

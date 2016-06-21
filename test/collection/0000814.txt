@@ -1,0 +1,1 @@
+Synthesis of a unification algorithm in a logic programming calculus

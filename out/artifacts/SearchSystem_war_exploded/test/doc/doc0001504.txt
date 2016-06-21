@@ -1,0 +1,4 @@
+Symbolic evaluation -- an aid to testing and verification
+Univ. of Massachusetts, Amherst;Univ. of Massachusetts, Amherst
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

@@ -1,0 +1,4 @@
+Towards monolingual programming environments
+Centre for Mathematics and Computer Science, Amsterdam, The Netherlands;Centre for Mathematics and Computer Science, Amsterdam, The Netherlands
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

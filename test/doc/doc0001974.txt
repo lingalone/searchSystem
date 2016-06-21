@@ -1,0 +1,4 @@
+Assembly language & systems programming for the IBM PC and compatibles
+Worcester Polytechnic Institute
+1985
+Assembly language & systems programming for the IBM PC and compatibles

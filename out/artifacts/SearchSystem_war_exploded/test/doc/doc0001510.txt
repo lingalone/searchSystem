@@ -1,0 +1,4 @@
+Knowledge-based programming: an overview of data and control structure refinement
+Univ. of California, Santa Cruz, and Kestrel Institute, Palo Alto, CA;Univ. of California, Santa Cruz, and Kestrel Institute, Palo Alto, CA
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

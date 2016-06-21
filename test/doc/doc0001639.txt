@@ -1,0 +1,4 @@
+Programs are predicates
+Oxford Univ., Oxford, UK
+1985
+Proc. of a discussion meeting of the Royal Society of London on Mathematical logic and programming languages

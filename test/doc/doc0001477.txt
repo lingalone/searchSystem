@@ -1,0 +1,4 @@
+Simulation of a distributed expert-based information provision mechanism
+The City Univ., London, UK;Free Univ., Berlin, Fed. Rep. Germany;Free Univ., Berlin, Fed. Rep. Germany
+1984
+Information Technology Research Development Applications - Lecture notes in computer science 178

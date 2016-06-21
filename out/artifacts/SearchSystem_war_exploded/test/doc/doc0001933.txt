@@ -1,0 +1,4 @@
+Performance Evaluation of Centralized Databases with Static Locking
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+1985
+IEEE Transactions on Software Engineering

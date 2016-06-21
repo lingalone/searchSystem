@@ -1,0 +1,1 @@
+A common interface for accessing document retrieval systems and dbms for retrieval of bibliographic data

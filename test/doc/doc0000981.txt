@@ -1,0 +1,4 @@
+A heuristic approximation for reducing problem size in network file allocation models
+Univ. of South Carolina, Columbia;Univ. of South Carolina, Columbia;Univ. of South Carolina, Columbia
+1984
+Computers and Operations Research

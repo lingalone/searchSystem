@@ -1,0 +1,1 @@
+Diamond formulas: a fragment of dynamic logic with recursively enumerable validity problem

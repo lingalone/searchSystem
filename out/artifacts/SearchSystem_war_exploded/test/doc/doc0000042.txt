@@ -1,0 +1,4 @@
+A skeleton interpreter for specialized languages
+Univ. of Copenhagen, Copenhagen, Denmark
+1983
+Proc. IFIP working conference on Programming Languages and System Design

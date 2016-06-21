@@ -1,0 +1,4 @@
+Resolving the query inference problem using Steiner trees
+University of Saskatchewan;University of Saskatchewan
+1984
+ACM Transactions on Database Systems (TODS)

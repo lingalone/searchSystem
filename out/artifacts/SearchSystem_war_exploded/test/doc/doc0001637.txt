@@ -1,0 +1,4 @@
+The characterization problem for Hoare logics
+Carnegie-Mellon Univ., Pittsburgh, PA
+1985
+Proc. of a discussion meeting of the Royal Society of London on Mathematical logic and programming languages

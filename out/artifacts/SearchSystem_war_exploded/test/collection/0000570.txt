@@ -1,0 +1,1 @@
+A natural proof system based on rewriting techniques

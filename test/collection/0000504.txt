@@ -1,0 +1,1 @@
+An acceptance-complement analogue of the mixture-plus-acceptance-rejection method for generating random variables

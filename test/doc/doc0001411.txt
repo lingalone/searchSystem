@@ -1,0 +1,4 @@
+Architectures for AI: hardware and software for efficient processing
+Schlumberger Palo Alto Research, Palo Alto, CA
+1985
+BYTE - Lecture notes in computer science Vol. 174

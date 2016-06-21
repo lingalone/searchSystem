@@ -1,0 +1,4 @@
+Stationary wave solutions of a system of reaction-diffusion equations derived from the Fitzhugh-Nagumo equations
+Univ. of Tennessee, Knoxville;Univ. of Pittsburgh, Pittsburgh, PA
+1984
+SIAM Journal on Applied Mathematics

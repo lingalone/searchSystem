@@ -1,0 +1,4 @@
+A necessary and sufficient condition in order that a Herbrand interpretation be expressive relative to recursive programs
+
+1984
+Information and Control

@@ -1,0 +1,4 @@
+Some remarks about the inference techniques of RESEDA, an “intelligent” information retrieval system
+Centre National de la Recherche Scientifique, Paris Cedex, France
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

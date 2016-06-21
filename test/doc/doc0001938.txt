@@ -1,0 +1,4 @@
+Communication and Synchronization Primitives for Distributed Programs
+Univ. of Texas at Arlington, Arlington
+1985
+IEEE Transactions on Software Engineering

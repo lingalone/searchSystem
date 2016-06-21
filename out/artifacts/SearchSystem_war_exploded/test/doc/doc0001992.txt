@@ -1,0 +1,4 @@
+Data abstraction, views and updates in RIGEL
+-;-
+1986
+The INGRES papers: anatomy of a relational database system

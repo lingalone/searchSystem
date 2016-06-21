@@ -1,0 +1,4 @@
+A probabilistic lower bound for checking disjointness of sets
+University of Wisconsin, Madison
+1984
+Information Processing Letters

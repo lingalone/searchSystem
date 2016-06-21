@@ -1,0 +1,1 @@
+How evenly should one divide to conquer quickly?

@@ -1,0 +1,4 @@
+The Manchester prototype dataflow computer
+Univ. of Manchester, Manchester, UK;Univ. of Manchester, Manchester, UK;Univ. of Manchester, Manchester, UK
+1985
+Communications of the ACM - Special section on computer architecture

@@ -1,0 +1,1 @@
+Papering over deficiencies in your language for convenience and portability: preprocessors vs. standards

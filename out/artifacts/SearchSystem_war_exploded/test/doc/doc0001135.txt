@@ -1,0 +1,4 @@
+The complexity of promise problems with applications to public-key cryptography
+Technion, Haifa, Israel;Iowa State Univ., Ames;Technion, Haifa, Israel
+1984
+Information and Control

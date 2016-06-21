@@ -1,0 +1,4 @@
+Recursive evaluators for attribute grammars : an implementation
+INRIA, Le Chesnay Cedex, France
+1984
+Methods and tools for compiler construction

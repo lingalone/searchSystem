@@ -1,0 +1,4 @@
+A constructive method for abstract algebraic software specification
+Lehrstuhl fur Informatik II, Aachen, Fed. Rep. Germany
+1984
+Theoretical Computer Science

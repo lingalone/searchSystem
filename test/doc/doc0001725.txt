@@ -1,0 +1,4 @@
+A simple on-line bin-packing algorithm
+Northwestern Univ., Evanston, IL;Northwestern Univ., Evanston, IL
+1985
+Journal of the ACM (JACM)

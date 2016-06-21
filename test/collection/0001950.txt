@@ -1,0 +1,1 @@
+An approach to interactive definition of database views

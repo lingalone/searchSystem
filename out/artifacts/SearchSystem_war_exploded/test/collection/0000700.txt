@@ -1,0 +1,1 @@
+A non-factorial algorithm for canonical numbering of a graph

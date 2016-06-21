@@ -1,0 +1,4 @@
+DFL: a data flow language
+Indian Institute of Science, Bangalore, India;State Univ. of New York, Stony Brook;Case Western Reserve Univ., Cleveland, OH
+1984
+Computer Languages

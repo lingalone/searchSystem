@@ -1,0 +1,4 @@
+MOSFET table look-up models for circuit simulation
+
+1984
+Integration, the VLSI Journal

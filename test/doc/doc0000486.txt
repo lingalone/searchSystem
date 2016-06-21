@@ -1,0 +1,4 @@
+Proof of correctness of decision table programs
+Oxford University Computing Laboratory, Oxford, UK
+1984
+The Computer Journal

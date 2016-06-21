@@ -1,0 +1,4 @@
+An improved solution to the traveling salesman problem with thousands of nodes
+-
+1984
+Communications of the ACM - Special section on management of information systems

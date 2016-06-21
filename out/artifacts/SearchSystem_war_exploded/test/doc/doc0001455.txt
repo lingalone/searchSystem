@@ -1,0 +1,4 @@
+A multiprocess network logic with temporal and spatial modalities
+Harvard Univ., Cambridge, MA;Univ. of Massachusetts, Amherst
+1985
+Journal of Computer and System Sciences

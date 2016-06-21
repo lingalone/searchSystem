@@ -1,0 +1,4 @@
+Selecting Software Test Data Using Data Flow Information
+New York Univ., New York, NY;New York Univ., New York, NY
+1985
+IEEE Transactions on Software Engineering

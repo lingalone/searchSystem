@@ -1,0 +1,4 @@
+Foreign keys decrease adaptability of database designs
+-
+1984
+Communications of the ACM - Special section on management of information systems

@@ -1,0 +1,4 @@
+Structuring transformational developments: a case study based on Earley's recognizer
+Technische Universitat Munchen, Munchen, Fed. Rep. Germany
+1984
+Science of Computer Programming

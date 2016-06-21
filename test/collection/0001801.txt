@@ -1,0 +1,1 @@
+Fast algorithms constructing minimal subalgebras, congruences, and ideals in a finite algebra

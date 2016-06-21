@@ -1,0 +1,4 @@
+Functional organization of MIMD machines
+Univ. di Roma, Rome, Italy
+1984
+Algorithm design for computer system design

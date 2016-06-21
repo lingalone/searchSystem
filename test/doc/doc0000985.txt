@@ -1,0 +1,4 @@
+Configuration of VLSI Arrays in the Presence of Defects
+Information Systems Laboratory, Stanford University, Stanford, CA;Information Systems Laboratory, Stanford University, Stanford, CA
+1984
+Journal of the ACM (JACM)

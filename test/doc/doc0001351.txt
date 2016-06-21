@@ -1,0 +1,4 @@
+A model for word processing systems
+Univ. di Pisa, Pisa, Italy;CNR, Pisa, Italy;CNR, Pisa, Italy
+1984
+Proc. of the ICOD-2 workshop on New applications of data bases

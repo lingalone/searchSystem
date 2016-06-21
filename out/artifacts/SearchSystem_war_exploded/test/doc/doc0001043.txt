@@ -1,0 +1,4 @@
+A wire-wrap design aid, written in PROLOG
+University of Dublin, Dublin, Ireland
+1984
+Computer-Aided Design

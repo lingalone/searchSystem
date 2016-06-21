@@ -1,0 +1,1 @@
+A SPICE2 SCR model for power circuit analysis

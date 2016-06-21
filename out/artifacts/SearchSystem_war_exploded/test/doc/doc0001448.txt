@@ -1,0 +1,4 @@
+Efficient demand-driven evaluation. Part 1
+Massachusetts Institute of Technology, Cambridge;Massachusetts Institute of Technology, Cambridge
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

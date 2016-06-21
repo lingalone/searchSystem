@@ -1,0 +1,4 @@
+Sorting a random access file in situ
+Institut fur Angewande Informatik, Karlsruhe, W. Germany;Institut fur Angewande Informatik, Karlsruhe, W. Germany
+1984
+The Computer Journal

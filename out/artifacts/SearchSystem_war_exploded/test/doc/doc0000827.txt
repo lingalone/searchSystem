@@ -1,0 +1,4 @@
+Object detection based on gray level cooccurrence
+Louisiana State Univ., Baton Rouge, LA;Louisiana State Univ., Baton Rouge, LA;Louisiana State Univ., Baton Rouge, LA;Louisiana State Univ., Baton Rouge, LA
+1984
+Computer Vision, Graphics, and Image Processing

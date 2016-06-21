@@ -1,0 +1,1 @@
+An intermediate machine technique for deciding equivalence between a DPDA and a linear DPDA

@@ -1,0 +1,4 @@
+The VLSI Complexity of Selected Graph Problems
+The Pennsylvania State Univ., University Park, PA
+1984
+Journal of the ACM (JACM)

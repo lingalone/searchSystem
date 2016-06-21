@@ -1,0 +1,1 @@
+A linear algorithm of a deadlock avoidance for nonpreemptible resources

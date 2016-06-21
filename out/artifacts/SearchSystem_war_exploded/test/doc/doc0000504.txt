@@ -1,0 +1,4 @@
+An acceptance-complement analogue of the mixture-plus-acceptance-rejection method for generating random variables
+University of Washington;University of Washington
+1984
+ACM Transactions on Mathematical Software (TOMS)

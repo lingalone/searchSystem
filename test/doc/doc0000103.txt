@@ -1,0 +1,4 @@
+Smalltalk-80: the language and its implementation
+Xerox Palo Alto Research Center;Xerox Palo Alto Research Center
+1983
+Smalltalk-80: the language and its implementation

@@ -1,0 +1,4 @@
+OCCAM and the transputer
+INMOS Limited, Bristol, UK;INMOS Limited, Bristol, UK
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

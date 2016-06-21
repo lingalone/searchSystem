@@ -1,0 +1,4 @@
+The INGRES papers: anatomy of a relational database system
+Univ. of California, Berkeley
+1986
+The INGRES papers: anatomy of a relational database system

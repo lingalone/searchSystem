@@ -1,0 +1,1 @@
+Reading continuous text from a one-line visual display

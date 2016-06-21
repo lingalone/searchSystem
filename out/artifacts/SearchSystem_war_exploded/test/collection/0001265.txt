@@ -1,0 +1,1 @@
+A problem-decomposition method using differences or equivalence relations between states

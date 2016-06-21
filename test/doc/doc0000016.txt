@@ -1,0 +1,4 @@
+The implication problem for functional and inclusion dependencies
+MIT, Cambridge, MA
+1984
+Information and Control

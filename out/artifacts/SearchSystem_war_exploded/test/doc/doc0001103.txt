@@ -1,0 +1,4 @@
+Interpolation of data on the surface of a sphere
+Oak Ridge National Laboratory
+1984
+ACM Transactions on Mathematical Software (TOMS)

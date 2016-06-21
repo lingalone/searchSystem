@@ -1,0 +1,4 @@
+Efficient optimal pagination of scrolls
+California State Univ., Dominguez Hills;Univ. of California, Irvine
+1985
+Communications of the ACM

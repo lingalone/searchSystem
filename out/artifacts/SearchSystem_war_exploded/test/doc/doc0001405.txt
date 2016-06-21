@@ -1,0 +1,4 @@
+Amortized analyses of self-organizing sequential search heuristics
+AT&T Bell Laboratories, Murray Hill, NJ;Carnegie-Mellon Univ., Pittsburgh, PA
+1985
+Communications of the ACM - Lecture notes in computer science Vol. 174

@@ -1,0 +1,4 @@
+An average case analysis of Floyd's algorithm to construct heaps
+Clarkson College of Technology, Potsdam, NY
+1984
+Information and Control

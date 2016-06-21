@@ -1,0 +1,4 @@
+The Qualified Function Approach to Analysis of Program Behavior and Performance
+Hughes Aircraft Company, Fullerton, CA;Hughes Aircraft Company, Fullerton, CA;Hughes Aircraft Company, Fullerton, CA
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

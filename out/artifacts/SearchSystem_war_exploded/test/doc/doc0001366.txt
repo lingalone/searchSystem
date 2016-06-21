@@ -1,0 +1,4 @@
+Fault tolerant and fault testable hardware design
+Syracuse Univ., Syracuse, NY
+1985
+Fault tolerant and fault testable hardware design

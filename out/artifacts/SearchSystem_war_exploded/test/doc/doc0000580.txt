@@ -1,0 +1,4 @@
+A differential-equations algorithm for nonlinear equations
+Bari University;Rome University;Camerino University
+1984
+ACM Transactions on Mathematical Software (TOMS)

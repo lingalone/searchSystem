@@ -1,0 +1,4 @@
+A propositional language for text representation
+Univ. di Trieste, Trieste, Italy;Univ. di Udine, Udine, Italy and Politecnico di Milano, Milano, Italy;Univ. di Udine, Udine, Italy
+1984
+Computational models of natural language processing

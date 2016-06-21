@@ -1,0 +1,4 @@
+Entity-relationship approach to logical database design.
+Hitachi, Ltd., Tokyo, Japan
+1983
+Proc. of the third international conference on Entity-relationship approach to software engineering

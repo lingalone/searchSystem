@@ -1,0 +1,1 @@
+Minimal representations of directed hypergraphs and their application to database design

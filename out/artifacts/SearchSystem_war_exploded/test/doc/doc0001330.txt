@@ -1,0 +1,4 @@
+Evaluation of step directions in optimization algorithms
+Courant Institute;Courant Institute
+1985
+ACM Transactions on Mathematical Software (TOMS)

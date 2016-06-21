@@ -1,0 +1,4 @@
+A framework for integrating snytax and semantics
+Consiglio Nazionale delle Ricerche, Pisa, Italy;Consiglio Nazionale delle Ricerche, Pisa, Italy;Consiglio Nazionale delle Ricerche, Pisa, Italy;Consiglio Nazionale delle Ricerche, Pisa, Italy
+1984
+Computational models of natural language processing

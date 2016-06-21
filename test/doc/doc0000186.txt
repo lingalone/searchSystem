@@ -1,0 +1,4 @@
+Fast algorithms for finding nearest common ancestors
+Univ. of New Hampshire, Durham;Bell Laboratories, Murray Hill, NJ
+1984
+SIAM Journal on Computing

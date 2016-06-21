@@ -1,0 +1,4 @@
+Maximum weight clique algorithms for circular-arc graphs and circle graphs
+Northwestern Univ., Evanston, IL
+1985
+SIAM Journal on Computing

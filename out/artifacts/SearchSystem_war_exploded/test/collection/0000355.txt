@@ -1,0 +1,1 @@
+An optimal algorithm for computing the minimum vertex distance between two crossing convex polygons

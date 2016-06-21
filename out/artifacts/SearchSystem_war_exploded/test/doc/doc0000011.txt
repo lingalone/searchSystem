@@ -1,0 +1,4 @@
+Lower Bounds and Fast Algorithms for Sequence Acceleration
+The Universtty of Western Ontario, London, Ontarto, Canada
+1984
+Journal of the ACM (JACM)

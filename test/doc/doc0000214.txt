@@ -1,0 +1,4 @@
+The implementation of abstract objects in a capability based addressing architecture
+Universita di Pisa, Pisa, Italy;Universita di Pisa, Pisa, Italy;Nazionale delle Ricerche, Pisa, Italy
+1984
+The Computer Journal

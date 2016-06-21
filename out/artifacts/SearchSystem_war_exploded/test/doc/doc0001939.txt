@@ -1,0 +1,4 @@
+Discrete Time Stochastic Petri Nets
+Univ. of Texas at Austin, Austin
+1985
+IEEE Transactions on Software Engineering

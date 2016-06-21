@@ -1,0 +1,1 @@
+Another view of functional and multivalued dependencies in the relational database model

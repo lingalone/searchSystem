@@ -1,0 +1,4 @@
+Evolution of a dataflow architecture
+Univ. of Manchester, Manchester, UK;Univ. of Manchester, Manchester, UK;Univ. of Manchester, Manchester, UK
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

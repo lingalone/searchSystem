@@ -1,0 +1,4 @@
+Position determination using generalized multidirectional gradient codes
+National Research Council Canada, Ottawa, Ont., Canada
+1984
+Computer Vision, Graphics, and Image Processing

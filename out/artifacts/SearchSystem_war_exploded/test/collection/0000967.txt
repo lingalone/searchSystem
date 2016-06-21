@@ -1,0 +1,1 @@
+Towards a formal proof system for &ohgr;-rational expressions

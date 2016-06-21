@@ -1,0 +1,4 @@
+A lumped-state model of clustering in dynamic storage allocation
+The Univ. of Keele, Staffs, UK
+1984
+The Computer Journal

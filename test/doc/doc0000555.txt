@@ -1,0 +1,4 @@
+Optimism and consistency in partitioned distributed database systems
+University of Pennsylvania
+1984
+ACM Transactions on Database Systems (TODS)

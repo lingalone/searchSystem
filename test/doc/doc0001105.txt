@@ -1,0 +1,4 @@
+Generalizing specifications for uniformly implemented loops
+University of Maryland;University of Maryland
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

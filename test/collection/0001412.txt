@@ -1,0 +1,1 @@
+The challenge of open systems: current logic programming methods may be insufficient for developing the intelligent systems of the future

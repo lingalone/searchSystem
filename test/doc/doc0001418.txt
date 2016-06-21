@@ -1,0 +1,4 @@
+Inside an expert system: from index cards to PASCAL program
+-;-
+1985
+BYTE - Lecture notes in computer science Vol. 174

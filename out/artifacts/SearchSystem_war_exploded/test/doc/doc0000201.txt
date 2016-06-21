@@ -1,0 +1,4 @@
+DPS - a digital simulation language for the process industries
+Univ. of Alberta, Edmonton, Alta., Canada;CADCentre Ltd., Cambridge, UK;CADCentre Ltd., Cambridge, UK;CADCentre Ltd., Cambridge, UK
+1984
+Simulation

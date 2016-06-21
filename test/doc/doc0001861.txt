@@ -1,0 +1,4 @@
+Pyramid computer solutions of the closest pair problem
+State Univ. of New York, Binghamton
+1985
+Journal of Algorithms

@@ -1,0 +1,4 @@
+Efficient Computing of Relational Algebraic Primitives in a Database Machine Architecture
+Univ. of California, Riverside
+1985
+IEEE Transactions on Computers

@@ -1,0 +1,4 @@
+Languages with self-reference I: foundations (or: we can have everything in first-order logic])
+Univ. of Maryland, College Park
+1985
+Artificial Intelligence

@@ -1,0 +1,4 @@
+Resilient distributed computing
+-
+1984
+IEEE Transactions on Software Engineering

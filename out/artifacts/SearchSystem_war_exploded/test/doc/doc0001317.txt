@@ -1,0 +1,4 @@
+Soundness and completeness of a synthesis algorithm based on example computations
+Univ. of Western Ontario, London, Ont., Canada
+1985
+Journal of the ACM (JACM)

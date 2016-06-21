@@ -1,0 +1,4 @@
+Performance evaluation of shape matching via chord length distribution
+Sichuan Univ., Sichuan, People's Republic of China;Michigan State Univ., East Lansing, MI
+1984
+Computer Vision, Graphics, and Image Processing

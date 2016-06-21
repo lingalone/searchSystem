@@ -1,0 +1,4 @@
+A generalized interval package and its use for semantic checking
+Univ. of Edinburgh, Edinburgh, UK
+1984
+ACM Transactions on Mathematical Software (TOMS)

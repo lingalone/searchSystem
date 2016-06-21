@@ -1,0 +1,4 @@
+Approximate counting: a detailed analysis
+INRIA, Ce´dex, France
+1985
+BIT - Ellis Horwood series in artificial intelligence

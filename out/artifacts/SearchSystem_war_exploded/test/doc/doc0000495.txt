@@ -1,0 +1,4 @@
+A proof system for concurrent ADA programs
+University of Utrecht, Utrecht, Netherlands;University of Utrecht, Utrecht, Netherlands
+1984
+Science of Computer Programming

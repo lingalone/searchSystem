@@ -1,0 +1,4 @@
+Distributed query processing
+Univ. of Illinois at Chicago, Chicago;Univ. of Illinois at Chicago, Chicago
+1984
+ACM Computing Surveys (CSUR)

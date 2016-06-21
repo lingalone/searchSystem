@@ -1,0 +1,4 @@
+The Utah text retrieval project -- a status report
+Univ. of Utah, Salt Lake City
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

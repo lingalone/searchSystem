@@ -1,0 +1,4 @@
+A prototype electronic encyclopedia
+Atari Sunnyvale Research Laboratory;Univ. of Washington, Seattle
+1985
+ACM Transactions on Information Systems (TOIS)

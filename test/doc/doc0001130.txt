@@ -1,0 +1,4 @@
+Multiprecision integer division examples using arbitrary radix
+Concordia University, Montreal, Quebec, Canada
+1984
+ACM Transactions on Mathematical Software (TOMS)

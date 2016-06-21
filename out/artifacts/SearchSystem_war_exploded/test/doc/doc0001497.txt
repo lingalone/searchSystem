@@ -1,0 +1,4 @@
+Software inspections and the industrial production of software
+Bell Laboratories;Bell Laboratories;RGE Software Methodologies, Inc.
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

@@ -1,0 +1,4 @@
+A security model for military message systems
+Naval Research Laboratory;Naval Research Laboratory;Naval Research Laboratory
+1984
+ACM Transactions on Computer Systems (TOCS)

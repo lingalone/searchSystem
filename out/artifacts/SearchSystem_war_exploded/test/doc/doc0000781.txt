@@ -1,0 +1,4 @@
+Correctness Proofs of Communicating Processes: Three Illustrative Examples From the Literature
+The University of Texas at Austin
+1983
+ACM Transactions on Programming Languages and Systems (TOPLAS)

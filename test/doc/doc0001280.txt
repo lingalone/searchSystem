@@ -1,0 +1,4 @@
+A semantic model and schema notation for bibliographic retrieval systems
+Univ. of Western Ontario, London, Ont., Canada
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

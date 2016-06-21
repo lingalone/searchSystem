@@ -1,0 +1,4 @@
+Query optimization on local area networks
+Univ. of Maryland, College Park;Univ. of Maryland, College Park;Univ. of Maryland, College Park
+1985
+ACM Transactions on Information Systems (TOIS)

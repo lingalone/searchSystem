@@ -1,0 +1,4 @@
+How to generate cryptographically strong sequences of pseudo-random bits
+Univ. of California, Berkeley;Massachusetts Institute of Technology, Cambridge, MA
+1984
+SIAM Journal on Computing

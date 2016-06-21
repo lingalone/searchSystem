@@ -1,0 +1,4 @@
+Feedback vertex sets and cyclically reducible graphs
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY;Univ. of Pittsburgh, Pittsburgh, PA;Univ. of Pittsburgh, Pittsburgh, PA
+1985
+Journal of the ACM (JACM)

@@ -1,0 +1,4 @@
+Tree automata and attribute grammars
+Univ. of Kansas, Lawrence
+1984
+Information and Control

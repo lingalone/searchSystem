@@ -1,0 +1,4 @@
+Three-dimensional surface mapping simulator: theory, capabilities and operation
+Worcester Polytechnic Institute, Worcester, MA;Worcester Polytechnic Institute, Worcester, MA
+1985
+Image and Vision Computing

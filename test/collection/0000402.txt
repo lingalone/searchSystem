@@ -1,0 +1,1 @@
+Optimal speeding up of parallel algorithms based upon the divide-and-conquer strategy.

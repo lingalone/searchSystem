@@ -1,0 +1,4 @@
+The computational complexity of simultaneous diophantine approximation problems
+AT&T Bell Laboratories, Murray Hill, NJ
+1985
+SIAM Journal on Computing

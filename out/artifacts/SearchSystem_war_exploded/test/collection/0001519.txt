@@ -1,0 +1,1 @@
+A comment on the `basic security theorem' of Bell and LaPadula

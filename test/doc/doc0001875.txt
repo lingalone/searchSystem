@@ -1,0 +1,4 @@
+Data-flow algorithms for parallel matrix computation
+Univ. of Maryland, College Park;Univ. of Maryland, College Park
+1985
+Communications of the ACM

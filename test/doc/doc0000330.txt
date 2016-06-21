@@ -1,0 +1,4 @@
+New trie data structures which support very fast search operations
+Bell Laboratories, Holmdel, NJ
+1984
+Journal of Computer and System Sciences

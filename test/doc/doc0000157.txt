@@ -1,0 +1,4 @@
+The use of combinators in translating a purely functional language to low-level data-flow graphs
+Iowa State Univ., Ames;Iowa State Univ., Ames
+1984
+Computer Languages

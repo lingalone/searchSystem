@@ -1,0 +1,4 @@
+Design and data structure of fully adaptive, multigrid, finite-element software
+Catholic University, Leuven, Belgium
+1984
+ACM Transactions on Mathematical Software (TOMS)

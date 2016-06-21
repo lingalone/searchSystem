@@ -1,0 +1,4 @@
+Vertical partitioning algorithms for database design
+Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA
+1984
+ACM Transactions on Database Systems (TODS)

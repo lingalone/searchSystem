@@ -1,0 +1,4 @@
+Optimization of parser tables for portable compilers
+Univ. Karlsruhe, Karlsruhe, West Germany;Univ. Karlsruhe, Karlsruhe, West Germany;Univ. Karlsruhe, Karlsruhe, West Germany
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

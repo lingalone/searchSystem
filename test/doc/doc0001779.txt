@@ -1,0 +1,4 @@
+Paradigms for design and implementation in ADA
+Univ. of Michigan, Ann Arbor
+1985
+Communications of the ACM

@@ -1,0 +1,4 @@
+CLU reference manual
+Massachusetts Institute of Technology, Cambridge, MA;Univ. of Massachusetts, Amherst, MA;Hewlett-Packard Laboratories, Palo Alto, CA;Xerox Palo Alto Research Center, Palo Alto, CA;Digital Equipment Corporation, Hudson, MA;Digital Equipment Corporation, Hudson, MA;Massachusetts Institute of Technology, Cambridge, MA
+1984
+CLU reference manual

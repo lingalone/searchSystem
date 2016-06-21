@@ -1,0 +1,4 @@
+A systematic approach to language constructs for concurrent programs
+Universitat Passau, Passau, Fed. Rep. Germany;Universitat Munchen, Munchen, Fed. Rep. Germany
+1984
+Science of Computer Programming

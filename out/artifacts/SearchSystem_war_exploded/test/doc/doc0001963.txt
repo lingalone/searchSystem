@@ -1,0 +1,4 @@
+An Efficient Unsorted VLSI Dictionary Machine
+McGill Univ., Montreal, Que., Canada;McGill Univ., Montreal, Que., Canada
+1985
+IEEE Transactions on Computers

@@ -1,0 +1,4 @@
+Analysis of the performance of the parallel Quicksort method
+Loughborough Univ. of Technology, Loughborough, UK;Basrah Univ., Iraq
+1985
+BIT - Ellis Horwood series in artificial intelligence

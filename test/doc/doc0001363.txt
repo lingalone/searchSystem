@@ -1,0 +1,4 @@
+Real zeroes of polynomials
+Univ. of Wisconsin, Madison;Univ. Karlsruhe, Karlsruhe, West Germany
+1983
+Computer algebra: symbolic and algebraic computation (2nd ed.)

@@ -1,0 +1,4 @@
+VERIFY: a program for proving correctness of digital hardware designs
+Fairchild Laboratory for Artificial Intelligence Research, Palo Alto, CA
+1984
+Artificial Intelligence - Special volume on qualitative reasoning about physical systems

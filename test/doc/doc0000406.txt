@@ -1,0 +1,4 @@
+AM: A case study in AI methodology.
+Heriot-Watt Univ., Edinburgh, UK;Univ. of Kent, Canterbury, UK
+1984
+Artificial Intelligence

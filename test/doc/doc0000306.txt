@@ -1,0 +1,4 @@
+Fast compact prime number sieves (among others)
+Cornell Univ., Ithaca, NY
+1984
+Journal of Algorithms

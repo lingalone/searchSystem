@@ -1,0 +1,4 @@
+A general character to integer conversion method
+Univ. of Calgary, Calgary, Alberta, Canada
+1985
+Software—Practice & Experience

@@ -1,0 +1,1 @@
+Encryption and Error-Correction Coding Using D Sequences

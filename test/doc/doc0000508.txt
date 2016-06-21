@@ -1,0 +1,4 @@
+Procedures for optimization problems with a mixture of bounds and general linear constraints
+Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA
+1984
+ACM Transactions on Mathematical Software (TOMS)

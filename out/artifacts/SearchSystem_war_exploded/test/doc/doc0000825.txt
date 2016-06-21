@@ -1,0 +1,4 @@
+A new class of similarity measures for robust image registration
+-;-;-
+1984
+Computer Vision, Graphics, and Image Processing

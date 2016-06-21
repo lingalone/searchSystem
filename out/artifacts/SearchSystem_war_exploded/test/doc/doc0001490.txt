@@ -1,0 +1,4 @@
+An application of queueing theory to the design of a message-switching computer system
+ARGOS Computer Systems, Inc., New York, NY;George Mason Univ., Fairfax, VA
+1985
+Communications of the ACM

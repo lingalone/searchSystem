@@ -1,0 +1,1 @@
+A fast sequential method for polygonal approximation of digitized curves

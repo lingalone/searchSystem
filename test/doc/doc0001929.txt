@@ -1,0 +1,4 @@
+A region analysis algorithm for the live variables problem
+Silesian Technical Univ., Gliwice, Poland
+1984
+Computing

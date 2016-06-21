@@ -1,0 +1,4 @@
+A language-driven generalized numerical database translator
+Univ. of Ife, Ile-Ife, Nigeria
+1985
+BIT - Ellis Horwood series in artificial intelligence

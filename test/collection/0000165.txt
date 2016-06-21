@@ -1,0 +1,1 @@
+A quadratically convergent method for computing simple singular roots and its application to determining simple bifurcation points

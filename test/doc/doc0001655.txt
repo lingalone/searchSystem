@@ -1,0 +1,4 @@
+In defence of programming language design
+INRIA Rocquencourt
+1985
+Selected and updated papers from the proceedings of the 1982 European conference on Progress in artificial intelligence

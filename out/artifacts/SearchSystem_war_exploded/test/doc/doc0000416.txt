@@ -1,0 +1,4 @@
+The semantics of second order polymorphic lambda calculus.
+Williams College, Williamstown, MA;Mass. Inst. of Tech., Cambridge, MA
+1984
+Proc. of the international symposium on Semantics of data types

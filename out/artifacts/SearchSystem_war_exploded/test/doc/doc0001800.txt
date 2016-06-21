@@ -1,0 +1,4 @@
+Complexity and decidability for chain code picture languages
+Northwestern Univ., Evanston, IL;Technical Univ. of Graz and Austrian Computer Society, Graz, Austria
+1985
+Theoretical Computer Science

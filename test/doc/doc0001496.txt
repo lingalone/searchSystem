@@ -1,0 +1,4 @@
+An introduction to quality assurance and control of software
+GMD, Schloss Birlinghoven, West Germany;GMD, Schloss Birlinghoven, West Germany
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

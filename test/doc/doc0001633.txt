@@ -1,0 +1,4 @@
+The relation between logic programming and logic specification
+Imperial College, London, UK
+1985
+Proc. of a discussion meeting of the Royal Society of London on Mathematical logic and programming languages

@@ -1,0 +1,4 @@
+Making software visible, operational, and maintainable in a small project environment
+CTEC, Inc., McLean, VA;CTEC, Inc., McLean, VA
+1984
+IEEE Transactions on Software Engineering

@@ -1,0 +1,4 @@
+Beyond two-phase locking
+Univ. of Texas at Austin, Austin;Univ. of Texas at Austin, Austin
+1985
+Journal of the ACM (JACM)

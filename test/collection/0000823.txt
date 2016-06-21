@@ -1,0 +1,1 @@
+Foreign keys decrease adaptability of database designs

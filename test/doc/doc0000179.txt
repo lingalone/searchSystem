@@ -1,0 +1,4 @@
+Two tapes are better than one for nondeterministic machines
+Slovak Academy of Science, Bratislava, Czechoslovakia;Tel-Aviv University, Tel-Aviv, Israel
+1984
+SIAM Journal on Computing

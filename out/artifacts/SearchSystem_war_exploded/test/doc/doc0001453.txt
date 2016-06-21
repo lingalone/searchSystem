@@ -1,0 +1,4 @@
+Decision procedures and expressiveness in the temporal logic of branching time
+Univ. of Texas, Austin;IBM Research Laboratory, San Jose, CA
+1985
+Journal of Computer and System Sciences

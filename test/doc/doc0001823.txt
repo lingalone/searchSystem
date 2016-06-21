@@ -1,0 +1,4 @@
+Optimistic recovery in distributed systems
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY;IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+1985
+ACM Transactions on Computer Systems (TOCS)

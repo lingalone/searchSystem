@@ -1,0 +1,4 @@
+Soft evaluation of Boolean search queries in information retrieval systems
+Univ. of Lancaster, Lancaster, UK
+1984
+Information Technology Research Development Applications

@@ -1,0 +1,4 @@
+Connections in acyclic hypergraphs
+SUNY, Stony Brook, NY;Stanford Univ., Stanford, CA
+1984
+Theoretical Computer Science

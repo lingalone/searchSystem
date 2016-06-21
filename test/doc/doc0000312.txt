@@ -1,0 +1,4 @@
+Stochastic modeling of individual resource consumption during the programming phase of software development
+-;-
+1984
+Human factors in computer systems

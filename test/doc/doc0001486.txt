@@ -1,0 +1,4 @@
+Nested transactions: an approach to reliable distributed computing
+-
+1985
+Nested transactions: an approach to reliable distributed computing

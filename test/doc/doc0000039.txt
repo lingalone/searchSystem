@@ -1,0 +1,4 @@
+XYZ: a program development environment based on temporal logic
+Academia Sinica, Beijing, China
+1983
+Proc. IFIP working conference on Programming Languages and System Design

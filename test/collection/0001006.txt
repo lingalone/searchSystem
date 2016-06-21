@@ -1,0 +1,1 @@
+Deciding the inequivalence of context-free grammars with 1-letter terminal alphabet is &Sgr;p-2--complete

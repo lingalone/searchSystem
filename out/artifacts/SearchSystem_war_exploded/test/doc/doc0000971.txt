@@ -1,0 +1,4 @@
+Approximate storage utilisation of B-trees: a simple derivation and generalisations
+London Univ., London, UK
+1984
+Information Processing Letters

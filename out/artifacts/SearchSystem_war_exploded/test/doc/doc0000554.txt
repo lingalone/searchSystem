@@ -1,0 +1,4 @@
+On the optimal nesting order for computing N-relational joins
+Toyohashi Univ.;Simon Fraser Univ.
+1984
+ACM Transactions on Database Systems (TODS)

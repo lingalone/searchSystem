@@ -1,0 +1,4 @@
+A new polynomial-time algorithm for linear programming
+AT&T Bell Laboratories, Murray Hill, NJ
+1984
+Combinatorica

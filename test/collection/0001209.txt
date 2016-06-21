@@ -1,0 +1,1 @@
+Implementation of CSP-S for description of distributed algorithms

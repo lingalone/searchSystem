@@ -1,0 +1,1 @@
+A generalized class of certainty and information measures.

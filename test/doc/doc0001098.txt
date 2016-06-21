@@ -1,0 +1,4 @@
+A proposal for comparison of types in PASCAL and associated semantic models
+The Univ. of Iowa, Iowa City
+1984
+Computer Languages

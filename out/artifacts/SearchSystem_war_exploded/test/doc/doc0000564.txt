@@ -1,0 +1,4 @@
+Software for estimating sparse Jacobian matrices
+Cornell University;Argonne National Laboratory;Argonne National Laboratory
+1984
+ACM Transactions on Mathematical Software (TOMS)

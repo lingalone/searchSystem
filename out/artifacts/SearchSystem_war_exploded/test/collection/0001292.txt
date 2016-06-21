@@ -1,0 +1,1 @@
+Some remarks about the inference techniques of RESEDA, an “intelligent” information retrieval system

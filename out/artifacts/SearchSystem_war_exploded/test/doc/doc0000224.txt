@@ -1,0 +1,4 @@
+A technique for developing loop invariants
+Eastern Michigan Univ., Ypsilanti, MI
+1984
+Information Processing Letters

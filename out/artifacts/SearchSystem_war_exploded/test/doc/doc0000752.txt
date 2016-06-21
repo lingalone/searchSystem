@@ -1,0 +1,4 @@
+A pruned trie to index a sorted file and its evaluation
+Universite` Paris Sud, Orsay, France
+1984
+Information Systems - Special issue: Databases:8Mtheir creation, management and utilization

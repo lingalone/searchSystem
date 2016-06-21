@@ -1,0 +1,4 @@
+Differentiation in PASCAL-SC: type GRADIENT
+University of Wisconsin at Madison
+1984
+ACM Transactions on Mathematical Software (TOMS)

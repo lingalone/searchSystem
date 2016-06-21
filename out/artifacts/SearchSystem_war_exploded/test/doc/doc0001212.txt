@@ -1,0 +1,4 @@
+A Method for Equijoin Queries in Distributed Relational Databases
+Univ. of Ottawa, Ottawa, Ont., Canada
+1982
+IEEE Transactions on Computers - Lecture notes in computer science Vol. 174

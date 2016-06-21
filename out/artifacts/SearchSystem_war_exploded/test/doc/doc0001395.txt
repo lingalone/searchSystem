@@ -1,0 +1,4 @@
+An icon-driven end-user interface to UNIX
+Univ. of Technology, Leicestershire, UK;Univ. of London, London, UK;Univ. of Technology, Leicestershire, UK
+1984
+International Journal of Man-Machine Studies - Lecture notes in computer science Vol. 174

@@ -1,0 +1,4 @@
+Logical design and schema conversion for relational and DBTG databases
+-;-
+1986
+The INGRES papers: anatomy of a relational database system

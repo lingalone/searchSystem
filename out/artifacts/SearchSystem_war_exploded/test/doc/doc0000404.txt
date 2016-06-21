@@ -1,0 +1,4 @@
+Sequence acquistion using bit estimation techniques.
+-;-;Univ. of Waterloo, Waterloo, Ont., Canada
+1984
+Information Sciences: an International Journal

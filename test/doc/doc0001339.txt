@@ -1,0 +1,4 @@
+Three-dimensional hidden-surface removal for signal-return modelling: experimental results
+-
+1985
+Image and Vision Computing

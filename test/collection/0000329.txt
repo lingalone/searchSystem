@@ -1,0 +1,1 @@
+Minimizing access pointers into trees and arrays

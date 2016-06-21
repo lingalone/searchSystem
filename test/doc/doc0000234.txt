@@ -1,0 +1,4 @@
+A mathematical model of fish behavior in a water tank
+-;-
+1984
+IEEE Transactions on Systems, Man and Cybernetics

@@ -1,0 +1,4 @@
+Adaptive record clustering
+Univ. of Illinois at Chicago, Chicago;Univ. of Illinois at Chicago, Chicago;Univ. of Illinois at Chicago, Chicago;Univ. of Illinois at Chicago, Chicago
+1985
+ACM Transactions on Database Systems (TODS)

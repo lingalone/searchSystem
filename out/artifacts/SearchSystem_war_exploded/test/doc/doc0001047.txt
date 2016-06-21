@@ -1,0 +1,4 @@
+Finite element mesh generation
+University of Cambridge, Cambridge, UK
+1984
+Computer-Aided Design

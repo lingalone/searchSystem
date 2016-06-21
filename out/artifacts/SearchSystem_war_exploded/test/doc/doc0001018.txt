@@ -1,0 +1,4 @@
+Algebraic laws for nondeterminism and concurrency
+Univ. of Edinburgh, Edinburgh, Scotland;Univ. of Edinburgh, Edinburgh, Scotland
+1985
+Journal of the ACM (JACM)

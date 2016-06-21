@@ -1,0 +1,4 @@
+Interfacing PROLOG and relational data base management systems
+Ecole Normale Supe´rieure, Paris, France;Univ. Paris-Sud, Orsay, France;Univ. Paris-Sud, Orsay, France
+1984
+Proc. of the ICOD-2 workshop on New applications of data bases

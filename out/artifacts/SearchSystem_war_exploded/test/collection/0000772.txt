@@ -1,0 +1,1 @@
+Cylindrical algebraic decomposition II: an adjacency algorithm for the plane

@@ -1,0 +1,4 @@
+A Proof Procedure for Data Dependencies
+-;-
+1984
+Journal of the ACM (JACM)

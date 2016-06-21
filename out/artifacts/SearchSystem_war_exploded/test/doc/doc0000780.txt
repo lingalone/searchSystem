@@ -1,0 +1,4 @@
+Experience with Grapevine: the growth of a distributed system
+Xerox Palo Alto Research Center, Palo Alto, CA;Xerox Palo Alto Research Center, Palo Alto, CA;Xerox Palo Alto Research Center, Palo Alto, CA
+1984
+ACM Transactions on Computer Systems (TOCS)

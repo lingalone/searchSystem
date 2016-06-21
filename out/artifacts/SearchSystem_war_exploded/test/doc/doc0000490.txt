@@ -1,0 +1,4 @@
+The worst case permutation for median-of-three quicksort
+Univ. of Helsinki, Helsinki, Finland
+1984
+The Computer Journal

@@ -1,0 +1,4 @@
+Proofs as programs
+Cornell Univ., Ithaca, NY;Cornell Univ., Ithaca, NY
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

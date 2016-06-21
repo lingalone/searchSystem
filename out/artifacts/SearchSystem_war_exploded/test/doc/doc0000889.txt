@@ -1,0 +1,4 @@
+Operating systems for modular partially reconfigurable multiprocessor systems
+-
+1984
+Algorithms, software and hardware of parallel computers

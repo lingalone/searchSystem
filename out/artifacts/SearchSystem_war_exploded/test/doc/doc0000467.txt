@@ -1,0 +1,4 @@
+Guarded and unguarded coroutines: an implementation in BCPL
+University of Hull, Hull, UK
+1984
+Software—Practice & Experience

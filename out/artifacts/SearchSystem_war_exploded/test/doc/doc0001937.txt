@@ -1,0 +1,4 @@
+Flex: A High-Level Language for Specifying Customized Microprocessors
+Purdue Univ., West Lafayette, IN;AT&T Bell Laboratories, Murray Hill, NJ
+1985
+IEEE Transactions on Software Engineering

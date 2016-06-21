@@ -1,0 +1,4 @@
+Simple linear-time algorithms to test chordality of graphs, test acyclicity of hypergraphs, and selectively reduce acyclic hypergraphs
+Bell Laboratories, Murray Hill, NJ;Bell Laboratories, Murray Hill, NJ
+1984
+SIAM Journal on Computing

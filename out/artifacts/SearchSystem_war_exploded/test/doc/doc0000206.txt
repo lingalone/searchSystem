@@ -1,0 +1,4 @@
+Synchronous debugging of real-time microprocessor-based control systems
+Xerox Corp., Rochester, NY
+1984
+Simulation

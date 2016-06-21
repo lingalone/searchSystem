@@ -1,0 +1,4 @@
+An analysis of certain data models with respect to their handling of selected integrity constraints
+Univ. of East Anglia, Norwich, UK
+1984
+on Proc. of the third British national conference on databases (BNCOD3)

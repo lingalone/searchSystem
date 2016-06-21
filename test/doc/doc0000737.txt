@@ -1,0 +1,4 @@
+Unbounded program memory adds to the expressive power of first-order programming logic
+Univ. of Warsaw, Warsaw, Poland
+1984
+Information and Control

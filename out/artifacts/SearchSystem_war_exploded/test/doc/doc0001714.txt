@@ -1,0 +1,4 @@
+A randomized protocol for signing contracts
+Duke Univ., Durham, NC;MIT Laboratory for Computer Science, Cambridge, MA;Technion, Haifa, Israel
+1985
+Communications of the ACM

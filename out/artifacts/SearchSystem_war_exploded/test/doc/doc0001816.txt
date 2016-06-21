@@ -1,0 +1,4 @@
+Hybrid reliability modeling of fault-tolerant computer systems
+Duke Univ., Durham, NC;Duke Univ., Durham, NC;Clemson Univ., Clemson, SC;Clemson Univ., Clemson, SC
+1984
+Computers and Electrical Engineering - Special issue: reliability and verification of computing systems

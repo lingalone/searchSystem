@@ -1,0 +1,4 @@
+Polynomial time algorithms for the min cut problem on degree restricted trees
+Rensselaer Polytechnic Institute, Troy, NY;Illinois Institute of Technology, Chicago, IL;Northwestern Univ., Evanston, IL;Bell Laboratories, Murray Hill, NJ
+1985
+SIAM Journal on Computing

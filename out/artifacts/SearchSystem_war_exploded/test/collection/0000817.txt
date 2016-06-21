@@ -1,0 +1,1 @@
+Negation as failure: a comparison of Clark's completed data base and Reiter's closed world assumption

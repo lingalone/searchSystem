@@ -1,0 +1,4 @@
+Adding range restriction capability to dynamic data structures
+State Univ. of New York at Albany, Albany/ and Bell Communications Research;Univ. of California at Irvine, Irvine
+1985
+Journal of the ACM (JACM)

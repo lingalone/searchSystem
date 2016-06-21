@@ -1,0 +1,4 @@
+HOLMES: a deduction augmented database management system
+Inst. for Scientific, Technical and Economic Info., Warsaw, Poland;Inst. for Scientific, Technical and Economic Info., Warsaw, Poland
+1984
+Information Systems - Special issue: Databases:8Mtheir creation, management and utilization

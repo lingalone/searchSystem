@@ -1,0 +1,4 @@
+A parallel-design distributed-implementation (PDDI) general-purpose computer
+New York Univ., New York, NY
+1984
+Theoretical Computer Science

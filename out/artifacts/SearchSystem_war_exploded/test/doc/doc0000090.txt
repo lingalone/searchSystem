@@ -1,0 +1,4 @@
+Physical database design techniques
+IBM Research Laboratory, San Jose, CA
+1982
+Physical structures and application on Database design techniques II

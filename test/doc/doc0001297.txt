@@ -1,0 +1,4 @@
+A special purpose MIMD parallel processor
+Univ. of East Anglia, Norwick, UK
+1985
+Information Processing Letters - The British Computer Society workshop series

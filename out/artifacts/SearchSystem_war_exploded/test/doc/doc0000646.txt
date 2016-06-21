@@ -1,0 +1,4 @@
+A linear-history semantics for languages for distributed programming
+Technion-Israel Institute of Technology, Haifa, Israel;The Hebrew University, Jerusalem, Israel;Weizmann Institute of Science, Rehovot, Israel
+1984
+Theoretical Computer Science

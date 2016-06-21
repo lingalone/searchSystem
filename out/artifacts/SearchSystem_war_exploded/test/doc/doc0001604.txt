@@ -1,0 +1,4 @@
+Arboricity and subgraph listing algorithms
+Tohoku Univ., Sendai, Japan;Tohoku Univ., Sendai, Japan
+1985
+SIAM Journal on Computing

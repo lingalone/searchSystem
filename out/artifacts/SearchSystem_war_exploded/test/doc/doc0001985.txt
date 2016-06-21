@@ -1,0 +1,4 @@
+Operating system support for database management
+-
+1986
+The INGRES papers: anatomy of a relational database system

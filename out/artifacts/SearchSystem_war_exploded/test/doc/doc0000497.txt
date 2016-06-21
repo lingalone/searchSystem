@@ -1,0 +1,4 @@
+Using FP as a query language for relational data-bases
+Universita di Padova, Padova, Italy;Politecnico di Milano, Milano, Italy
+1984
+Computer Languages

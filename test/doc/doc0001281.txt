@@ -1,0 +1,4 @@
+The use of adaptive mechanisms for selection of search strategies in document retrieval systems
+Univ. of Massachusetts, Amherst;Univ. of Massachusetts, Amherst
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

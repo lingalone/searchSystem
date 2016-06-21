@@ -1,0 +1,4 @@
+Bridging the gap between AI and IR
+Univ. of California, Berkeley
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

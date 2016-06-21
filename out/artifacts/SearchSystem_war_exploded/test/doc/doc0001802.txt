@@ -1,0 +1,4 @@
+A classification of &ohgr;-regular languages
+Univ. of Waterloo, Waterloo, Ont., Canada
+1985
+Theoretical Computer Science

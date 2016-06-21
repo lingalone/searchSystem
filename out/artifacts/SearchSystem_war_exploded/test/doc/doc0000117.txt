@@ -1,0 +1,4 @@
+Principles of transaction-oriented database recovery
+Univ. of Kaiserslautern, West Germany;IBM Research Laboratory, San Jose, CA
+1983
+ACM Computing Surveys (CSUR)

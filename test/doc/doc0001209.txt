@@ -1,0 +1,4 @@
+Implementation of CSP-S for description of distributed algorithms
+Indian Institute of Science, Bangalore, India;Univ. of Massachusetts, Amherst
+1984
+Computer Languages

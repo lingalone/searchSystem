@@ -1,0 +1,1 @@
+Efficient Computing of Relational Algebraic Primitives in a Database Machine Architecture

@@ -1,0 +1,4 @@
+An End-to-End Approach to the Resequencing Problem
+INRIA, Le Chesnay, France;Universté de Parzs-Sud, Orsay. France;Universté de Parzs-Sud, Orsay. France
+1984
+Journal of the ACM (JACM)

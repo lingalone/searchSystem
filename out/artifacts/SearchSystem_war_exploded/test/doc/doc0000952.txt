@@ -1,0 +1,4 @@
+The architecture of a programmable systolic chip
+Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA;Yokohama National Univ., Yokohama, Japan
+1984
+Advances in VLSI and Computer Systems

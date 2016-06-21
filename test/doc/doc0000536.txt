@@ -1,0 +1,4 @@
+Extension of the Banker's algorithm for resource allocation in a distributed operating system
+Univ. of Wisconsin, Madison;Univ. of Wisconsin, Madison
+1984
+Information Processing Letters

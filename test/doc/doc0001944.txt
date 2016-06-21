@@ -1,0 +1,4 @@
+Do embedded dependencies always lead to a wild goose chase?
+Univ. of London, London, UK;Royal Observatory, Edinburgh, UK
+1984
+on Proc. of the third British national conference on databases (BNCOD3)

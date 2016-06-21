@@ -1,0 +1,4 @@
+The remodularization of a compiler by abstract data types
+Humboldt-Univ. Berlin, Berlin, West Germany
+1983
+Proc. IFIP working conference on Programming Languages and System Design

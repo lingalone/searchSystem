@@ -1,0 +1,4 @@
+A graphical query language for entity-relationship databases
+Univ. of Toronto, Toronto, Ont., Canada;Univ. of Toronto, Toronto, Ont., Canada
+1983
+Proc. of the third international conference on Entity-relationship approach to software engineering

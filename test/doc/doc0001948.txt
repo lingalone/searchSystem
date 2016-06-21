@@ -1,0 +1,4 @@
+HERCULES: database query using natural language fragments
+IBM United Kingdom Laboratories Ltd., Winchester, Hampshire, UK
+1984
+on Proc. of the third British national conference on databases (BNCOD3)

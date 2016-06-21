@@ -1,0 +1,4 @@
+Encryption and Error-Correction Coding Using D Sequences
+Louisiana State Univ., Baton Rouge
+1985
+IEEE Transactions on Computers

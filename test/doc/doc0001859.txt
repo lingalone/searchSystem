@@ -1,0 +1,4 @@
+Dynamic Huffman coding
+Stanford Univ., Stanford, CA
+1985
+Journal of Algorithms

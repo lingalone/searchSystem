@@ -1,0 +1,4 @@
+Concepts of the document interchange protocol for the telematic services - CCITT draft recommendation s.a
+SIEMENS AG, Munich, F. R. Germany
+1984
+Computer Networks and ISDN Systems

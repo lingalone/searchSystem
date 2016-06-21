@@ -1,0 +1,4 @@
+Highly available systems for database applications
+IBM Research Laboratory, San Jose, CA
+1984
+ACM Computing Surveys (CSUR)

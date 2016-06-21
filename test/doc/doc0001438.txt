@@ -1,0 +1,4 @@
+Algebraic specification and verification of communication protocols
+Philips Research Laboratories, Eindhoven, The Netherlands
+1985
+Science of Computer Programming

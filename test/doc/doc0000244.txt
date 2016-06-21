@@ -1,0 +1,4 @@
+A simple separate compilation mechanism for block-structured languages
+-;-
+1984
+IEEE Transactions on Software Engineering

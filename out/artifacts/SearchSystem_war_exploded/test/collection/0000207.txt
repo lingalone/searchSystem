@@ -1,0 +1,1 @@
+Digital simulation of guidance and control system of an advanced supersonic fighter

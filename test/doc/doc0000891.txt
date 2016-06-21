@@ -1,0 +1,4 @@
+Algorithms for scheduling inhomogeneous multiprocessor computers
+-
+1984
+Algorithms, software and hardware of parallel computers

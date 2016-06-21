@@ -1,0 +1,4 @@
+Data management support for database management
+Technischen Universitat, Munchen, Fed. Rep. Germany;SIEMENS AG, Data Systems Group, Munchen, Fed. Rep. Germany
+1984
+Acta Informatica

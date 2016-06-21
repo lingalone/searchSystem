@@ -1,0 +1,4 @@
+Movement problems for 2-dimensional linkages
+Cornell Univ., Ithaca, NY;Univ. of Wisconsin, Madison;McGill Univ., Montreal, Quebec, Canada
+1984
+SIAM Journal on Computing

@@ -1,0 +1,4 @@
+A non-factorial algorithm for canonical numbering of a graph
+Univ. of Toronto, Ontario, Canada;Clarkson Univ., Potsdam, NY
+1984
+Journal of Algorithms

@@ -1,0 +1,4 @@
+An O(n log n) Manhattan path algorithm
+Universite de Paris-Sud, Orsay Cedex, France
+1984
+Information Processing Letters

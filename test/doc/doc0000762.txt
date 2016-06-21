@@ -1,0 +1,4 @@
+Preemptive scheduling of a multiprocessor system with memories to minimize maximum lateness
+The Ohio State Univ., Columbus;Univ. of Minnesota, Minneapolis, MN
+1984
+SIAM Journal on Computing

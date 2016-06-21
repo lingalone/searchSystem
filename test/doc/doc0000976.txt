@@ -1,0 +1,4 @@
+Information-flow and data-flow analysis of while-programs
+Univ. of Southampton;Univ. of Southampton
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

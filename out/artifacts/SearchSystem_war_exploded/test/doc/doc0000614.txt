@@ -1,0 +1,4 @@
+The drinking philosophers problem
+University of Texas at Austin;University of Texas at Austin
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

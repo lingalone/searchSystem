@@ -1,0 +1,4 @@
+Generative communication in Linda
+Yale Univ., New Haven, CT
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

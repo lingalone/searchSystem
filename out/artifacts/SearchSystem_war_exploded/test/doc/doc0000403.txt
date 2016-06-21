@@ -1,0 +1,4 @@
+A generalized class of certainty and information measures.
+National Aerospace Lab. NLR, Amsteram, The Netherlands;Delft Univ. of Tech., The Netherlands
+1984
+Information Sciences: an International Journal

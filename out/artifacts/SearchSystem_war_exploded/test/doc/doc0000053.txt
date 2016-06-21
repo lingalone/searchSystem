@@ -1,0 +1,4 @@
+A class of generalized stochastic Petri nets for the performance evaluation of multiprocessor systems
+Politecnico di Torino, Turin, Italy;Politecnico di Torino, Turin, Italy;Univ. di Torino, Turin, Italy
+1984
+ACM Transactions on Computer Systems (TOCS)

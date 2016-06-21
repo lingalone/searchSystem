@@ -1,0 +1,4 @@
+Concatenable type declarations: their applications and implementaion
+Univ. of Warsaw, Poland;Univ. of Warsaw, Poland
+1983
+Proc. IFIP working conference on Programming Languages and System Design

@@ -1,0 +1,4 @@
+User friendly interface for messaging systems
+Federal Univ. of "Rio Grande do Sul", Porto Alegre, Brazil
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

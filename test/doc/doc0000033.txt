@@ -1,0 +1,4 @@
+Fast automatic liveness analysis of hierarchical parallel systems
+Univ. Karlsruhe, Karlsruhe, W. Germany
+1983
+Proc. IFIP working conference on Programming Languages and System Design

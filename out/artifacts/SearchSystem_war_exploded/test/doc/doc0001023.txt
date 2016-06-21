@@ -1,0 +1,4 @@
+A style analysis of C programs
+Lancaster Univ., Lancaster, UK;AGS Computers, Inc., Mountainside, NJ
+1985
+Communications of the ACM - Special section on computer architecture

@@ -1,0 +1,4 @@
+ADA: Concurrent Programming
+AT&T Bell Laboratories, Murray Hill, NJ
+1984
+ADA: Concurrent Programming

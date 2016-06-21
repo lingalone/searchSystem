@@ -1,0 +1,4 @@
+Micro-PROLOG: programming in logic
+-;-
+1984
+Micro-PROLOG: programming in logic

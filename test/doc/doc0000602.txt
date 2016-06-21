@@ -1,0 +1,4 @@
+Area-time tradeoff for rectangular matrix multiplication in VLSI models
+Universita di Pisa, Pisa, Italy
+1984
+Information Processing Letters

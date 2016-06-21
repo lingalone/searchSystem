@@ -1,0 +1,4 @@
+Translating SQL Into Relational Algebra: Optimization, Semantics, and Equivalence of SQL Queries
+Politecnico di Milano, Milano, Italy;Politecnico di Milano, Milano, Italy
+1985
+IEEE Transactions on Software Engineering

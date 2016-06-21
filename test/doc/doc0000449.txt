@@ -1,0 +1,4 @@
+Consistency and serializability in concurrent database systems
+State Univ. of New York at Albany, Albany;State Univ. of New York at Albany, Albany;General Electric Corp., Schenectady, NY
+1984
+SIAM Journal on Computing

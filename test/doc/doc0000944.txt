@@ -1,0 +1,4 @@
+A comparison of time domains for software reliability models
+Bell Laboratories, Whippany, NJ;Bell Laboratories, Whippany, NJ
+1984
+Journal of Systems and Software - Special issue on the fifth Minnowbrook workshop on software performance evaluation

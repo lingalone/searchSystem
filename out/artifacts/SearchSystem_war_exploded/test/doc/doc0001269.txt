@@ -1,0 +1,4 @@
+Using Time Instead of Timeout for Fault-Tolerant Distributed Systems.
+SRI International
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

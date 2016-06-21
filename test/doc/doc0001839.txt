@@ -1,0 +1,4 @@
+Transportable natural language processing through simplicity—the PRE system
+Bell Communications Research, Morristown, NJ
+1985
+ACM Transactions on Information Systems (TOIS)

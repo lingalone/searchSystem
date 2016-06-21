@@ -1,0 +1,4 @@
+Managing transient internetwork links in the Xerox internet
+Xerox Corp.
+1984
+ACM Transactions on Information Systems (TOIS)

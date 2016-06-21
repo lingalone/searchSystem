@@ -1,0 +1,4 @@
+Experimental evaluation of software design principles: an investigation into the effect of module coupling on system modifiability
+AT&T Bell Laboratories;The Ohio State Univ., Columbus
+1984
+Journal of Systems and Software - Special issue on the fifth Minnowbrook workshop on software performance evaluation

@@ -1,0 +1,4 @@
+Computing text constituency: an algorithmic approach to the generation of text graphs
+Univ. Konstanz, Constance, West Germany;Univ. Konstanz, Constance, West Germany
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

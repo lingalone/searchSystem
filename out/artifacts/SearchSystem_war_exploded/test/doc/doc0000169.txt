@@ -1,0 +1,4 @@
+Computation of fourier transform integrals using Chebyshev series expansions
+-;-
+1984
+Computing

@@ -1,0 +1,4 @@
+A formal methodology using attributed grammars for multiprocessing-system software development. I. Design representation; II. Validation
+Bell Telephone Laboratories, Holmdel, NJ;Northwestern Univ., Evanston, IL;Northwestern Univ., Evanston, IL
+1983
+Information Sciences: an International Journal

@@ -1,0 +1,1 @@
+Efficient graph automorphism by vertex partitioning

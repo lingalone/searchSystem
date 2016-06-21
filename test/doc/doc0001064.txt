@@ -1,0 +1,4 @@
+A new analysis of LALR formalisms
+Korea Advanced Institute of Science and Technology;Korea Advanced Institute of Science and Technology;Korea Advanced Institute of Science and Technology
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

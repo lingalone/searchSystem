@@ -1,0 +1,4 @@
+Succinct representations of graphs
+Mini Systems, Inc., Herzlia, Israel;Univ. of California, Berkeley
+1984
+Information and Control

@@ -1,0 +1,4 @@
+Amortized efficiency of list update and paging rules
+AT&T Bell Laboratories, Murray Hill, NJ;AT&T Bell Laboratories, Murray HIll, NJ
+1985
+Communications of the ACM

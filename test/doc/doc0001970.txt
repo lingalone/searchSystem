@@ -1,0 +1,4 @@
+Combining MASCOT with MODULA-2 to aid the engineering of real-time systems
+Univ. of Stirling, Stirling, UK
+1985
+Software—Practice & Experience

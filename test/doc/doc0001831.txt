@@ -1,0 +1,4 @@
+Object representation by means of nonminimal division quadtrees and octrees
+Polytechnic Univ. of Barcelona, Barcelona, Spain;Polytechnic Univ. of Barcelona, Barcelona, Spain;Polytechnic Univ. of Barcelona, Barcelona, Spain;Polytechnic Univ. of Barcelona, Barcelona, Spain
+1985
+ACM Transactions on Graphics (TOG)

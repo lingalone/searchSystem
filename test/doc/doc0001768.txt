@@ -1,0 +1,4 @@
+LUCID, the dataflow programming language
+Univ. of Victoria, Victoria, B.C., Canada;SRI International, Menlo Park, CA
+1985
+LUCID, the dataflow programming language

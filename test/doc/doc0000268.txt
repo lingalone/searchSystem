@@ -1,0 +1,4 @@
+Distributed algorithms for finding centers and medians in networks
+IBM Israel;University of Waterloo;Carleton University
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

@@ -1,0 +1,4 @@
+Analysis of new variants of coalesced hashing
+Brown Univ., Providence, RI;Brown Univ., Providence, RI
+1984
+ACM Transactions on Database Systems (TODS)

@@ -1,0 +1,4 @@
+Parallel language recognition in constant time by cellular automata.
+Technische Hogeschool Delft, Delft, The Netherlands;Technische Hogeschool Delft, Delft, The Netherlands
+1983
+Acta Informatica

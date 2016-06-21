@@ -1,0 +1,4 @@
+A reorganization model based on the database entropy concept.
+American Bell, Inc., Lincroft, NJ
+1984
+The Computer Journal

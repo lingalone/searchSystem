@@ -1,0 +1,4 @@
+Partially ordered sorts in algebraic specifications
+Univ. Dortmund, Dortmund, West Germany
+1984
+Proc. of the conference on Ninth colloquium on trees in algebra and programming

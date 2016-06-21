@@ -1,0 +1,4 @@
+Dynamic Configuration for Distributed Systems
+Imperial College of Science and Technology, London, UK;Imperial College of Science and Technology, London, UK
+1985
+IEEE Transactions on Software Engineering

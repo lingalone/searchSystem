@@ -1,0 +1,1 @@
+Translating SQL Into Relational Algebra: Optimization, Semantics, and Equivalence of SQL Queries

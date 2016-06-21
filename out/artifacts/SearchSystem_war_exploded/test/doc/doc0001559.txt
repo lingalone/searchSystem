@@ -1,0 +1,4 @@
+Viewing parsing as word sense discrimination: a connectionist approach
+The Univ. of Rochester, Rochester, NY;The Univ. of Rochester, Rochester, NY
+1984
+Computational models of natural language processing

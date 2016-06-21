@@ -1,0 +1,4 @@
+Computing contours by successive solution of quintic polynomial equations
+Konrad-Zuse-Zentrum fu¨r Informationstechnik Berlin
+1984
+ACM Transactions on Mathematical Software (TOMS)

@@ -1,0 +1,4 @@
+Uniform hashing is optimal
+Stanford Univ., Stanford, CA
+1985
+Journal of the ACM (JACM)

@@ -1,0 +1,4 @@
+A VLSI interactive layout editor (VILE)
+James Cook Univ. of North Queensland, Townsville, Australia;James Cook Univ. of North Queensland, Townsville, Australia
+1985
+Software—Practice & Experience

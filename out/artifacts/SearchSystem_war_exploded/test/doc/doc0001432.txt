@@ -1,0 +1,4 @@
+Calculation of special functions: the gamma function, the exponential integrals and error-like functions
+-;-
+1984
+Calculation of special functions: the gamma function, the exponential integrals and error-like functions

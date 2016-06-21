@@ -1,0 +1,4 @@
+Routing, merging, and sorting on parallel models of computation
+Univ. of Toronto, Toronto, Ont., Canada;Cornell Univ., Ithaca, NY
+1985
+Journal of Computer and System Sciences

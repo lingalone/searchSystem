@@ -1,0 +1,1 @@
+On two more Eigenvalue methods for an alternating sequential parallel system

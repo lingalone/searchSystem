@@ -1,0 +1,4 @@
+An efficient incremental LR parser for grammars with epislon productions
+Univ. of Wisconsin, Madison;Univ. of Wisconsin, Madison
+1983
+Acta Informatica

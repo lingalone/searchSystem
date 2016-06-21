@@ -1,0 +1,4 @@
+An overview of automated reasoning and related fields
+Argonne National Laboratory, Argonne, IL;SRI International, Menlo Park, CA;Grumman Aerospace Corp., Bethpage, NY;Univ. of Texas, Austin;Univ. of Texas, Austin;Univ. of Texas, Austin;Northwestern Univ., Evanston, IL;Stanford Univ., Stanford, CA;Victoria Univ., Wellington, New Zealand;Kestrel Institute, Palo Alto, CA
+1985
+Journal of Automated Reasoning

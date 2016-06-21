@@ -1,0 +1,4 @@
+GRDB: A general purpose relational database system
+Indian Institute of Science, Bangalore, India;Tata Institute of Fundamental Research, Bombay, India
+1985
+Information Systems

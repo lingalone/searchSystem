@@ -1,0 +1,4 @@
+Increasing robustness in global adaptive quadrature through interval selection heuristics
+University of New Mexico
+1984
+ACM Transactions on Mathematical Software (TOMS)

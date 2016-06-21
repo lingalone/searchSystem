@@ -1,0 +1,4 @@
+A blackboard architecture for control
+Stanford Univ., Stanford, CA
+1985
+Artificial Intelligence

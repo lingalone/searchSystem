@@ -1,0 +1,4 @@
+A heuristic search algorithm with modifiable estimate
+Hungarian Academy of Sciences, Budapest, Hungary
+1984
+Artificial Intelligence

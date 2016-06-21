@@ -1,0 +1,1 @@
+A multitasking operating system with explicit treatment of recovery points

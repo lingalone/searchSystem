@@ -1,0 +1,4 @@
+A class of sorting algorithms based on Quicksort
+The Univ. of Tulsa, Tulsa, OK
+1985
+Communications of the ACM - Lecture notes in computer science Vol. 174

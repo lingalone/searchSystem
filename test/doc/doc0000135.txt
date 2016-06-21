@@ -1,0 +1,4 @@
+Logical, internal, and physical reference behavior in CODASYL database systems
+Univ. of Arizona, Tucson;Univ. of Arizona, Tucson
+1984
+ACM Transactions on Database Systems (TODS)

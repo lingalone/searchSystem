@@ -1,0 +1,4 @@
+High-level testing and example-directed development of software specifications
+University of Ottawa, Ontario, Canada;University of Ottawa, Ontario, Canada
+1984
+Journal of Systems and Software - Special issue on the fifth Minnowbrook workshop on software performance evaluation

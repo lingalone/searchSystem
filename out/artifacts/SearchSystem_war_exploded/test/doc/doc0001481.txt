@@ -1,0 +1,4 @@
+An approach to the functional description of an information retrieval system based on a generalized model
+Cornell Univ., Ithaca, NY;Virginia Polytechnic Institute and State Univ., Blacksburg
+1984
+Information Technology Research Development Applications - Lecture notes in computer science 178

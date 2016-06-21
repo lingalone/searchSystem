@@ -1,0 +1,4 @@
+Implementation of resilient, atomic data types
+MIT, Cambridge, MA;MIT, Cambridge, MA
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

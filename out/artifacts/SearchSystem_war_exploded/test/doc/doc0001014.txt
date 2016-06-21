@@ -1,0 +1,4 @@
+Memory-constrained task scheduling on a network of dual processors
+Iowa State Univ., Ames;Virginia Polytechnic Institute, Blacksburg
+1985
+Journal of the ACM (JACM)

@@ -1,0 +1,4 @@
+Attribute grammar design using the compiler writing system HLP
+Univ. of Helsinki, Helsinki, Finland
+1984
+Methods and tools for compiler construction

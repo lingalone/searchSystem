@@ -1,0 +1,4 @@
+A high level intermediate code
+Philips Research Laboratory, Brussels, Belgium
+1984
+Methods and tools for compiler construction

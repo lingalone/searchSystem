@@ -1,0 +1,4 @@
+A comprehensive model for the storage structure design of CODASYL databases
+Univ. of Wisconsin-Milwaukee, Milwaukee
+1984
+Information Systems

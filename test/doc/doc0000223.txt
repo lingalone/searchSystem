@@ -1,0 +1,4 @@
+Experiments with a fast string searching algorithm
+Aarhus Univ., Aarhus C, Denmark;Aarhus Univ., Aarhus C, Denmark
+1984
+Information Processing Letters

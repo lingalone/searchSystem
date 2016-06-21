@@ -1,0 +1,4 @@
+Organization and VLSI implementation of MIPS
+Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA
+1984
+Advances in VLSI and Computer Systems

@@ -1,0 +1,1 @@
+A block QR algorithm for partitioning stiff differential systems.

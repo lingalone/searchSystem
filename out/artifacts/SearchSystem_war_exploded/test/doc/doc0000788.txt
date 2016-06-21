@@ -1,0 +1,4 @@
+An experimental COBOL restructuring system
+Univ. of Illinois, Urbana-Champaign
+1983
+Software—Practice & Experience

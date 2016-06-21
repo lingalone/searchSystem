@@ -1,0 +1,4 @@
+Another solution of the mutual exclusion problem
+Universidade Estadual de Campinas, Campinas, Brazil;TELEBRAS, Campinas, Brazil
+1984
+Information Processing Letters

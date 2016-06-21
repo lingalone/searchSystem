@@ -1,0 +1,4 @@
+Integrated software validation in the view of inspections/reviews
+IBM Corp., San Jose, CA
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

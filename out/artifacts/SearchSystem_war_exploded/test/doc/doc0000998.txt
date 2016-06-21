@@ -1,0 +1,4 @@
+Optimization of distributed tree queries
+Univ. of Illinois at Chicago, Chicago;Case Western Reserve Univ., Cleveland, OH;Hong Kong Univ., Hong Kong
+1984
+Journal of Computer and System Sciences

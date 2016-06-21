@@ -1,0 +1,4 @@
+Simulation to develop and test queue approximations: a case study
+Rutgers Univ., Piscataway, NJ
+1984
+Simulation

@@ -1,0 +1,4 @@
+Markov chains and computer aided geometric design: Part II—examples and subdivision matrices
+Control Data Corporation, Arden Hills, MN
+1985
+ACM Transactions on Graphics (TOG)

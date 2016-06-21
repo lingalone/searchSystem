@@ -1,0 +1,4 @@
+Portability of syntax and semantics in DATALOG
+General Motors Research Laboratories, Warren, MI;General Motors Research Laboratories, Warren, MI
+1985
+ACM Transactions on Information Systems (TOIS)

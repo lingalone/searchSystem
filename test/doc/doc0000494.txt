@@ -1,0 +1,4 @@
+Partial correctness: the term-wise approach
+University of Gdansk, Gdansk, Poland
+1984
+Science of Computer Programming

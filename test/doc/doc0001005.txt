@@ -1,0 +1,4 @@
+Denotational semantics of CSP
+The Ohio State Univ., Columbus, OH
+1984
+Theoretical Computer Science

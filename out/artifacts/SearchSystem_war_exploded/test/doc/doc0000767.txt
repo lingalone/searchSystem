@@ -1,0 +1,4 @@
+Parallel algorithms for algebraic problems
+Univ. of Toronto, Ont., Canada
+1984
+SIAM Journal on Computing

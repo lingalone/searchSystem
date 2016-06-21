@@ -1,0 +1,4 @@
+Restricted vertex generation applied as a crashing procedure for linear programming
+Univ. of Edinburgh, Edinburgh, Scotland
+1984
+Computers and Operations Research

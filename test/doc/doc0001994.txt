@@ -1,0 +1,4 @@
+Application of abstract data types and abstract indices to CAD data
+-;-;-
+1986
+The INGRES papers: anatomy of a relational database system

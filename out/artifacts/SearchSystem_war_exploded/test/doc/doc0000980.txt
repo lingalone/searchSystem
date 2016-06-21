@@ -1,0 +1,4 @@
+Analysis of an infinite buffer system with random server interruptions
+Ghent State Univ., Ghent, Belgium
+1984
+Computers and Operations Research

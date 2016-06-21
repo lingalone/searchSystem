@@ -1,0 +1,4 @@
+Communicating Sequential Processes for Centralized and Distributed Operating System Design
+School of Computer Science, Ulster Polytechnic, Shore Road, Newtownabbey, Co Antrim BT37 0QB, Northern Ireland and The Queens's University of Belfast;Department of Computer Science, The Queen's University of Belfast, Belfast BT7 1NN, Northern Ireland
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

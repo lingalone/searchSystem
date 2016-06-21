@@ -1,0 +1,4 @@
+An O(n log n) algorithm for finding all repetitions in a string
+Univ. of Colorado, Boulder;Harvey Mudd College, Claremont, CA
+1984
+Journal of Algorithms

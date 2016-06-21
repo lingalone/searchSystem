@@ -1,0 +1,4 @@
+The verification of the protection mechanisms of high-level language machines
+Univ. of Maryland, College Park
+1984
+International Journal of Parallel Programming

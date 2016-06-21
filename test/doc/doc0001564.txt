@@ -1,0 +1,4 @@
+Narrative complexity based on summarization algorithms
+Univ. of Massachusetts, Amherst
+1984
+Computational models of natural language processing

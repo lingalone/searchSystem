@@ -1,0 +1,4 @@
+A generalized implicit enumeration algorithm for graph coloring
+Technical Univ. of Gdan´sk, Gdan´sk, Poland;Polish Academy of Sciences, Gdan´sk, Poland
+1985
+Communications of the ACM - Lecture notes in computer science Vol. 174

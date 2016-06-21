@@ -1,0 +1,4 @@
+A methodology and notation for compiler front end design
+GTE Laboratories, Waltham, MA;Indiana Univ., Bloomington, IN
+1984
+Software—Practice & Experience

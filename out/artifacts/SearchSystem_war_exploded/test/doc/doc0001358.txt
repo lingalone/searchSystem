@@ -1,0 +1,4 @@
+An evaluation of retrieval effectiveness for a full-text document-retrieval system
+The Univ. of Michigan, Ann Arbor;The Univ. of California, Berkeley
+1985
+Communications of the ACM

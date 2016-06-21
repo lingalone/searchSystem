@@ -1,0 +1,4 @@
+An efficient I/O interface for optical disks
+Brown Univ., Providence, RI
+1985
+ACM Transactions on Database Systems (TODS)

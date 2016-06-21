@@ -1,0 +1,4 @@
+Evaluating expressions with a queue
+California Institute of Technology, Pasadena
+1985
+Information Processing Letters

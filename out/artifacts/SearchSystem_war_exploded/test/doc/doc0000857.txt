@@ -1,0 +1,4 @@
+Distributed database design using the entity-relationship model.
+Istituto di Elaborazione della Informazione-C.N.R., Pisa, Italy)
+1983
+Proc. of the third international conference on Entity-relationship approach to software engineering

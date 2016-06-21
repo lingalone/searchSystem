@@ -1,0 +1,4 @@
+Grosch's law re-revisited: CPU power and the cost of computation
+Tel-Aviv Univ., Tel-Aviv, Israel
+1985
+Communications of the ACM

@@ -1,0 +1,4 @@
+LALR(1, 1) parser generation for regular right part grammars
+Univ. of St. Andrews, Fife, Scotland
+1984
+Acta Informatica

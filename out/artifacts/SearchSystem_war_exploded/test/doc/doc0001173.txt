@@ -1,0 +1,4 @@
+An extensible toolset and environment for the production of mathematical software
+Univ. of Colorado at Boulder, Boulder;Univ. of Colorado at Boulder, Boulder
+1984
+Proc. of international conference on Tools, methods and languages for scientific and engineering computation

@@ -1,0 +1,4 @@
+The complexity of distributed concurrency control
+Massachusetts Institute of Technology, Cambridge;Massachusetts Institute of Technology, Cambridge
+1985
+SIAM Journal on Computing

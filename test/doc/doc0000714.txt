@@ -1,0 +1,4 @@
+Performance analysis of recovery techniques
+Univ. of Kaiserslautern, Kaiserslautern, West Germany
+1984
+ACM Transactions on Database Systems (TODS)

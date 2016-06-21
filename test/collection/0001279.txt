@@ -1,0 +1,1 @@
+Nested transactions in a combined IRS-DBMS architecture

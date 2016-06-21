@@ -1,0 +1,4 @@
+A linear algorithm of a deadlock avoidance for nonpreemptible resources
+Polish Academy of Sciences, Warsaw, Poland
+1984
+Information Processing Letters

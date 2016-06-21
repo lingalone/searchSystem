@@ -1,0 +1,4 @@
+Partial implementations of abstract data types: a dissenting view on errors.
+Univ. of Illinois, Urbana, IL;Univ. of Illinois, Urbana, IL
+1984
+Proc. of the international symposium on Semantics of data types

@@ -1,0 +1,1 @@
+A new use of an automated reasoning assistant: open questions in equivalential calculus and the study of infinite domains

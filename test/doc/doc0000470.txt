@@ -1,0 +1,4 @@
+An architecture for object management in OIS
+SYSLAB;SYSLAB;SYSLAB;SYSLAB;SYSLAB
+1984
+ACM Transactions on Information Systems (TOIS)

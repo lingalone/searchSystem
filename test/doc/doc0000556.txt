@@ -1,0 +1,4 @@
+The satisfiability problem for a class consisting of Horn sentences and some non-Horn sentences in porportional logic
+Kyoto Univ., Kyoto, Japan;Kyoto Univ., Kyoto, Japan
+1984
+Information and Control

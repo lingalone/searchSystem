@@ -1,0 +1,4 @@
+Software complexity metric sensitivity to program structuring rules
+-
+1983
+Journal of Systems and Software

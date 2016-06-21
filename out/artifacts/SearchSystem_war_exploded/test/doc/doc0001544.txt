@@ -1,0 +1,4 @@
+EnvoyPost: a hybrid electronic mail service
+Telecom Canada, Ottawa, Canada;Canada Post Corporation, Ottawa, Canada
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

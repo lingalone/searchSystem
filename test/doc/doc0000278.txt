@@ -1,0 +1,4 @@
+Optimal multiway search trees for variable size keys
+Universidade Federal do Rio de Janeiro, Rio de Janeiro, Brasil
+1984
+Acta Informatica

@@ -1,0 +1,4 @@
+Expressive power of typed and type-free programming languages
+Lehrstuhl fu¨r Informatik, Aachen, West Germany
+1984
+Theoretical Computer Science

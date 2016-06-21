@@ -1,0 +1,4 @@
+An extended direct branching algorithm for checking equivalence of deterministic pushdown automata
+The Univ. of Electro-Communications, Tokyo, Japan
+1984
+Theoretical Computer Science

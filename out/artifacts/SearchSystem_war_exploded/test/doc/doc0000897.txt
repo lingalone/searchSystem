@@ -1,0 +1,4 @@
+Designing multibus priority resolver by means of a field programmable logic sequencer
+Polytechnic Institute of Bucharest, Bucharest, Romania
+1984
+Microprocessing and Microprogramming

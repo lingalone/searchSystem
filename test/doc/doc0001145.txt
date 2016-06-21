@@ -1,0 +1,4 @@
+The complexity of some polynomial network consistency algorithms for constraint satisfaction problems
+Univ. of British Columbia, Vancouver, B.C., Canada;Univ. of New Hampshire, Durham
+1985
+Artificial Intelligence

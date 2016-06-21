@@ -1,0 +1,4 @@
+Extensions to grid selector composition and compilation in APL
+The University of Arizona, Tucson;The University of Arizona, Tucson
+1984
+Information Processing Letters

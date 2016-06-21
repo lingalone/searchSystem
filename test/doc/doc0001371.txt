@@ -1,0 +1,4 @@
+Attribute equivalence in global schema design for heterogeneous distributed databases
+IBM Scientific Center, Heidelberg, West Germany;Univ. of Florida, Gainesville
+1984
+Information Systems

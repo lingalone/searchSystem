@@ -1,0 +1,4 @@
+Fast algorithms for the characteristic polynomial
+-
+1985
+Theoretical Computer Science

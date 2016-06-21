@@ -1,0 +1,4 @@
+A proof system for verifying composability of abstract implementation.
+Univ. Politecnica, Barcelona, Spain
+1984
+Proc. of the international symposium on Semantics of data types

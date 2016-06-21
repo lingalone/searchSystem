@@ -1,0 +1,4 @@
+The traveling salesman problem in graphs with 3-edge cutsets
+Carnegie-Mellon Univ., Pittsburgh, PA;Univ. Scientifique et Me´dicale and Univ. des Sci. Sociales, Grenoble, France;Univ. of Waterloo, Waterloo, Ont., Canada
+1985
+Journal of the ACM (JACM)

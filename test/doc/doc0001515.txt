@@ -1,0 +1,4 @@
+Three-way automata on rectangular tapes over a one-letter alphabet
+Latvian State Univ., Riga, USSR
+1985
+Information Sciences: an International Journal

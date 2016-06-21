@@ -1,0 +1,4 @@
+An algebraic approach to shape-from-image problems
+Nagoya Univ., Nagoya, Japan
+1984
+Artificial Intelligence

@@ -1,0 +1,4 @@
+The DISS methodology of distributed system simulation
+The Weizmann Institute of Science, Rehovot, Israel;Univ. of Wisconsin - Madison, Madison
+1984
+Simulation

@@ -1,0 +1,4 @@
+The grand tour: a tool for viewing multidimensional data
+Univ. of California, Berkeley
+1985
+SIAM Journal on Scientific and Statistical Computing

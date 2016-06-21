@@ -1,0 +1,4 @@
+The complexity of evaluating relational queries
+Massachusetts Institute of Technology, Cambridge, MA
+1984
+Information and Control

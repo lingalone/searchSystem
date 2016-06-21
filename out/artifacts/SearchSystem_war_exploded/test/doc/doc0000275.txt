@@ -1,0 +1,4 @@
+A storage structure definition language for CODASYL databases
+Politecnico di Milano, Milan, Italy;Politecnico di Milano, Milan, Italy
+1984
+Information Systems

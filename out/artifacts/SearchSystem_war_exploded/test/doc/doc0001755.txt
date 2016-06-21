@@ -1,0 +1,4 @@
+A database design methodology and tool for information systems
+Univ. of Colorado, Boulder;Univ. of Southern California, Los Angeles
+1985
+ACM Transactions on Information Systems (TOIS)

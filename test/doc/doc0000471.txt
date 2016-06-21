@@ -1,0 +1,4 @@
+SYSTEM/U: a database system based on the universal relation assumption
+IBM Watson Research Center;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA
+1984
+ACM Transactions on Database Systems (TODS)

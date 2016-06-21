@@ -1,0 +1,4 @@
+An intermediate language to define dynamic semantics
+The Univ. of Alabama in Birmingham, Birmingham;Northwestern Univ., Evanston, IL
+1984
+Computer Languages

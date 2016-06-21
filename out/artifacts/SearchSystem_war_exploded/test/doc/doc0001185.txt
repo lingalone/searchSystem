@@ -1,0 +1,4 @@
+Papering over deficiencies in your language for convenience and portability: preprocessors vs. standards
+Bell Laboratories, Murray Hill, NJ
+1984
+Proc. of international conference on Tools, methods and languages for scientific and engineering computation

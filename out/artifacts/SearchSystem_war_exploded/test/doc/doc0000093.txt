@@ -1,0 +1,4 @@
+A language for office and business automation
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+1982
+Physical structures and application on Database design techniques II

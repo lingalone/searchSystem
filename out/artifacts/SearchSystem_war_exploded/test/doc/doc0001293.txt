@@ -1,0 +1,4 @@
+Dependency parsing for information retrieval
+Univ. of Pittsburgh, Pittsburgh, PA;Univ. of Pittsburgh, Pittsburgh, PA;Univ. of Pittsburgh, Pittsburgh, PA;Univ. of Pittsburgh, Pittsburgh, PA
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

@@ -1,0 +1,4 @@
+An Image Processing Language with Icon-Assisted Navigation
+Illinois Institute of Technology, Chicago;National Defense Research Institute, Linko¨ping, Sweden;Univ. of Rome, Rome, Italy;Univ. of Salerno, Salerno, Italy;Hiroshima Univ., Hiroshima, Japan
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

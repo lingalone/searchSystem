@@ -1,0 +1,4 @@
+Entity-relationship diagrams which are in BCNF
+University of Missouri, Columbia;-;Ballistic Missile Defense Advanced Technology Center, Huntsville, AL
+1984
+International Journal of Parallel Programming

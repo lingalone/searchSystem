@@ -1,0 +1,4 @@
+The complexity of propositional linear temporal logics
+Univ. of Massachusetts, Amherst;Carnegie-Mellon Univ., Pittsburgh, PA
+1985
+Journal of the ACM (JACM)

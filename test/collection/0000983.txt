@@ -1,0 +1,1 @@
+Restricted vertex generation applied as a crashing procedure for linear programming

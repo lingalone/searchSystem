@@ -1,0 +1,4 @@
+A parallel algorithm for the monadic unification problem
+Rensselaer Polytechnic Institute, Troy, NY;Rensselaer Polytechnic Institute, Troy, NY
+1985
+BIT

@@ -1,0 +1,1 @@
+A backtracking method for constructing perfect hash functions from a set of mapping functions

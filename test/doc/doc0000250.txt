@@ -1,0 +1,4 @@
+A heuristic for deriving loop functions
+-;-
+1984
+IEEE Transactions on Software Engineering

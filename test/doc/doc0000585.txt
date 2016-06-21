@@ -1,0 +1,4 @@
+Optimum Head Separation in a Disk System with Two Read/Write Heads
+-;-;-
+1984
+Journal of the ACM (JACM)

@@ -1,0 +1,4 @@
+A cooperation scheme for parallel compilation
+IRISA/INSA, Rennes Ce´dex, France
+1984
+Methods and tools for compiler construction

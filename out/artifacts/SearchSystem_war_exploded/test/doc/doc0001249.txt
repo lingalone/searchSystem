@@ -1,0 +1,4 @@
+Performance of an interconnected microprocessor system designed for fast user-level communications
+AT&T Bell Laboratories, Holmdel, NJ;AT&T Bell Laboratories, Holmdel, NJ;AT&T Bell Laboratories, Holmdel, NJ
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

@@ -1,0 +1,1 @@
+Parallel and sequential transformations on digital images

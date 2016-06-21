@@ -1,0 +1,1 @@
+A fast VLSI conversion between binary and residue systems

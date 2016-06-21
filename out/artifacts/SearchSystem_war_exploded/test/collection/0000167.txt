@@ -1,0 +1,1 @@
+The lsubp-solution of the linear matrix equation AX+YB=C

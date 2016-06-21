@@ -1,0 +1,4 @@
+Solving elliptic problems using ELLPACK
+Purdue Univ., West Lafayette, IN;National Bureau of Standards, Gaithersburg, MD
+1985
+Solving elliptic problems using ELLPACK

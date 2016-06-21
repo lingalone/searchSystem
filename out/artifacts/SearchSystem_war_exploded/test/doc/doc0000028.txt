@@ -1,0 +1,4 @@
+Natural language interface to the question-answering system for physicians
+Warsaw University, Warsaw, Poland;Simon Fraser Univ., B.C., Canada
+1984
+Computers and Artificial Intelligence

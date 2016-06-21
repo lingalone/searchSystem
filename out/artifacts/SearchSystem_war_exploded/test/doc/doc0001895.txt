@@ -1,0 +1,4 @@
+Reliable data structures in C
+Plum Hall Inc., Cardiff, NJ
+1985
+Reliable data structures in C

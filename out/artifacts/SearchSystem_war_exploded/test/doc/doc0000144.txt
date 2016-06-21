@@ -1,0 +1,4 @@
+Application of a transformational software development methodology to VLSI design
+USC Information Sciences Institute;USC Information Sciences Institute
+1984
+Journal of Systems and Software

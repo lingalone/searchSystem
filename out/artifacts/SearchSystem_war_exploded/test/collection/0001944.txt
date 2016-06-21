@@ -1,0 +1,1 @@
+Do embedded dependencies always lead to a wild goose chase?

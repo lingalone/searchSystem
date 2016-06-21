@@ -1,0 +1,4 @@
+Communication problems on MIMD parallel computers
+University of East Anglia, Norwich, UK;University of East Anglia, Norwich, UK
+1984
+Information Processing Letters

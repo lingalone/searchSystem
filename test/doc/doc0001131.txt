@@ -1,0 +1,4 @@
+A Unified Approach to a Class of Data Movements on an Array Processor
+International Computers Ltd., England, UK
+1982
+IEEE Transactions on Computers

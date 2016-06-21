@@ -1,0 +1,4 @@
+A diagrammer for the automatic production of entity type models
+Thames Polytechnic, London, UK
+1984
+on Proc. of the third British national conference on databases (BNCOD3)

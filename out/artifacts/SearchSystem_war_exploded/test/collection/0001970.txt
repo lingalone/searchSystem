@@ -1,0 +1,1 @@
+Combining MASCOT with MODULA-2 to aid the engineering of real-time systems

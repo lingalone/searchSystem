@@ -1,0 +1,4 @@
+Framework for the development of an experimental mixed-mode message system
+Univ. of Toronto, Toronto, Ont., Canada
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

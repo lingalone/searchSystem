@@ -1,0 +1,4 @@
+An experimental evaluation of delimiters in a command language syntax
+Sperry Univac, Blue Bell, PA;Sperry Univac, Blue Bell, PA;Sperry Univac, Blue Bell, PA
+1984
+International Journal of Man-Machine Studies

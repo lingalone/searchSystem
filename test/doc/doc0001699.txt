@@ -1,0 +1,4 @@
+Nondeterministic dependencies in relations: an extention of the concept of functional dependency
+Univ. of Heidelberg, Heidelberg, W. Germany;Univ. of Heidelberg, Heidelberg, W. Germany
+1985
+Information Systems

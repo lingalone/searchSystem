@@ -1,0 +1,4 @@
+Significant improvements to the Ford-Johnson algorithm for sorting
+Concordia Univ., Montreal, Quebec, Canada
+1985
+BIT - Ellis Horwood series in artificial intelligence

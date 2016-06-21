@@ -1,0 +1,4 @@
+A model of computation for VLSI with related complexity results
+Carnegie-Mellon University, Pittsburgh, PA;Carnegie-Melon University, Pittsburgh, PA
+1985
+Journal of the ACM (JACM)

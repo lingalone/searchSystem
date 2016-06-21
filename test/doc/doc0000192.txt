@@ -1,0 +1,4 @@
+The Ehrenfeucht conjecture: a compactness claim for finitely generated free monoids
+Univ. of Turku, Turku, Finland
+1984
+Theoretical Computer Science

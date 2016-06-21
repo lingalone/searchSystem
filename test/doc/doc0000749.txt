@@ -1,0 +1,4 @@
+Semantic integrity enforcement in centralized DBMS and distributed DBMS based on slow (geographically distributed) and fast (local area) networks
+Naval Postgraduate School, Monterey, CA
+1984
+Information Systems - Special issue: Databases:8Mtheir creation, management and utilization

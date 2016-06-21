@@ -1,0 +1,1 @@
+Semantic integrity enforcement in centralized DBMS and distributed DBMS based on slow (geographically distributed) and fast (local area) networks

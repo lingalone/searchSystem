@@ -1,0 +1,4 @@
+Self-organizing heuristics for implicit data structures
+The Pennsylvania State Univ., University Park
+1984
+SIAM Journal on Computing

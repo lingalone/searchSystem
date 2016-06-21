@@ -1,0 +1,4 @@
+Space-Time Trade-Offs for Banded Matrix Problems
+Brown Umversity, Providence, Rhode Island
+1984
+Journal of the ACM (JACM)

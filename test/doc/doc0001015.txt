@@ -1,0 +1,4 @@
+Synchronizing clocks in the presence of faults
+SRI International, Menlo Park, CA;SRI International, Menlo Park, CA
+1985
+Journal of the ACM (JACM)

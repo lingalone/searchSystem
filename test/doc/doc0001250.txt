@@ -1,0 +1,4 @@
+Design aids for highly distributed hardware
+Univ.-Gesamthochschule-Paderborn, Paderborn, West Germany
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

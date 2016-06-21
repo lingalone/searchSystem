@@ -1,0 +1,4 @@
+Comutations underlying the measuremnt of visual motion.
+MIT Artificial Intelligence Lab., Cambridge, MA
+1984
+Artificial Intelligence

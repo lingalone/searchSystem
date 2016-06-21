@@ -1,0 +1,4 @@
+A linear time algorithm for computing the convex hull of an ordered crossing polygon
+Speech and Digital Systems Group;Tata Institute of Fundamental Research, Bombay, India
+1984
+Pattern Recognition

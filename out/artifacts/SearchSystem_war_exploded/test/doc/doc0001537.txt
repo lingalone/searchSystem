@@ -1,0 +1,4 @@
+A user agent for multiple computer-based message services
+Carleton Univ., Ottawa, Canada;Bell-Northern Research, Ottawa, Canada
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

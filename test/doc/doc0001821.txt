@@ -1,0 +1,4 @@
+Error bounds for performance prediction in queuing networks
+National Univ. of Singapore, Kent Ridge, Singapore;Harvard Univ., Cambridge, MA
+1985
+ACM Transactions on Computer Systems (TOCS)

@@ -1,0 +1,4 @@
+Some issues in the semantics and pragmatics of definite reference in the context of natural language database access
+Temple Univ., Philadelphia, PA
+1984
+Computers and Artificial Intelligence

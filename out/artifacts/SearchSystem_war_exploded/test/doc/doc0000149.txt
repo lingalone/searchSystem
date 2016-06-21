@@ -1,0 +1,4 @@
+Practical data-swapping: the first steps
+Brown Univ., Providence, RI
+1984
+ACM Transactions on Database Systems (TODS)

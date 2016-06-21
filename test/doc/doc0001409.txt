@@ -1,0 +1,4 @@
+The LISP tutor: it approaches the effectiveness of a human tutor
+Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA
+1985
+BYTE - Lecture notes in computer science Vol. 174

@@ -1,0 +1,4 @@
+A relational representation of an abstract type system
+-;-
+1984
+IEEE Transactions on Software Engineering

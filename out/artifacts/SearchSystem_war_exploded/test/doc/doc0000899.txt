@@ -1,0 +1,4 @@
+A VLSI model for residue number system architectures
+Univ. of Windsor, Ontario, Canada;Univ. of Windsor, Ontario, Canada;Univ. of Windsor, Ontario, Canada
+1984
+Integration, the VLSI Journal

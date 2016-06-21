@@ -1,0 +1,4 @@
+The computation and communication complexity of a parallel banded system solver
+University of Illinois at Urbana-Champaign;University of Illinois at Urbana-Champaign
+1984
+ACM Transactions on Mathematical Software (TOMS)

@@ -1,0 +1,4 @@
+Modeling the distributed termination convention of CSP
+Universite Paris 7;Technion-Israel Institute of Technology
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

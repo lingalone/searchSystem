@@ -1,0 +1,4 @@
+A note on denial-of-service in operating systems
+-
+1984
+IEEE Transactions on Software Engineering

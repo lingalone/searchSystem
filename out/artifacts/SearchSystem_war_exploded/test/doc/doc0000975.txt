@@ -1,0 +1,4 @@
+A distributed alternative to finite-state-machine specifications
+AT & T Bell Laboratories
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

@@ -1,0 +1,4 @@
+Ergonomic considerations in the design of command languages
+Sperry Univac, Blue Bell, PA
+1984
+Proc. of the NYU symposium on user interfaces on Human factors and interactive computer systems

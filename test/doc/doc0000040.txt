@@ -1,0 +1,4 @@
+Design and verification oriented microprogram transformations
+Polish Academy of Sciences, Warsaw, Poland
+1983
+Proc. IFIP working conference on Programming Languages and System Design

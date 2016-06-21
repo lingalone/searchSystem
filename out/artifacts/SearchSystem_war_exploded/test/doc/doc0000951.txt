@@ -1,0 +1,4 @@
+The RISC II micro-architecture
+Stanford Univ., Stanford, CA;Rensselaer Polytechnic Institute, Troy, NY;Univ. of California, Berkeley;Univ. of California, Berkeley
+1984
+Advances in VLSI and Computer Systems

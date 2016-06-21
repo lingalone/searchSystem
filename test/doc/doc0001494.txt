@@ -1,0 +1,4 @@
+Implementing a simulation tool in a high-level language with no multitasking facilities
+Glasgow Univ., Glasgow, Scotland
+1983
+Software—Practice & Experience

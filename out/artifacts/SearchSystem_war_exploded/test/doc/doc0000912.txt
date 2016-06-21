@@ -1,0 +1,4 @@
+Logical routing specification in office information systems
+Univ. of Toronto, Toronto, Ont., Canada;Univ. of Toronto, Toronto, Ont., Canada
+1984
+ACM Transactions on Information Systems (TOIS)

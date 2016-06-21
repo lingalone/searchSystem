@@ -1,0 +1,4 @@
+Parallel algorithms for the single source shortest path problem
+Case Western Reserve Univ., Cleveland, OH;Washington State Univ., Pullman
+1982
+Computing

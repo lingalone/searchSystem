@@ -1,0 +1,4 @@
+An introduction to cryptography
+BNR, Inc., Mountain View, CA;Stanford Univ., Stanford, CA
+1984
+Advances in data communications management: Vol. 2

@@ -1,0 +1,4 @@
+General branch and bound, and its relation to A* and AO*
+Univ. of Maryland, College Park;Univ. of Maryland, College Park;Univ. of Maryland, College Park
+1984
+Artificial Intelligence

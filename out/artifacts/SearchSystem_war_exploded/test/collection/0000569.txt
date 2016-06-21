@@ -1,0 +1,1 @@
+A portable environment for research in automated reasoning

@@ -1,0 +1,4 @@
+Linear quadtrees: a blocking technique for contour filling
+The Univ. of Western Ontario, Ont., Canada;The Univ. of Western Ontario, Ont., Canada
+1984
+Pattern Recognition

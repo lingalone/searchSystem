@@ -1,0 +1,4 @@
+Minimal representations of directed hypergraphs and their application to database design
+Universita` "La Sapienza" Roma, Italy;Universita` "La Sapienza" Roma, Italy;CRAI, Rende, Italy
+1984
+Algorithm design for computer system design

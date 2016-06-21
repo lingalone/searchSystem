@@ -1,0 +1,4 @@
+The design of an expert system for database design
+Projet SABRE, INRIA, Le Chesnay Ce´dex, France;Univ. de Paris VI, Paris Ce´dex, France
+1984
+Proc. of the ICOD-2 workshop on New applications of data bases

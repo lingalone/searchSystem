@@ -1,0 +1,4 @@
+Parallel solution of certain toeplitz linear systems
+Universita di Pisa, Pisa, Italy
+1984
+SIAM Journal on Computing

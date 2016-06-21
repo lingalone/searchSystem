@@ -1,0 +1,4 @@
+Database partitioning in a cluster of processors
+IBM Research Laboratory, San Jose;IBM Research Laboratory, San Jose
+1985
+ACM Transactions on Database Systems (TODS)

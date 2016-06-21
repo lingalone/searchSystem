@@ -1,0 +1,4 @@
+Dealing with world-model-based programs
+Politecnico, Milan, Italy;Univ. of Minnesota, Minneapolis
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

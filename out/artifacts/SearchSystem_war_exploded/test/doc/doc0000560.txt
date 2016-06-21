@@ -1,0 +1,4 @@
+Regular dynamic logic is not interpretable in deterministic context-free dynamic logic
+Kazakh State Univ., Alma-Ata, U.S.S.R
+1984
+Information and Control

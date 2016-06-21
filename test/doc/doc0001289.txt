@@ -1,0 +1,4 @@
+Monitoring and evaluation of information systems via transaction log analysis
+OCLC Online Computer Library Center, Inc., Dublin, OH
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

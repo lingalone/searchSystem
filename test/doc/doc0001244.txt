@@ -1,0 +1,4 @@
+Implementing object based languages on distributed computers
+Univ. of East Anglia, Norfolk, UK;Univ. of East Anglia, Norfolk, UK
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

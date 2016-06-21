@@ -1,0 +1,4 @@
+Optimal quadratures in H(sub)p spaces
+Columbia Univ., New York, NY;Univ. of Utah, Salt Lake City
+1984
+ACM Transactions on Mathematical Software (TOMS)

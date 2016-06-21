@@ -1,0 +1,1 @@
+A syntactic method for image segmentation and object recognition

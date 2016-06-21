@@ -1,0 +1,4 @@
+Computing the extreme distances between two convex polygons
+Univ. of Graz, Graz, Austria
+1985
+Journal of Algorithms

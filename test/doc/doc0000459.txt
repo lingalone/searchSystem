@@ -1,0 +1,4 @@
+Synchronizing shared abstract types
+Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA
+1984
+ACM Transactions on Computer Systems (TOCS)

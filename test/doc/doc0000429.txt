@@ -1,0 +1,4 @@
+An analytical comparison of two string searching algorithms
+Universitat Kaiserslautern, Kaiserslautern, Fed. Rep. Germany
+1984
+Information Processing Letters - Lecture Notes in Computer Science, no. 173

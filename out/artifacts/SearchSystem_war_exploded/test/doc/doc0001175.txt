@@ -1,0 +1,4 @@
+Testing multidimensional integration routines
+Univ. of Kent, Kent, UK
+1984
+Proc. of international conference on Tools, methods and languages for scientific and engineering computation

@@ -1,0 +1,4 @@
+Complexity analyses of event set algorithms
+The Univ., Keele, UK
+1984
+The Computer Journal

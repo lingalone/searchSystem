@@ -1,0 +1,4 @@
+Attribute grammars: attribute evaluation methods
+Twente Univ. of Technology, Enschede, The Netherlands
+1984
+Methods and tools for compiler construction

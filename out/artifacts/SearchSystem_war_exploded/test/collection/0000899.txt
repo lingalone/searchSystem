@@ -1,0 +1,1 @@
+A VLSI model for residue number system architectures

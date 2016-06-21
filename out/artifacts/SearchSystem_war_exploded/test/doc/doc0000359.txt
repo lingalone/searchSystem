@@ -1,0 +1,4 @@
+Fact-based data analysis and design
+IBM, San Jose, CA
+1984
+Journal of Systems and Software - Special double issue on the entity-relationship approach to databases and related software

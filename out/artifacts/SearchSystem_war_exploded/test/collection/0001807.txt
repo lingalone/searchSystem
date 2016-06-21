@@ -1,0 +1,1 @@
+Fast algorithms for the characteristic polynomial

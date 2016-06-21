@@ -1,0 +1,4 @@
+Collecting and categorizing software error data in an industrial environment
+Siemens Research and Technology Laboratories, Princeton, NJ;New York Univ., New York
+1984
+Journal of Systems and Software - Special issue on the fifth Minnowbrook workshop on software performance evaluation

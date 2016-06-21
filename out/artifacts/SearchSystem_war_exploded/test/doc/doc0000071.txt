@@ -1,0 +1,4 @@
+A two-level control structure for parallel heuristic programming
+EPFL, Lausanne, Switzerland;EPFL, Lausanne, Switzerland;EPFL, Lausanne, Switzerland
+1984
+Technology and Science of Informatics

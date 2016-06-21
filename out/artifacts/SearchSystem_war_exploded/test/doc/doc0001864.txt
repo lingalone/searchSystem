@@ -1,0 +1,4 @@
+Constructing trees with prescribed cardinalities for the components of their vertex deleted subgraphs
+CEMA:8MCenter for Military Analysis, Haifa, Israel;Tel-Aviv Univ., Tel-Aviv, Israel
+1985
+Journal of Algorithms

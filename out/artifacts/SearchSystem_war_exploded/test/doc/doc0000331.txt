@@ -1,0 +1,4 @@
+The complexity of monadic recursion schemes: exponential time bounds
+State Univ. of New York at Albany, Albany, NY;State Univ. of New York at Albany, Albany, NY
+1984
+Journal of Computer and System Sciences

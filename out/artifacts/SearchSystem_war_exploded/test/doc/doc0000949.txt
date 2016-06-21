@@ -1,0 +1,4 @@
+Module size: a standard or heuristic?
+Hughes-Fullerton, Fullerton, CA
+1984
+Journal of Systems and Software - Special issue on the fifth Minnowbrook workshop on software performance evaluation

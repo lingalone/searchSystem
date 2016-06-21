@@ -1,0 +1,1 @@
+An analysis of formal logics as inference mechanisms in expert systems

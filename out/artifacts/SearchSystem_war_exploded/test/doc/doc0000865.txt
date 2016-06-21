@@ -1,0 +1,4 @@
+Parallel computer models: an introduction
+Univ. of Roma, Rome, Italy;CNR, Rome, Italy
+1984
+Algorithm design for computer system design

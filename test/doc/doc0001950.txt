@@ -1,0 +1,4 @@
+An approach to interactive definition of database views
+Univ. of East Anglia, Norwich, UK
+1984
+on Proc. of the third British national conference on databases (BNCOD3)

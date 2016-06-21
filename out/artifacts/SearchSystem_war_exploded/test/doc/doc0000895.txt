@@ -1,0 +1,4 @@
+Microprogram simulation using a structured microcode model
+Politecnico di Torino, Turin, Italy;Politecnico di Torino, Turin, Italy
+1984
+Microprocessing and Microprogramming

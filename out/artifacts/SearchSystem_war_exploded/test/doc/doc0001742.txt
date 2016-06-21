@@ -1,0 +1,4 @@
+A formal framework for describing and classifying semantic data models
+Burroughs Corp., Austin, TX
+1985
+Information Systems

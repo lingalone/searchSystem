@@ -1,0 +1,4 @@
+Pushdown automata for user interface management
+Arizona State Univ., Tempe
+1984
+ACM Transactions on Graphics (TOG)

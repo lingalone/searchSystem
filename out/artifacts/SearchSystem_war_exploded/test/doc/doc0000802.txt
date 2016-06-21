@@ -1,0 +1,4 @@
+Methods and tools for compiler construction
+Univ. d'Orle´ans, Orle´ans Ce´dex, France and INRIA,                   Le Chesnay Ce´dex, France
+1984
+Methods and tools for compiler construction

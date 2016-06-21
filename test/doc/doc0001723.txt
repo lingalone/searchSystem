@@ -1,0 +1,4 @@
+A mean value performance model for locking in databases: the no-waiting case
+National Univ. of Singapore, Kent Ridge, Singapore;Harvard Univ., Cambridge, MA;Harvard Univ., Cambridge, MA
+1985
+Journal of the ACM (JACM)

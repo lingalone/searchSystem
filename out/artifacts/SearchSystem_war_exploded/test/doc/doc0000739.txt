@@ -1,0 +1,4 @@
+On the complexity of concurrency control by locking in distributed database systems
+Univ. Karlsruhe, Karlsruhe, West Germany;Univ. Karlsruhe, Karlsruhe, West Germany
+1984
+Information and Control

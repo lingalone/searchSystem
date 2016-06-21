@@ -1,0 +1,4 @@
+An integrated fact/document information system for office automation
+Arizona State Univ., Tempe;Middle East Technical Univ., Ankara, Turkey
+1984
+Information Technology Research Development Applications - Lecture notes in computer science 178

@@ -1,0 +1,4 @@
+The lsubp-solution of the linear matrix equation AX+YB=C
+-
+1984
+Computing

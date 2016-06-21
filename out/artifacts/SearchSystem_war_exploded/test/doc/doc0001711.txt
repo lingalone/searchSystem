@@ -1,0 +1,4 @@
+Data compression using static Huffman code-decode tables
+Cleveland State Univ., Cleveland, OH;-
+1985
+Communications of the ACM

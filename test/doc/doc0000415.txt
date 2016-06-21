@@ -1,0 +1,4 @@
+A basic abstract semantic algebra
+Aarhus Univ., Denmark
+1984
+Proc. of the international symposium on Semantics of data types

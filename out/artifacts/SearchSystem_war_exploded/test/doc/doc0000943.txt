@@ -1,0 +1,4 @@
+Software reliability measurement: prediction, estimation, and assessment
+Rome Air Development Center, Griffiss Air Force Base, Rome, NY
+1984
+Journal of Systems and Software - Special issue on the fifth Minnowbrook workshop on software performance evaluation

@@ -1,0 +1,4 @@
+Upper bounds on the size of LR(k) parsers
+Univ. of Helsinki, Helsinki, Finland
+1985
+Information Processing Letters

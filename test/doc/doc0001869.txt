@@ -1,0 +1,4 @@
+Modeling concepts for VLSI CAD objects
+The Univ. of Texas at Austin, Austin;Microelectronics and Computer Technology Corp., Austin, TX
+1985
+ACM Transactions on Database Systems (TODS)

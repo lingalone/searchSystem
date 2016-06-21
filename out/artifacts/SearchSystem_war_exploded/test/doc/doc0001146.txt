@@ -1,0 +1,4 @@
+Semantical considerations on nonmonotonic logic
+SRI International, Menlo Park, CA
+1985
+Artificial Intelligence

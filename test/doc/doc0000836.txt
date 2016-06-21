@@ -1,0 +1,4 @@
+Worst-case Analysis of Set Union Algorithms
+AT&T Bell Laboratories, Murray Hill, New Jersey;University of Utrecht, Utrecht, The Netherlands
+1984
+Journal of the ACM (JACM)

@@ -1,0 +1,4 @@
+Cryptanalysis of certain variants of Rabin's signature scheme
+The Weizmann Institute of Science, Rehovot, Israel;Johann Wolfgang Goethe Univ., Frankurt, West Germany
+1984
+Information Processing Letters

@@ -1,0 +1,4 @@
+A backtracking method for constructing perfect hash functions from a set of mapping functions
+National Chiao Tung Univ., Hsinchu, Taiwan, Republic of China
+1985
+BIT - Ellis Horwood series in artificial intelligence

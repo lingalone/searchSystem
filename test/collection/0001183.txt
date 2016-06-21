@@ -1,0 +1,1 @@
+Arithmetic specification in FORTRAN 8X

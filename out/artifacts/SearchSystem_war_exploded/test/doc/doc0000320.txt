@@ -1,0 +1,4 @@
+A Theory of Communicating Sequential Processes
+Carnegie-Mellon Umversity, Pittsburgh, Pennsylvania;Oxford Umversity Programmmg Research Group, Oxford, England;Oxford Umversity Programmmg Research Group, Oxford, England
+1984
+Journal of the ACM (JACM)

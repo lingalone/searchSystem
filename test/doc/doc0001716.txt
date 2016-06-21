@@ -1,0 +1,4 @@
+Analysis of grid file algorithms
+INRIA, Chesnay, France
+1985
+BIT

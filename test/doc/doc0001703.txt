@@ -1,0 +1,4 @@
+Design criteria for functional data bases
+Cornell University, Ithica, NY
+1985
+Information Systems

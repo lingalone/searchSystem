@@ -1,0 +1,4 @@
+Integer linear programming for microprograms register allocation
+Universidad Autonoma de Barcelona, Bellaterra, Spain;Universidad Autonoma de Barcelona, Bellaterra, Spain
+1984
+Information Processing Letters

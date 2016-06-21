@@ -1,0 +1,4 @@
+An optimal algorithm for finding all the jumps of a monotone step-function
+Tel Aviv Univ., Tel Aviv, Israel;Tel Aviv Univ., Tel Aviv, Israel
+1985
+Journal of Algorithms

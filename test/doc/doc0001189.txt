@@ -1,0 +1,4 @@
+Automatic techniques in FORTRAN programming
+Culham Laboratory, Oxford, UK;Culham Laboratory, Oxford, UK
+1984
+Proc. of international conference on Tools, methods and languages for scientific and engineering computation

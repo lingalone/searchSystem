@@ -1,0 +1,4 @@
+A fixpoint semantics for nondeterministic data flow
+Univ. of Queensland, St. Lucia, Australia;Univ. of Queensland, St. Lucia, Australia
+1985
+Journal of the ACM (JACM)

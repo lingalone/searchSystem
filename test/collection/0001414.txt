@@ -1,0 +1,1 @@
+Learning in parallel networks: simulating learning in a probabilistic system

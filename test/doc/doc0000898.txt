@@ -1,0 +1,4 @@
+An example of microprocessor's application in minicomputer systems: a copy volume design and implementation
+Honeywell, Milan, Italy;Etnoteam, Milan, Italy;SGS-Ates Componenti Elettronici SpA, Agrate Brianza, Italy
+1984
+Microprocessing and Microprogramming

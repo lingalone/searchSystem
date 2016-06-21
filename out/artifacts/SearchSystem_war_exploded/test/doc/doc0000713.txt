@@ -1,0 +1,4 @@
+A database cache for high performance and fast restart in database systems
+Technische Univ. Mu¨nchen, Munich, West Germany;Technische Univ. Mu¨nchen, Munich, West Germany
+1984
+ACM Transactions on Database Systems (TODS)

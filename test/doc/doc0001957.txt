@@ -1,0 +1,4 @@
+High-Speed VLSI Multiplication Algorithm with a Redundant Binary Addition Tree
+Kyoto Univ., Kyoto, Japan;Kyoto Univ., Kyoto, Japan;Kyoto Univ., Kyoto, Japan
+1985
+IEEE Transactions on Computers

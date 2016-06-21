@@ -1,0 +1,4 @@
+Commonsense reasoning about causality: deriving behavior from structure
+Massachusetts Institute of Technology, Cambridge, MA
+1984
+Artificial Intelligence - Special volume on qualitative reasoning about physical systems

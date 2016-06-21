@@ -1,0 +1,1 @@
+Human-oriented information acquisition in sequential pattern classification: part 1--single membership classification

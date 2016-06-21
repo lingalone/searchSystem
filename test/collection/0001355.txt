@@ -1,0 +1,1 @@
+Interfacing PROLOG and relational data base management systems

@@ -1,0 +1,4 @@
+Retrieval test evaluation of a rule based automatic indexing (AIR/PHYS)
+TH Darmstadt, Darmstadt, West Germany;TH Darmstadt, Darmstadt, West Germany
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

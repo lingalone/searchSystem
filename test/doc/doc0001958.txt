@@ -1,0 +1,4 @@
+An Optimal Algorithm for Assigning Cryptographic Keys to Control Access in a Hierarchy
+Queen's Univ., Kingston, Ont., Canada;Queen's Univ., Kingston, Ont., Canada;Queen's Univ., Kingston, Ont., Canada;Queen's Univ., Kingston, Ont., Canada
+1985
+IEEE Transactions on Computers

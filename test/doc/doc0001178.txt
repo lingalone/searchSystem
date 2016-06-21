@@ -1,0 +1,4 @@
+A portable environment for teaching mathematical software development
+Univ. of Genova, Genoa, Italy;Univ. of Genova, Genoa, Italy;Univ. of Genova, Genoa, Italy
+1984
+Proc. of international conference on Tools, methods and languages for scientific and engineering computation

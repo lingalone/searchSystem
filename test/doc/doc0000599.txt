@@ -1,0 +1,4 @@
+Approximating block accesses in database organizations
+Temple Univ., Philadelphia, PA;University of Minnesota, Minneapolis
+1984
+Information Processing Letters

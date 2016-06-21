@@ -1,0 +1,4 @@
+Synthesizing Code for Resource Controllers
+Univ. of Massachusetts, Amherst
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

@@ -1,0 +1,4 @@
+Hash trees versus b-trees
+Ulster Polytechnic, UK;University of Aberdeen, UK
+1984
+The Computer Journal

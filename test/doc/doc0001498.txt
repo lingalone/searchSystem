@@ -1,0 +1,4 @@
+Application of software inspection methodology in design and code
+IBM Corp., Manassas, VA;IBM Corp., Manassas, VA
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

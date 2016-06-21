@@ -1,0 +1,1 @@
+A rational reconstruction of the MYCIN consultation system

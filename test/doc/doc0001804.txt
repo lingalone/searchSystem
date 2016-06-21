@@ -1,0 +1,4 @@
+DAL—a logic for data analysis
+Univ. Paul Sabatier, Toulouse Cedex, France;Polish Academy of Sciences, Warsaw, Poland
+1985
+Theoretical Computer Science

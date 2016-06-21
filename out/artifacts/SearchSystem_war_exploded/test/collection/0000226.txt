@@ -1,0 +1,1 @@
+On computing the determinant in small parallel time using a small number of processors

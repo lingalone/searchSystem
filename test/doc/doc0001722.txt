@@ -1,0 +1,4 @@
+Generalized best-first search strategies and the optimality of A*
+University of California, Los Angeles, CA;University of California, Los Angeles, CA
+1985
+Journal of the ACM (JACM)

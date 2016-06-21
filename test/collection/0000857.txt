@@ -1,0 +1,1 @@
+Distributed database design using the entity-relationship model.

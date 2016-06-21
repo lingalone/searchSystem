@@ -1,0 +1,4 @@
+Minkowski matrices.
+Westfalische Wilhems-Univ., Mu¨nster, West Germany
+1983
+ACM Transactions on Mathematical Software (TOMS)

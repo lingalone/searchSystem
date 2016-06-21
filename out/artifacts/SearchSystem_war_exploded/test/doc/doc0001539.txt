@@ -1,0 +1,4 @@
+Structures for mailbox system applications
+National Computing Centre, Manchester, UK
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

@@ -1,0 +1,4 @@
+The design of divide and conquer algorithms
+Naval Postgraduate School, Monterey, CA
+1985
+Science of Computer Programming

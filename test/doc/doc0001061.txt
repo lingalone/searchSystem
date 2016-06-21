@@ -1,0 +1,4 @@
+Buffer allocation strategies with blocking requirements
+Chinese University of Hong Kong, Hong Kong;National Taiwan University, Taiwan
+1984
+Performance Evaluation

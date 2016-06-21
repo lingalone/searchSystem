@@ -1,0 +1,4 @@
+Dataflow resource managers and their synthesis from open path expressions
+-;-
+1984
+IEEE Transactions on Software Engineering

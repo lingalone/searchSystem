@@ -1,0 +1,4 @@
+Optimal orientations of cells in slicing floorplan designs
+IBM Research Laboratory, San Jose, CA
+1984
+Information and Control

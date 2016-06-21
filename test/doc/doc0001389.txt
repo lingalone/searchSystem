@@ -1,0 +1,4 @@
+Expressions for batched searching of sequential and hierarchical files
+Temple Univ., Philadelphia, PA
+1985
+ACM Transactions on Database Systems (TODS)

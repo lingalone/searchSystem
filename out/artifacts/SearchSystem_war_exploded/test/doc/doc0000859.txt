@@ -1,0 +1,4 @@
+Computing in transcendental extensions.
+Univ. of Cambridge, Cambridge, MA
+1983
+Computer algebra: symbolic and algebraic computation (2nd ed.)

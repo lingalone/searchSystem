@@ -1,0 +1,4 @@
+Efficient planar convex hull algorithm
+Univ. of Natal, Durban, South Africa
+1985
+Image and Vision Computing

@@ -1,0 +1,4 @@
+Database design: composing fully normalized tables from a rigorous dependency diagram
+Lockheed-Georgia Company, Marietta, GA
+1985
+Communications of the ACM

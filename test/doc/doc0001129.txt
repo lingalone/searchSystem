@@ -1,0 +1,4 @@
+Terminating Turing Machine Computations and the Complexity and/or decidability of Correspondence Problems, Grammars, and Program Schemes
+State Universtty of New York at Albany, Albany, New York
+1984
+Journal of the ACM (JACM)

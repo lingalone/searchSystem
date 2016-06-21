@@ -1,0 +1,4 @@
+Simulations of three adaptive, decentralized controlled, job scheduling algorithms
+Univ. of Massachusetts, Amherst
+1984
+Computer Networks and ISDN Systems

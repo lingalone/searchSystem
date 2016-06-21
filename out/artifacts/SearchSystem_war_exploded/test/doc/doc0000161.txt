@@ -1,0 +1,4 @@
+A rational reconstruction of the MYCIN consultation system
+The Open Univ., Milton Keynes, UK;The Open Univ., Milton Keynes, UK
+1984
+International Journal of Man-Machine Studies - Developments in expert systems, part 3. M. J. Coombs (guest ed.)

@@ -1,0 +1,4 @@
+A taxonomy of parallel sorting
+Weizmann Institute, Rehovot, Israel;Univ. of Wisconsin, Madison;The Ohio State Univ., Columbus;The Ohio State Univ., Columbus
+1984
+ACM Computing Surveys (CSUR)

@@ -1,0 +1,4 @@
+Process Scheduling in a Computer System
+Technion-Israel Institute of Technology, Haifa, Israel
+1985
+IEEE Transactions on Computers

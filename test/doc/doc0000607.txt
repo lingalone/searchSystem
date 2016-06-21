@@ -1,0 +1,4 @@
+The promotion and accumulation strategies in transformational programming
+Oxford University
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

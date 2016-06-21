@@ -1,0 +1,4 @@
+SMALLTALK-80: the interactive programming environment
+Xerox Palo Alto Research Center, Palo Alto, CA
+1984
+SMALLTALK-80: the interactive programming environment

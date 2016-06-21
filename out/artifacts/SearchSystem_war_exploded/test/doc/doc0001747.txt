@@ -1,0 +1,4 @@
+Cautious transaction schedulers with admission control
+Kobe Univ. of Commerce, Kobe, Japan;Toyohasi Univ. of Technology, Toyohashi, Japan;Simon Fraser Univ., British Columbia, Canada
+1985
+ACM Transactions on Database Systems (TODS)

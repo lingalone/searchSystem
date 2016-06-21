@@ -1,0 +1,4 @@
+An Approach to the Modeling of Software Testing with Some Applications
+Univ. of Queensland, St. Lucia, Brisbane, Queensland, Australia
+1985
+IEEE Transactions on Software Engineering

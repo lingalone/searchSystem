@@ -1,0 +1,4 @@
+Time-Space trade-offs for some algebraic problems
+The Pennsylvania State University, University Park, Pennsylvania
+1983
+Journal of the ACM (JACM)

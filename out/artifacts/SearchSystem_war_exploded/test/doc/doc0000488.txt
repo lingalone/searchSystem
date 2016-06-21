@@ -1,0 +1,4 @@
+Architectural considerations of the parallel SIMULA machine
+Univ. of Dundee, Dundee, UK;University of Patras, Patras, Greece;University of Patras, Patras, Greece
+1984
+The Computer Journal

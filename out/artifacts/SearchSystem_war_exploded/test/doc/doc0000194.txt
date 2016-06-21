@@ -1,0 +1,4 @@
+Algorithm 614: a FORTRAN subroutine for numerical integration in H(sub)p
+Columbia Univ., New York, NY;Univ. of Utah, Salt Lake City;Old Dominion Univ., Norfolk, VA
+1984
+ACM Transactions on Mathematical Software (TOMS)

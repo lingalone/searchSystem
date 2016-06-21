@@ -1,0 +1,4 @@
+A user-friendly naming convention for use in communication networks
+Xerox Corporation, Palo Alto, CA
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

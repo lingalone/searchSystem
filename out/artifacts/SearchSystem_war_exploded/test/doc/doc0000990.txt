@@ -1,0 +1,4 @@
+User-defined types in a polymorphic language.
+Univ. of Glasgow, Glasgow, Scotland
+1984
+The Computer Journal

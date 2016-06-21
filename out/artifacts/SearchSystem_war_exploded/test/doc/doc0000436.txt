@@ -1,0 +1,4 @@
+Programmed deallocation without dangling reference
+Istituto di Analisi dei Sistemi ed Informatica del C.N.R., Roma, Italy;Uniwersytetu Warszawskiego, Warszawa, Poland
+1984
+Information Processing Letters

@@ -1,0 +1,4 @@
+Storing a Sparse Table with 0(1) Worst Case Access Time
+Univ. of California, San Diego, La Jolla;-;-
+1984
+Journal of the ACM (JACM)

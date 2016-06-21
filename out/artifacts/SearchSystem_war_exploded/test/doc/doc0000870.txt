@@ -1,0 +1,4 @@
+An algorithm for concurrency control and recovery in replicated distributed databases
+Sequoia Systems, Inc.;Sequoia Systems, Inc.
+1984
+ACM Transactions on Database Systems (TODS)

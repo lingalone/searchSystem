@@ -1,0 +1,4 @@
+Maintaining order in a generalized linked list
+Univ. des Saarlandes, Saarbru¨cken, West Germany
+1984
+Acta Informatica

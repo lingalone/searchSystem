@@ -1,0 +1,4 @@
+Binary tree gray codes
+Univ. of Oregon, Eugene;Univ. of Victoria, Victoria, B.C., Canada
+1985
+Journal of Algorithms

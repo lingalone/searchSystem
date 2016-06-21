@@ -1,0 +1,4 @@
+A portable environment for research in automated reasoning
+Argonne National Laboratory, Argonne, IL;Argonne National Laboratory, Argonne, IL
+1984
+Proc. of the conference on 7th international conference on automated deduction

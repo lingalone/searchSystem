@@ -1,0 +1,4 @@
+Parallel algorithms for data compression
+Brandeis Univ., Waltham, MA;Brandeis Univ., Waltham, MA
+1985
+Journal of the ACM (JACM)

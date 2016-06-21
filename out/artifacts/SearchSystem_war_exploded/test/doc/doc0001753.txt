@@ -1,0 +1,4 @@
+Cursor movement during text editing
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY;IBM Thomas J. Watson Research Center, Yorktown Heights, NY;IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+1985
+ACM Transactions on Information Systems (TOIS)

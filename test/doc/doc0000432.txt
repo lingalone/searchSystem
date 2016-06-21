@@ -1,0 +1,4 @@
+Some equivalent transformations of recursive programs based on their schematic properties
+Siberian Branch of the USSR Academy of Sciences, Novosibirsk, USSR
+1984
+Information Processing Letters - Lecture Notes in Computer Science, no. 173

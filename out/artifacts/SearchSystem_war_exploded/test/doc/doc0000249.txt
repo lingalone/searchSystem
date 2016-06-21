@@ -1,0 +1,4 @@
+Intervention schedules for real-time programming
+-
+1984
+IEEE Transactions on Software Engineering

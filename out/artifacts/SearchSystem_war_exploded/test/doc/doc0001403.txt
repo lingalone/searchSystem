@@ -1,0 +1,4 @@
+Symbolic mathematical computation
+The Institute for Advanced Study, Princeton, NJ
+1985
+Communications of the ACM - Lecture notes in computer science Vol. 174

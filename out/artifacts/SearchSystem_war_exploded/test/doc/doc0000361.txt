@@ -1,0 +1,4 @@
+An entity-relationship algebra and its semantic description capabilities
+Technion-Israel Institute of Technology;Technion-Israel Institute of Technology
+1984
+Journal of Systems and Software - Special double issue on the entity-relationship approach to databases and related software

@@ -1,0 +1,1 @@
+Extension of the Banker's algorithm for resource allocation in a distributed operating system

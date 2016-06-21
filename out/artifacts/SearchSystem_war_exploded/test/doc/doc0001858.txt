@@ -1,0 +1,4 @@
+A method for managing evidential reasoning in a hierarchical hypothesis space
+Stanford Univ., Stanford, CA;Stanford Univ., Stanford, CA
+1985
+Artificial Intelligence

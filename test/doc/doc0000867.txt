@@ -1,0 +1,4 @@
+A VLSI sorter
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+1984
+Algorithm design for computer system design

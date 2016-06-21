@@ -1,0 +1,1 @@
+Improved methods of estimating shape from shading using the light source coordinate system

@@ -1,0 +1,4 @@
+Input driven languages are recognized in log n space
+Univ. of Bonn;Univ. of Bonn
+1985
+Selected papers of the international conference on "foundations of computation theory" on Topics in the theory of computation

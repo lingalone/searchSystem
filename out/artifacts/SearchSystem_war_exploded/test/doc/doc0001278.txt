@@ -1,0 +1,4 @@
+An interactive database end user facility for the definition and manipulation of forms
+Univ. of East Anglia, Norwich, UK;Univ. of East Anglia, Norwich, UK
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

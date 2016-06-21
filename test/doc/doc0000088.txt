@@ -1,0 +1,4 @@
+Efficient polygon-filling algorithms for raster displays
+Boston College, Boston, MA
+1983
+ACM Transactions on Graphics (TOG)

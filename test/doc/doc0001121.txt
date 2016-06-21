@@ -1,0 +1,4 @@
+The use of design descriptions in automated diagnosis
+Stanford Univ., Stanford, CA
+1984
+Artificial Intelligence - Special volume on qualitative reasoning about physical systems

@@ -1,0 +1,4 @@
+An intermediate machine technique for deciding equivalence between a DPDA and a linear DPDA
+Technion-Israel Institute of Technology, Haifa, Israel;Tel-Aviv Univ., Tel Aviv, Israel
+1984
+Information and Control

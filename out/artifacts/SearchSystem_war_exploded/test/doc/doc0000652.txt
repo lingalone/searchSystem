@@ -1,0 +1,4 @@
+Biprefix codes, inverse semigroups and syntactic monoids of injective automata
+Monash Univ., Victoria, Australia
+1984
+Theoretical Computer Science

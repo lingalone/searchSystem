@@ -1,0 +1,4 @@
+On the design of ANNA, a specification language for ADA
+Stanford Univ., Stanford, CA
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

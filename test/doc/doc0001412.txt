@@ -1,0 +1,4 @@
+The challenge of open systems: current logic programming methods may be insufficient for developing the intelligent systems of the future
+MIT Artificial Intelligence Laboratory, Cambridge, MA
+1985
+BYTE - Lecture notes in computer science Vol. 174

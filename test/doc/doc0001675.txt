@@ -1,0 +1,4 @@
+Efficient algorithms for combinatorial problems on graphs with bounded, decomposability—a survey
+The Royal Institute of Technology, Stockholm, Sweden
+1985
+BIT - Ellis Horwood series in artificial intelligence

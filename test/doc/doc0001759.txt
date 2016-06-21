@@ -1,0 +1,4 @@
+Ray tracing objects defined by sweeping planar cubic splines
+Delft Univ. of Technology, Delft, The Netherlands
+1984
+ACM Transactions on Graphics (TOG)

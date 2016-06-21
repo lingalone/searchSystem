@@ -1,0 +1,4 @@
+Convex partitions of polyhedra: a lower bound and worst-case optimal algorithm
+Brown Univ., Providence, RI
+1984
+SIAM Journal on Computing

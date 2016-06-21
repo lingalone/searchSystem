@@ -1,0 +1,4 @@
+Describing and analyzing distributed software system designs
+Univ. of Massachusetts, Amherst;Univ. of Massachusetts, Amherst
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

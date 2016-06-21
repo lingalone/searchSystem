@@ -1,0 +1,4 @@
+MOS: a multicomputer distributed operating system
+The Hebrew Univ. of Jerusalem, Jerusalem, Israel;The Hebrew Univ. of Jerusalem, Jerusalem, Israel
+1985
+Software—Practice & Experience

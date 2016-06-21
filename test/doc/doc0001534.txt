@@ -1,0 +1,4 @@
+Multimedia message content protocols for computer mail
+SRI International, Menlo Park, CA;SRI International, Menlo Park, CA
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

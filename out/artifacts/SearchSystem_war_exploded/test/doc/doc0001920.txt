@@ -1,0 +1,4 @@
+A review of recent developments in solving ODEs
+Monash Univ., Clayton, Australia;Melbourne Institute of Technology, Melbourne, Australia;Monash Univ., Clayton, Australia
+1985
+ACM Computing Surveys (CSUR) - Annals of discrete mathematics, 24

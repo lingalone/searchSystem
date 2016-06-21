@@ -1,0 +1,4 @@
+System Structure Analysis: Clustering with Data Bindings
+Clemson Univ., Clemson, SC;Univ. of Maryland, College Park
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

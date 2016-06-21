@@ -1,0 +1,4 @@
+An empirical investigation into problem decomposition strategies used in program design
+Aston Univ., Birmingham, UK;Wolverham Polytechnic, Wolverhampton, UK
+1985
+International Journal of Man-Machine Studies - Ellis Horwood series in artificial intelligence

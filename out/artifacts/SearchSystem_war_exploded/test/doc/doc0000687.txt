@@ -1,0 +1,4 @@
+Rounding error analysis of interpolation procedures
+-
+1984
+Computing

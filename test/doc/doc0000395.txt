@@ -1,0 +1,4 @@
+Colour gradation, shading and texture using a limited terminal
+Universite de Montreal, Montreal, Quebec, Canada;Universite de Montreal, Montreal, Quebec, Canada;Universite de Montreal, Montreal, Quebec, Canada
+1984
+Computer Graphics Forum

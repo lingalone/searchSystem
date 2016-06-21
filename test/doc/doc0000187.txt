@@ -1,0 +1,4 @@
+Recursive programs as definitions in first order logic
+Rice Univ., Houston, TX
+1984
+SIAM Journal on Computing

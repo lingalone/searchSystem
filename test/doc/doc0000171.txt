@@ -1,0 +1,4 @@
+Domain-independent planning: representation and plan generation
+SRI International, Menlo Park, CA
+1984
+Artificial Intelligence

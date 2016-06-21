@@ -1,0 +1,4 @@
+A Formal Method for the Abstract Specification of Software
+Naval Research Laboratory, Washington, D C
+1984
+Journal of the ACM (JACM)

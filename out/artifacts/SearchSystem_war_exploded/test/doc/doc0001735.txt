@@ -1,0 +1,4 @@
+A survey of verification techniques for parallel programs
+Univ. of Manchester, Manchester, UK
+1985
+A survey of verification techniques for parallel programs

@@ -1,0 +1,4 @@
+On the overflow process from a finite Markovian queue
+Centre for Mathematics and Computer Science, Amsterdam, The Netherlands
+1984
+Performance Evaluation

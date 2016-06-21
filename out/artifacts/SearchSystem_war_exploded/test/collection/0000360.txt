@@ -1,0 +1,1 @@
+Translation of entity-relationship diagrams into relational structures

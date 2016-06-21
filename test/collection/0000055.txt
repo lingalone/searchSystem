@@ -1,0 +1,1 @@
+A supervised learning algorithm for hierarchical classification of fuzzy patterns

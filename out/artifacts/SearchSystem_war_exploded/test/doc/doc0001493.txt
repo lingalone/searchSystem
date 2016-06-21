@@ -1,0 +1,4 @@
+A polynomial time generator for minimal perfect hash functions
+Univ. of Missouri-Rolla, Rolla
+1985
+Communications of the ACM

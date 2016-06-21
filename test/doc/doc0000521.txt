@@ -1,0 +1,4 @@
+Empty arrays in extended APL
+IBM Research Division, Yorktown Heights, NY
+1984
+IBM Journal of Research and Development

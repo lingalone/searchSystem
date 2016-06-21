@@ -1,0 +1,4 @@
+Random variate generation for unimodal and monotone densities
+-
+1984
+Computing

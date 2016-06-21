@@ -1,0 +1,4 @@
+On convergence toward a database of program transformations
+Schlumberger-Doll Research, Ridgefield, CT
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

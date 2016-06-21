@@ -1,0 +1,4 @@
+Magma2: a language oriented toward experiments in control
+Univ. di Pisa, Pisa, Italy
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

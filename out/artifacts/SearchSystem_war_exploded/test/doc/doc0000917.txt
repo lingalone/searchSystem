@@ -1,0 +1,4 @@
+Dynamic, first-fit packings in two or more dimensions
+Bell Laboratories, Murray Hill, NJ;Bell Laboratories, Murray Hill, NJ
+1984
+Information and Control

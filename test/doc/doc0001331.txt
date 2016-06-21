@@ -1,0 +1,4 @@
+Random sampling with a reservoir
+Brown Univ., Providence, RI
+1985
+ACM Transactions on Mathematical Software (TOMS)

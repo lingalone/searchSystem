@@ -1,0 +1,4 @@
+FUMBLE: a PASCAL program for initializing memory
+Kingston Polytechnic, Kingston-upon-Thames, Surrey, UK
+1983
+Software—Practice & Experience

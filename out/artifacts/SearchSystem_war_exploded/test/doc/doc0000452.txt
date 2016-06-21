@@ -1,0 +1,4 @@
+Efficient parallel algorithms for a class of graph theoretic problems
+Univ. of Alberta, Alberta, Canada and Memorial University of Newfoundland, Newfoundland, Canada;Univ. of Alberta, Alberta, Canada
+1984
+SIAM Journal on Computing

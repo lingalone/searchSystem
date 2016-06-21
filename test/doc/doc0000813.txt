@@ -1,0 +1,4 @@
+A performance guarantee for the greedy set-partitioning algorithm
+AT & T Bell Laboratories, Murray Hill, NJ;Washington State Univ., Pullman, WA
+1984
+Acta Informatica

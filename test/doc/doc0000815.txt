@@ -1,0 +1,4 @@
+Alternation and the computational complexity of logic programs
+Weizmann Institute of Science, Rehovot, Israel
+1984
+Journal of Logic Programming

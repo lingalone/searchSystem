@@ -1,0 +1,4 @@
+Navigational facilities for relational database.
+Polish Academy of Sciences, Warsaw, Poland
+1983
+Information Systems

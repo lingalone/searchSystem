@@ -1,0 +1,4 @@
+On the Multiple Implementation of Abstract Data Types Within a Computation
+Xerox Palo Alto Research Center, Palo Alto, CA
+1983
+IEEE Transactions on Software Engineering

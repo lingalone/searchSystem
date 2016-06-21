@@ -1,0 +1,4 @@
+On optimal arrangements of keys with double hashing
+IBM Research Laboratory, San Jose, CA
+1985
+Journal of Algorithms

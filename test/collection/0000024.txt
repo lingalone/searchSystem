@@ -1,0 +1,1 @@
+An approximation method of the local type. Application to a problem of heart potential mapping

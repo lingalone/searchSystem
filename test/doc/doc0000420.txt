@@ -1,0 +1,4 @@
+The typechecking of programs with implicit type structure.
+Syracuse Univ., NY
+1984
+Proc. of the international symposium on Semantics of data types

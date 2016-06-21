@@ -1,0 +1,4 @@
+Technique for redundancy control in a distributed hierarchical filestore
+Univ. of Bradford, West Yorkshire, UK;Univ. of Keele, Staffs, UK
+1984
+Information Technology Research Development Applications - Lecture notes in computer science 178

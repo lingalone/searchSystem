@@ -1,0 +1,4 @@
+Synthesis of parallel numerical algorithms
+-
+1984
+Algorithms, software and hardware of parallel computers

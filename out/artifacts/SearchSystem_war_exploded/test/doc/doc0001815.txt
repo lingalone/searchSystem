@@ -1,0 +1,4 @@
+Bayesian reliability evaluation of computer systems
+-;Univ. of Pennsylvania, Philadelphia
+1984
+Computers and Electrical Engineering - Special issue: reliability and verification of computing systems

@@ -1,0 +1,4 @@
+The implementation of UNIFORM—a knowledge-representation/programming language based upon equivalence of descriptions
+Univ. of Uppsala
+1985
+Selected and updated papers from the proceedings of the 1982 European conference on Progress in artificial intelligence

@@ -1,0 +1,1 @@
+An optimal contour algorithm for iso-oriented rectangles

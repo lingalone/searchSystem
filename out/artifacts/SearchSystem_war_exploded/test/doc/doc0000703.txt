@@ -1,0 +1,4 @@
+A separator theorem for graphs of bounded genus
+Cornell Univ., Ithaca, NY;Smith College, Northampton, MA;AT & T Bell Laboratories, Murray Hill, NJ
+1984
+Journal of Algorithms

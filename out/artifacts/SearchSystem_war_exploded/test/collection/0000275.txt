@@ -1,0 +1,1 @@
+A storage structure definition language for CODASYL databases

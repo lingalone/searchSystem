@@ -1,0 +1,1 @@
+Structures for mailbox system applications

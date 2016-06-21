@@ -1,0 +1,1 @@
+Structuring transformational developments: a case study based on Earley's recognizer

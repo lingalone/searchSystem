@@ -1,0 +1,4 @@
+Minimizing access pointers into trees and arrays
+Univ. of Illinois, Urbana
+1984
+Journal of Computer and System Sciences

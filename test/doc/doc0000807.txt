@@ -1,0 +1,4 @@
+Multi-version concurrency control scheme for a database system
+Kyoto Univ., Kyoto, Japan;Simon Fraser Univ., British Columbia, Canada;Oregon State Univ., Corvallis, OR
+1984
+Journal of Computer and System Sciences

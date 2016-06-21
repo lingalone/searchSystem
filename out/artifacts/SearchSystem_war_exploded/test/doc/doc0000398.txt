@@ -1,0 +1,4 @@
+An ordered minimal perfect hashing scheme based upon Euler's theorem
+National Chung Hsing Univ., Taichung, Taiwan, Republic of China
+1984
+Information Sciences: an International Journal

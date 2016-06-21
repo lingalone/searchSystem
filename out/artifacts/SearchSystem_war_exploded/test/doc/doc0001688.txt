@@ -1,0 +1,4 @@
+Top-down design and the algebra of communicating processes
+Centre for Mathematics and Computer Science, Amsterdam, Netherlands;University of Leeds, Leeds, UK
+1985
+Science of Computer Programming - Ellis Horwood series in artificial intelligence

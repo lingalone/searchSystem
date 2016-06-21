@@ -1,0 +1,4 @@
+Algorithms for smoothing data on the sphere with tensor product splines
+-
+1984
+Computing

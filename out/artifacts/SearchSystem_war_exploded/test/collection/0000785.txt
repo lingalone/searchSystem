@@ -1,0 +1,1 @@
+Making software visible, operational, and maintainable in a small project environment

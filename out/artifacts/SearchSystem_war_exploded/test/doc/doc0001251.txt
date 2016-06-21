@@ -1,0 +1,4 @@
+An architectural strategy for asynchronous processing
+Linko¨oping Univ., Linko¨oping, Sweden;Linko¨oping Univ., Linko¨oping, Sweden
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

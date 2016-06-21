@@ -1,0 +1,4 @@
+A general incremental evaluator for attribute grammars
+Siemens Research and Technology Laboratories, Princeton, NJ
+1985
+Science of Computer Programming

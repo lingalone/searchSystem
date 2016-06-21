@@ -1,0 +1,4 @@
+A fast voronoi-diagram algorithm with quaternary tree bucketing
+Univ. of Tokyo, Tokyo, Japan;Univ. of Tokyo, Tokyo, Japan;Univ. of Tokyo, Tokyo, Japan
+1984
+Information Processing Letters

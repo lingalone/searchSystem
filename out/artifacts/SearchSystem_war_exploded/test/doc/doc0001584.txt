@@ -1,0 +1,4 @@
+A system organization for parallel image processing
+The Univ. of Texas at Austin, Austin;The Univ. of Texas at Austin, Austin
+1985
+Pattern Recognition - Parallel and other image analysis methods

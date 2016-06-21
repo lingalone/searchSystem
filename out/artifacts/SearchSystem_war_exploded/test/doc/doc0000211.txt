@@ -1,0 +1,4 @@
+Using chunking to solve chess pawn endgames
+Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA
+1984
+Artificial Intelligence

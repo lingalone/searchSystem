@@ -1,0 +1,4 @@
+Transaction management in the design environment
+Univ. of California, Berkeley
+1984
+Proc. of the ICOD-2 workshop on New applications of data bases

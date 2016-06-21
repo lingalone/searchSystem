@@ -1,0 +1,4 @@
+PROUST: an automatic debugger for PASCAL programs
+Yale Univ., New Haven, CT;Yale Univ., New Haven, CT
+1985
+BYTE - Lecture notes in computer science Vol. 174

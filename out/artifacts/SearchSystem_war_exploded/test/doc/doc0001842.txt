@@ -1,0 +1,4 @@
+Virtual time
+Univ. of Southern California, Los Angeles
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

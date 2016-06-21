@@ -1,0 +1,4 @@
+Naive algorithm design techniques—a case study
+Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA
+1985
+Selected and updated papers from the proceedings of the 1982 European conference on Progress in artificial intelligence

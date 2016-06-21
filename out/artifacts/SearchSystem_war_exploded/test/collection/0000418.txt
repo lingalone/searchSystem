@@ -1,0 +1,1 @@
+Deriving structural induction in LCF.

@@ -1,0 +1,4 @@
+Efficient Implementations of the Chinese Remainder Theorem for Sign Detection and Residue Decoding
+Harris Corporation, Melbourne, FL
+1985
+IEEE Transactions on Computers

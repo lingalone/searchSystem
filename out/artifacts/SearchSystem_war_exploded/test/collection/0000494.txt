@@ -1,0 +1,1 @@
+Partial correctness: the term-wise approach

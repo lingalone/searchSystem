@@ -1,0 +1,4 @@
+Task support in an office system
+University of Massachusetts;University of Massachusetts
+1984
+ACM Transactions on Information Systems (TOIS)

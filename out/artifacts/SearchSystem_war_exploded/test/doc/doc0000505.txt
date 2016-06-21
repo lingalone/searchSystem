@@ -1,0 +1,4 @@
+A program complex for solving systems of linear algebraic equations
+V.M. Glushkov Institute of Cybernetics, Kiev, USSR;V.M. Glushkov Institute of Cybernetics, Kiev, USSR;V.M. Glushkov Institute of Cybernetics, Kiev, USSR;V.M. Glushkov Institute of Cybernetics, Kiev, USSR
+1984
+ACM Transactions on Mathematical Software (TOMS)

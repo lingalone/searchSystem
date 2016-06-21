@@ -1,0 +1,4 @@
+Optimal speeding up of parallel algorithms based upon the divide-and-conquer strategy.
+National Chiao Tung Univ., Taiwan;Natonal Tsing Hua Univ., Taiwan
+1984
+Information Sciences: an International Journal

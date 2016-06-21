@@ -1,0 +1,4 @@
+Limitations of concurrency in transaction processing
+IBM Thomas J. Watson Research Center, Yorktown Heights, NY;IBM Thomas J. Watson Research Center, Yorktown Heights, NY
+1985
+ACM Transactions on Database Systems (TODS)

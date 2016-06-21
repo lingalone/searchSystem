@@ -1,0 +1,4 @@
+Scheduling independent tasks on uniform processors
+Univ. of Rochester, Rochester, NY
+1984
+SIAM Journal on Computing

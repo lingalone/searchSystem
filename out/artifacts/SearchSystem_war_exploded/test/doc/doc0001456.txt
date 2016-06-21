@@ -1,0 +1,4 @@
+A linear algorithm for embedding planar graphs using PQ-trees
+Tohoku Univ., Sendai, Japan;Tohoku Univ., Sendai, Japan;Basic Software Corporation, Sendai, Japan;Kyoto Univ., Kyoto, Japan
+1985
+Journal of Computer and System Sciences

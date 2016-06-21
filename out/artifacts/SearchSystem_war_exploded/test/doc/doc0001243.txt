@@ -1,0 +1,4 @@
+Architecture for VHLL: a direct execution approach
+Univ. Pierre et Marie Curie, Paris cedex, France;Univ. Pierre et Marie Curie, Paris cedex, France
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

@@ -1,0 +1,4 @@
+a decision-based framework for comparing hardware compilers
+USC Information Sciences Institute
+1984
+Journal of Systems and Software

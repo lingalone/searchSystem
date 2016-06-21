@@ -1,0 +1,4 @@
+A multiresolution spline with application to image mosaics
+RCA David Sarnoff Research Center;RCA David Sarnoff Research Center
+1983
+ACM Transactions on Graphics (TOG)

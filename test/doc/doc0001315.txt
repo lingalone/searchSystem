@@ -1,0 +1,4 @@
+Analysis of parallelism in nested DO loops
+Heriot-Watt Univ.;Cairo Univ.
+1985
+Journal of Systems and Software

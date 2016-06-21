@@ -1,0 +1,4 @@
+A functional approach to picture manipulation
+Imperial College, London, UK
+1984
+Computer Graphics Forum

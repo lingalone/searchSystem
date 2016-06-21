@@ -1,0 +1,4 @@
+A modular verifiable exception handling mechanism
+IBM T. J. Watson Research Center, Yorktown Heights, NY;Univ. of California at Los Angeles, Los Angeles
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

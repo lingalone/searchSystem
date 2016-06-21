@@ -1,0 +1,4 @@
+Performance of heuristics for a computer resource allocation problem
+Washington State Univ., Pullman, WA
+1984
+SIAM Journal on Algebraic and Discrete Methods

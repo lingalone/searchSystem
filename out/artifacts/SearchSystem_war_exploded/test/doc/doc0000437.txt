@@ -1,0 +1,4 @@
+A priority queue for the all pairs shortest path problem
+Univ. of Canterbury, Christchurch, New Zealand;Ibaraki Univ., Hitachi, Japan
+1984
+Information Processing Letters

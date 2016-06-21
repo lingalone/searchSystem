@@ -1,0 +1,4 @@
+Program abstraction and instantiation
+Univ. of Illinois, Urbana
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

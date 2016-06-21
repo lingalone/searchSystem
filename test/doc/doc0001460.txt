@@ -1,0 +1,4 @@
+Refutational theorem proving using term-rewriting systems
+State Univ. of New York at Stony Brook, Stony Brook
+1985
+Artificial Intelligence

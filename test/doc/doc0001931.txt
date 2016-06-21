@@ -1,0 +1,4 @@
+Identifying Error-Prone Software An Empirical Study
+Purdue Univ., West Lafayette, IN;Purdue Univ., West Lafayette, IN;Univ. of Florida, Gainesville;IBM Corp., San Jose, CA
+1985
+IEEE Transactions on Software Engineering

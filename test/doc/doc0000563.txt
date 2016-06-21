@@ -1,0 +1,4 @@
+An N(superscript)3/2 lower bound on the monotone network complexity of the Boolean convolution
+Universitat Bielefeld, Bielefeld, West Germany
+1984
+Information and Control

@@ -1,0 +1,4 @@
+An Approach to User Specification of Interactive Display Interfaces
+Univ. of Rhode Island, Kingston
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

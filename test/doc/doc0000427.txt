@@ -1,0 +1,4 @@
+Deterministic two-way one-head pushdown automata are very powerful
+Univ. of Paderborn, Paderborn, Fed. Rep. Germany
+1984
+Information Processing Letters - Lecture Notes in Computer Science, no. 173

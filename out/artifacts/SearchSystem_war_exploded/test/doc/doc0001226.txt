@@ -1,0 +1,4 @@
+A framework of a mechanical translation between Japanese and English by analogy principle
+Kyoto Univ., Kyoto, Japan
+1984
+Proc. of the international NATO symposium on Artificial and human intelligence

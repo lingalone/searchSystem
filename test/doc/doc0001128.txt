@@ -1,0 +1,4 @@
+Adequate proof principles for invariance and liveness properties of concurrent programs
+Stanford Univ., Stanford, CA;The Weizmann Institute, Rehovot, Israel
+1984
+Science of Computer Programming

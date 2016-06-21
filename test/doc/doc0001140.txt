@@ -1,0 +1,4 @@
+Algorithm 626: TRICP: a contour plot program triangular meshes
+Konrad-Zuse-Zentrum fu¨r Informationstechnik Berlin
+1984
+ACM Transactions on Mathematical Software (TOMS)

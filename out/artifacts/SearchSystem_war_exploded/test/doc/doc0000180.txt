@@ -1,0 +1,4 @@
+Computation of matrix chain products. Part II
+Univ. of California at San Diego, La Jolla;Univ. of California at San Diego, La Jolla
+1984
+SIAM Journal on Computing

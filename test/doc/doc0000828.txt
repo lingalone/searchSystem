@@ -1,0 +1,4 @@
+A fast sequential method for polygonal approximation of digitized curves
+Linko¨ping Univ., Linko¨ping, Sweden;Linko¨ping Univ., Linko¨ping, Sweden
+1984
+Computer Vision, Graphics, and Image Processing

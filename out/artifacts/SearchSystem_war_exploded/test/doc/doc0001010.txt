@@ -1,0 +1,4 @@
+A multitasking operating system with explicit treatment of recovery points
+Univ. di Milano, Milan, Italy;Univ. di Milano, Milan, Italy
+1984
+Microprocessing and Microprogramming

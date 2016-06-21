@@ -1,0 +1,1 @@
+A new class of similarity measures for robust image registration

@@ -1,0 +1,4 @@
+Analysis of concurrent software by cooperative application of static and dynamic techniques
+Univ. of California at Irvine, Irvine
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

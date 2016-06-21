@@ -1,0 +1,4 @@
+A formulation and comparison of two linear feature selection techniques applicable to statistical classification
+Baylor Univ., Waco, TX;Univ. of Texas at Dallas, Richardson
+1984
+Pattern Recognition

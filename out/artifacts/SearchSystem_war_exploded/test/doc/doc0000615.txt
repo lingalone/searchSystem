@@ -1,0 +1,4 @@
+Axiomatic semantics of communicating sequential processes
+The Ohio State Univ.
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

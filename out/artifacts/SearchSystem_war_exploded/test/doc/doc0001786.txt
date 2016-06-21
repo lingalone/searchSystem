@@ -1,0 +1,4 @@
+Problems and some solutions in customization of natural language database front ends
+IBM T. J. Watson Research Laboratory, Yorktown Heights, NY
+1985
+ACM Transactions on Information Systems (TOIS)

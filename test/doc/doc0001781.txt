@@ -1,0 +1,4 @@
+Transient exponential-Erlang queues and steady-state simulation
+Univ. of Michigan, Ann Arbor
+1985
+Communications of the ACM

@@ -1,0 +1,4 @@
+Observations on optimistic concurrency control schemes
+Univ. of Kaiserslautern, Kaiserslautern, West Germany
+1984
+Information Systems - Special issue: Databases:8Mtheir creation, management and utilization

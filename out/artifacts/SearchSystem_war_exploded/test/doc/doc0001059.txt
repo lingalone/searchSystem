@@ -1,0 +1,4 @@
+An approach to program I/O reference behavior modeling
+Univ. of Warsaw, Warsaw, Poland;Univ. of Warsaw, Warsaw, Poland
+1984
+Performance Evaluation

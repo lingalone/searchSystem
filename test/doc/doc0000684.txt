@@ -1,0 +1,4 @@
+An expert system for mapping acoustic cues into phonetic features
+Concordia Univ., Montreal, Canada;Universita` di Torino, Torino, Italy;Politecnico de Torino, Torino, Italy;Universita` di Torino, Torino, Italy
+1984
+Information Sciences: an International Journal

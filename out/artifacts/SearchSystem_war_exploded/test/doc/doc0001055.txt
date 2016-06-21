@@ -1,0 +1,4 @@
+Response time and display rate in human performance with computers
+University of Maryland, College Park
+1984
+ACM Computing Surveys (CSUR)

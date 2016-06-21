@@ -1,0 +1,1 @@
+An intelligent system can and must use declarative knowledge efficiently

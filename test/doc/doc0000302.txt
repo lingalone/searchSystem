@@ -1,0 +1,4 @@
+Loop-free algorithms for traversing binary trees
+Univ. of London, London, UK;Univ. of London, London, UK
+1984
+BIT

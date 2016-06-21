@@ -1,0 +1,4 @@
+A problem-decomposition method using differences or equivalence relations between states
+Shizuoka Univ., Hamamatsu, Shizuoka, Japan;Univ. of Technology, Toyohashi, Japan
+1985
+Artificial Intelligence

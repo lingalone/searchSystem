@@ -1,0 +1,4 @@
+A bisection method for systems of nonlinear equations
+Rensselaer Polytechnic Institute, Rensselaer, NY;Columbia Univ., New York, NY;Univ. of Utah, Salt Lake City, UT
+1984
+ACM Transactions on Mathematical Software (TOMS)

@@ -1,0 +1,4 @@
+Recursive linear hashing
+University of Melbourne;Royal Melbourne Institute of Technology
+1984
+ACM Transactions on Database Systems (TODS)

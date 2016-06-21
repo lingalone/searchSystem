@@ -1,0 +1,4 @@
+A parallel pipelined relational query processor
+IBM Research;University of Illinois;University of Illinois
+1984
+ACM Transactions on Database Systems (TODS)

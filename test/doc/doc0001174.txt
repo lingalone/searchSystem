@@ -1,0 +1,4 @@
+A programming environment approach to mathematical software development
+Argonne National Laboratory, Argonne, IL
+1984
+Proc. of international conference on Tools, methods and languages for scientific and engineering computation

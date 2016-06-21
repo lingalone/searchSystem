@@ -1,0 +1,4 @@
+Introduction to the formal treatment of testing
+The Ohio State Univ., Columbus
+1984
+Proc. of a symposium on Software validation: inspection-testing-verification-alternatives

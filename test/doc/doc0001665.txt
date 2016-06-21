@@ -1,0 +1,4 @@
+A common interface for accessing document retrieval systems and dbms for retrieval of bibliographic data
+Technical Univ. of Nova Scotia, Halifax, Nova Scotia, Canada;Technical Univ. of Nova Scotia, Halifax, Nova Scotia, Canada
+1985
+Information Processing and Management: an International Journal - Ellis Horwood series in artificial intelligence

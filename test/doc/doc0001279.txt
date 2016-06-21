@@ -1,0 +1,4 @@
+Nested transactions in a combined IRS-DBMS architecture
+Technical Univ. of Darmstadt, Germany
+1984
+Proc. of the third joint BCS and ACM symposium on Research and development in information retrieval

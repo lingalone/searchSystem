@@ -1,0 +1,1 @@
+Embedding a relational data sublanguage in a general purpose programming language

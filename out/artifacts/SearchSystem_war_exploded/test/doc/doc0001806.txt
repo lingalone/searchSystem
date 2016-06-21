@@ -1,0 +1,4 @@
+Alternating simple multihead finite automata
+Yamaguchi Junior College, Hofu, Japan;Yamaguchi Univ., Ube, Japan;Yamaguchi Univ., Ube, Japan;Yamaguchi Univ., Ube, Japan
+1985
+Theoretical Computer Science

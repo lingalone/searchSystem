@@ -1,0 +1,1 @@
+Speaker-independent word recognition in connected speech on the basis of Phoneme recognition

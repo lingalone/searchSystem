@@ -1,0 +1,4 @@
+Transporting the linguistic string project system from a medical to a Navy domain
+Navy Center for Applied Research in Artificial Intelligence, Washington, DC;Courant Institute of Mathematical Sciences, New York, NY
+1985
+ACM Transactions on Information Systems (TOIS)

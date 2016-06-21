@@ -1,0 +1,4 @@
+Selective and locally controlled transport of privileges
+Rutgers University
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS) - Lecture notes in computer science Vol. 174

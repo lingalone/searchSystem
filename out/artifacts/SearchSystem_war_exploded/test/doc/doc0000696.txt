@@ -1,0 +1,4 @@
+An interactive decision support system for energy policy analysis
+New Jersey Institute of Technology, Newark, NJ
+1984
+Communications of the ACM

@@ -1,0 +1,4 @@
+Organization of clustered files for consecutive retrieval
+Univ. of Nebraska;Univ. of Regina;Univ. of Regina
+1984
+ACM Transactions on Database Systems (TODS)

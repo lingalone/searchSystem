@@ -1,0 +1,4 @@
+Parallel and sequential transformations on digital images
+Toyohashi Univ. of Technology, Toyohashi, Japan
+1985
+Pattern Recognition - Parallel and other image analysis methods

@@ -1,0 +1,4 @@
+How can we speed up matrix multiplication?
+State Univ. of New York at Albany, Albany
+1984
+SIAM Review

@@ -1,0 +1,4 @@
+Managing texts and facts in a mixed data base environment
+INRIA, Le Chesnay Ce´dex, France;Univ. Paris-Sud, Orsay, France
+1984
+Proc. of the ICOD-2 workshop on New applications of data bases

@@ -1,0 +1,4 @@
+Deciding the inequivalence of context-free grammars with 1-letter terminal alphabet is &Sgr;p-2--complete
+Univ. des Saarlandes, Saarbru¨cken, West Germany
+1984
+Theoretical Computer Science

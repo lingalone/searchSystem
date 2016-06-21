@@ -1,0 +1,4 @@
+A collocation method for boundary value problems of differential equations with functional arguments
+-;-
+1984
+Computing

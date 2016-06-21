@@ -1,0 +1,4 @@
+DASS: a data administration support system
+Bell Canada, Montreal, Canada;Concordia University, Montreal, Canada
+1984
+Journal of Systems and Software - Special double issue on the entity-relationship approach to databases and related software

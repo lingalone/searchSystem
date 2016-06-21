@@ -1,0 +1,4 @@
+Computer aided layout of entity relationship diagrams
+Universita di Roma;IASI, Roma, Italy;Universita di Roma
+1984
+Journal of Systems and Software - Special double issue on the entity-relationship approach to databases and related software

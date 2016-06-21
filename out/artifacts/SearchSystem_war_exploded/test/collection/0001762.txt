@@ -1,0 +1,1 @@
+Application of SQL/N to the attribute-relation associations implicit in functional dependencies

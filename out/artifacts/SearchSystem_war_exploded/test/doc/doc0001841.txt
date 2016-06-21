@@ -1,0 +1,4 @@
+Data types are values
+Xerox Corp., Palo Alto Research Center, Palo Alto, CA;Cornell Univ., Ithaca, NY
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

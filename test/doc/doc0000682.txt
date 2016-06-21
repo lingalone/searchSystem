@@ -1,0 +1,4 @@
+Connected spoken word recognition algorithms by constant time delay DP, O (n) DP and augmented continuous DP matching
+Toyohashi Univ. of Technology, Toyohashi, Japan
+1984
+Information Sciences: an International Journal

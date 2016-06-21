@@ -1,0 +1,4 @@
+MZnet: mail service for personal micro-computer systems
+Network Management Associates, and Univ. of California at Irvine, Irvine;Univ. of California at Irvine, Irvine;Univ. of California at Los Angeles, Los Angeles
+1984
+Proc. of the IFIP WG 6.5 working conference on Computer-based message services

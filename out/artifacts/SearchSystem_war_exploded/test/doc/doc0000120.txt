@@ -1,0 +1,4 @@
+LISP: a gentle introduction to symbolic computation
+Carnegie-Mellon Univ., Pittsburgh, PA
+1984
+LISP: a gentle introduction to symbolic computation

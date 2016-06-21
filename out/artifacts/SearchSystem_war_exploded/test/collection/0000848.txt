@@ -1,0 +1,1 @@
+STROBE: a structured approach to observation of the decision-making environment.

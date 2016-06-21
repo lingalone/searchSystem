@@ -1,0 +1,4 @@
+Constraint preserving and lossless database transformations
+Towson State Univ., Towson, MD
+1984
+Information Systems - Special issue: Databases:8Mtheir creation, management and utilization

@@ -1,0 +1,4 @@
+Insertion and compaction algorithms in sequentially allocated storage
+Bell Laboratories, Murray Hill, NJ;Bell Laboratories, Murray Hill, NJ
+1984
+SIAM Journal on Computing

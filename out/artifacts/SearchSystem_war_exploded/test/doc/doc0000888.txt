@@ -1,0 +1,4 @@
+Proving correctness and automatic synthesis of parallel programs
+-
+1984
+Algorithms, software and hardware of parallel computers

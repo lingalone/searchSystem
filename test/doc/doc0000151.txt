@@ -1,0 +1,4 @@
+An extension of conflict-free multivalued dependency sets
+Musashino Electrical Communication Laboratory
+1984
+ACM Transactions on Database Systems (TODS)

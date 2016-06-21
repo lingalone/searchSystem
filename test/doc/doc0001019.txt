@@ -1,0 +1,4 @@
+Solving low-density subset sum problems
+AT&T Bell Laboratories, Murray Hill, NJ;AT&T Bell Laboratories, Murray Hill, NJ
+1985
+Journal of the ACM (JACM)

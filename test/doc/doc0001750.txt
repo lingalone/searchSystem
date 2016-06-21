@@ -1,0 +1,4 @@
+Estimating the cost of updates in a relational database
+IBM Research Laboratory, San Jose, CA;IBM Research Laboratory, San Jose, CA
+1985
+ACM Transactions on Database Systems (TODS)

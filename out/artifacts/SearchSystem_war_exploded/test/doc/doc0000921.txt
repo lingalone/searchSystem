@@ -1,0 +1,4 @@
+A display editor with random access and continuous control
+Georgia Institute of Technology, Atlanta
+1984
+International Journal of Man-Machine Studies

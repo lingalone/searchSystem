@@ -1,0 +1,4 @@
+Partial match retrieval in implicit data structures
+The Pennsylvania State Univ., University Park, PA;Univ. des Saarlandes, Saarbru¨cken, West Germany;Univ. of Waterloo, Waterloo, Ont., Canada
+1984
+Information Processing Letters

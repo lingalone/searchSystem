@@ -1,0 +1,4 @@
+The complexity of problems on probabilistic, nondeterministic, and alternating decision trees
+Univ. of Washington, Seattle;Univ. of Washington, Seattle
+1985
+Journal of the ACM (JACM)

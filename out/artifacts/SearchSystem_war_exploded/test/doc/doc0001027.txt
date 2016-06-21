@@ -1,0 +1,4 @@
+Interfacing Solid Modeling to CAD and CAM: Data Structures and Algorithms for Decomposing a Solid
+Univ. of Michigan
+1984
+Computer

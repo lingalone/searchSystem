@@ -1,0 +1,4 @@
+Logical aspects in the study of tree languages
+Lehrstuhl fu¨r Informatik II, Aachen, West Germany
+1984
+Proc. of the conference on Ninth colloquium on trees in algebra and programming

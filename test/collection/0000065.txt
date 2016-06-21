@@ -1,0 +1,1 @@
+Direct file organization for lemmatized text retrieval

@@ -1,0 +1,4 @@
+ID: an intelligent information dictionary system
+Hewlett Packard Laboratories;Hewlett Packard Laboratories
+1984
+Journal of Systems and Software - Special double issue on the entity-relationship approach to databases and related software

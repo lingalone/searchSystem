@@ -1,0 +1,4 @@
+Computationally efficient algorithms for a one-time pad scheme
+Univ. of Kansas, Lawrence;Louisiana State Univ., Baton Rouge;Univ. of Kansas, Lawrence
+1984
+International Journal of Parallel Programming

@@ -1,0 +1,4 @@
+A new approach to program verification
+Indian Statistical Institute, Calcutta, India;Southern Illinois Univ., Carbondale, IL
+1984
+Computers and Electrical Engineering - Special issue: reliability and verification of computing systems

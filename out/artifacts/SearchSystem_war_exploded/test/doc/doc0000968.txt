@@ -1,0 +1,4 @@
+A note on bounded-reversal multipushdown machines
+Polish Academy of Sciences, Warsaw, Poland
+1984
+Information Processing Letters

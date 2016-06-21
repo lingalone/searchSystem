@@ -1,0 +1,4 @@
+On the factorization of block-tridiagonals without storage constraints
+NASA Ames Research Center, Moffett Field, CA
+1985
+SIAM Journal on Scientific and Statistical Computing

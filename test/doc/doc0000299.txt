@@ -1,0 +1,4 @@
+Some performance tests of convex hull algorithms
+Virginia Polytechnic Institute and State Univ., Blacksburg, VA;Virginia Polytechnic Institute and State Univ., Blacksburg, VA
+1984
+BIT

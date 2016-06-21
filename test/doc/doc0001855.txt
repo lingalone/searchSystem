@@ -1,0 +1,4 @@
+A portable syntax analyzer for microcomputers
+Al Azhar Univ., Cairo, Egypt;Al Azhar Univ., Cairo, Egypt
+1985
+Computer Languages

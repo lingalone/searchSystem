@@ -1,0 +1,4 @@
+Query Processing in a Fragmented Relational Distributed System: Mermaid
+Univ. of Illinois at Chicago, Chicago;Iowa State Univ., Ames;System Development Corp., Santa Monica, CA;System Development Corp., Santa Monica, CA;System Development Corp., Santa Monica, CA
+1985
+IEEE Transactions on Software Engineering - Annals of discrete mathematics, 24

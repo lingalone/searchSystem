@@ -1,0 +1,4 @@
+A new method for the computation of digital filter coefficients—Part I
+Univ. of Technology, Leicestershire, UK
+1985
+Simulation

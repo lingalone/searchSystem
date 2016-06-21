@@ -1,0 +1,4 @@
+An application of Cohen's result on star height to the theory of control structures
+Ibaraki Univ., Hitachi, Japan
+1984
+Journal of Computer and System Sciences

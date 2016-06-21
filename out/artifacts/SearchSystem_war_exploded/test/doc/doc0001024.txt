@@ -1,0 +1,4 @@
+Design and implementation of a very small linear algebra program package
+Univ. of Ottawa, Ottawa, Ont., Canada
+1985
+Communications of the ACM - Special section on computer architecture

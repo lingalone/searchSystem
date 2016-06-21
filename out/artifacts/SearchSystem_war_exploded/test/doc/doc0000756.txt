@@ -1,0 +1,4 @@
+A general-purpose global optimizer: implementation and applications
+C.N.R.S.-E.S.E., Gif sur Yvette, France;C.N.R.S.-E.S.E., Gif sur Yvette, France;INSERM, Paris, France;INSERM, Paris, France
+1984
+Mathematics and Computers in Simulation

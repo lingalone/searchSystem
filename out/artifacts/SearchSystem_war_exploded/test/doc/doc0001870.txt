@@ -1,0 +1,4 @@
+Noncorrecting syntax error recovery
+Bayerische Akademie der Wissenschaften, Munich, W. Germany
+1985
+ACM Transactions on Programming Languages and Systems (TOPLAS)

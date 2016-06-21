@@ -1,0 +1,4 @@
+ELSA - an extensible programming system
+Univ. of Manchester, Manchester, UK
+1983
+Proc. IFIP working conference on Programming Languages and System Design

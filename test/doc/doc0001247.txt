@@ -1,0 +1,4 @@
+Obtaining a secure, fault-tolerant, distributed system with maximized performance
+GMD Research Laboratory at the Technical Univ. of Berlin;GMD Research Laboratory at the Technical Univ. of Berlin
+1984
+Proc. of the IFIP WG 10.3 workshop on Concurrent languages in distributed systems: hardware supported implementation

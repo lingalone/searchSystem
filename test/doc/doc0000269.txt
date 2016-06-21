@@ -1,0 +1,4 @@
+Translation of attribute grammars into procedures
+Tokyo Institute of Technology, Tokyo, Japan
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

@@ -1,0 +1,4 @@
+Multiple inheritance in simula-like languages
+University of Oslo, Blindern, Oslo, Norway
+1985
+BIT

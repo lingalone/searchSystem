@@ -1,0 +1,4 @@
+DIF: a framework for VLSI multi-level representation
+Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA;Carnegie-Mellon Univ., Pittsburgh, PA
+1984
+Integration, the VLSI Journal

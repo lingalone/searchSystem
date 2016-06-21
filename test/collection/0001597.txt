@@ -1,0 +1,1 @@
+An efficient formula for linear recurrences

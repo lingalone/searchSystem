@@ -1,0 +1,4 @@
+An efficient formula for linear recurrences
+General Electric R&D Center, Schenectady, NY
+1985
+SIAM Journal on Computing

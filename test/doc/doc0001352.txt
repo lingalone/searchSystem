@@ -1,0 +1,4 @@
+A natural language front end to databases with evaluative feedback
+Univ. of Cambridge, Cambridge, UK;Univ. of Cambridge, Cambridge, UK
+1984
+Proc. of the ICOD-2 workshop on New applications of data bases

@@ -1,0 +1,4 @@
+A fast file system for UNIX
+Computer Systems Research Group;Computer Systems Research Group;Computer Systems Research Group;Computer Systems Research Group
+1984
+ACM Transactions on Computer Systems (TOCS)

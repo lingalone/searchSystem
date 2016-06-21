@@ -1,0 +1,1 @@
+Determination of the 3D border by repeated elimination of internal surfaces

@@ -1,0 +1,4 @@
+Algebraic semantics of recursive flowchart schemes
+Christian-Albrechts-Universitat Kiel, Kiel, West Germany
+1984
+Information and Control

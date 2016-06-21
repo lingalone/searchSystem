@@ -1,0 +1,4 @@
+Randomized and deterministic simulations of PRAMs by parallel machines with restricted granularity of parallel memories
+Univ. des Saarlandes, Saarbru¨cken, West Germany;New York Univ., New York
+1984
+Acta Informatica

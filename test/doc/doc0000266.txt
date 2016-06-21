@@ -1,0 +1,4 @@
+Using message passing for distributed programming: proof rules and disciplines
+University of Arizona;Cornell University, Ithaca, NY
+1984
+ACM Transactions on Programming Languages and Systems (TOPLAS)

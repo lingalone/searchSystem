@@ -1,0 +1,4 @@
+Safe data type specifications
+-
+1984
+IEEE Transactions on Software Engineering

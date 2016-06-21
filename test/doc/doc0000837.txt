@@ -1,0 +1,4 @@
+The ω sequence problem for DOL systems is decidable
+University of Waterloo, Waterloo, Ontario, Canada;University of Turku, Turku, Finland
+1984
+Journal of the ACM (JACM)
